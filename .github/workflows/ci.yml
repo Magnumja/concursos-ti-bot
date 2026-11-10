@@ -7,11 +7,71 @@ on:
 jobs:
   testes:
     runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python: ["3.10", "3.12"] # 3.10 = Ubuntu 22.04, 3.12 = Ubuntu 24.04
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
-          python-version: "3.12"
+          python-version: ${{ matrix.python }}
           cache: pip
       - run: pip install -r requirements.txt pytest
       - run: python -m pytest -q
+
+  # Roda deploy/instalar.sh num Ubuntu com systemd, como numa VPS, contra um Telegram falso.
+  instalador:
+    if: github.event_name == 'push'
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Telegram falso
+        run: |
+          cat > /tmp/telegram_falso.py <<'EOF'
+          import json, time
+          from http.server import BaseHTTPRequestHandler, ThreadingHTTPServer
+
+          class H(BaseHTTPRequestHandler):
+              def do_POST(self):
+                  self.rfile.read(int(self.headers.get("Content-Length", 0)))
+                  metodo = self.path.rsplit("/", 1)[-1]
+                  print(metodo, flush=True)
+                  if metodo == "getUpdates":
+                      time.sleep(2)
+                  self.send_response(200)
+                  self.send_header("Content-Type", "application/json")
+                  self.end_headers()
+                  resultado = [] if metodo == "getUpdates" else True
+                  self.wfile.write(json.dumps({"ok": True, "result": resultado}).encode())
+
+              def log_message(self, *a):
+                  pass
+
+          ThreadingHTTPServer(("127.0.0.1", 8081), H).serve_forever()
+          EOF
+          nohup python3 /tmp/telegram_falso.py > /tmp/telegram.log 2>&1 &
+
+      - name: Rodar o instalador
+        run: |
+          git clone -q "$GITHUB_WORKSPACE" "$HOME/concursos-ti-bot"
+          cat > "$HOME/concursos-ti-bot/.env" <<EOF
+          TELEGRAM_BOT_TOKEN=teste
+          TELEGRAM_CHAT_ID=@teste
+          TELEGRAM_API_BASE=http://127.0.0.1:8081
+          DATA_DIR=$HOME/.concursos-ti-bot
+          MAX_ENVIO=0
+          EOF
+          bash deploy/instalar.sh
+
+      - name: Rodar de novo (atualização)
+        run: bash deploy/instalar.sh
+
+      - name: Conferir o serviço
+        run: |
+          sleep 10
+          systemctl is-active concursos-ti-bot
+          grep -q setMyCommands /tmp/telegram.log
+          grep -q getUpdates /tmp/telegram.log
+          test -s "$HOME/.concursos-ti-bot/estado.json"
+          sudo journalctl -u concursos-ti-bot -n 20 --no-pager
