@@ -6,12 +6,13 @@ import logging
 import os
 import threading
 import time
+from collections import Counter
 from dataclasses import dataclass, field
 from datetime import date, datetime, timedelta, timezone
 from pathlib import Path
 
 from . import formato
-from .analise import analisar, norm
+from .analise import ESTADOS, analisar, norm, uf_de, ufs_do_concurso
 from .modelos import Concurso
 from .pci import Cliente, listar_candidatos, parse_detalhe
 from .telegram import Telegram, TelegramErro
@@ -25,7 +26,8 @@ Concursos públicos abertos com vagas de tecnologia, já filtrados e analisados.
 /novos — os que entraram nos últimos 7 dias
 /prazo — inscrições que encerram em até 7 dias
 /top — maiores salários
-/uf SP — filtra por estado
+/estado MS ou /estado Mato Grosso do Sul — filtra por estado
+/estado — quantos concursos há em cada estado
 /buscar termo — órgão, cargo ou cidade
 /comunidade — link da comunidade
 /parar — deixa de receber os avisos
@@ -37,7 +39,7 @@ COMANDOS = [
     ("novos", "Novidades da semana"),
     ("prazo", "Encerram em até 7 dias"),
     ("top", "Maiores salários"),
-    ("uf", "Filtrar por estado: /uf SP"),
+    ("estado", "Filtrar: /estado MS ou /estado Mato Grosso do Sul"),
     ("buscar", "Buscar: /buscar analista"),
     ("comunidade", "Link da comunidade"),
     ("ajuda", "Como usar"),
@@ -71,7 +73,7 @@ class Config:
             comunidade=env.get("COMMUNITY_URL", "").strip(),
             max_envio=int(env.get("MAX_ENVIO") or 10),
             intervalo_horas=float(env.get("INTERVALO_HORAS") or 6),
-            ufs={u.upper() for u in lista("UFS")},
+            ufs={uf_de(u) or u.upper() for u in lista("UFS")},
             data_dir=Path(env.get("DATA_DIR") or "data"),
             api_base=env.get("TELEGRAM_API_BASE") or "https://api.telegram.org",
         )
@@ -166,7 +168,7 @@ def ordenados(concursos) -> list[Concurso]:
 
 
 def _na_uf(c: Concurso, ufs: set[str]) -> bool:
-    return not ufs or c.uf == "Nacional" or bool(ufs & set(norm(c.uf).upper().replace("/", " ").split()))
+    return not ufs or c.uf == "Nacional" or bool(ufs & ufs_do_concurso(c.uf))
 
 
 def pendentes(estado: Estado, cfg: Config) -> list[Concurso]:
@@ -239,11 +241,18 @@ def responder(tg: Telegram, estado: Estado, cfg: Config, msg: dict, hoje: date) 
     elif cmd == "top":
         top = sorted((c for c in todos if c.salario_max), key=lambda c: -c.salario_max)[:10]
         listar(top, "Maiores salários")
-    elif cmd == "uf":
+    elif cmd in ("estado", "uf"):
         if not arg:
-            tg.enviar(chat, "Informe o estado. Exemplo: /uf SP")
+            contagem = Counter(uf for c in todos for uf in ufs_do_concurso(c.uf))
+            linhas = [f"{uf} — {ESTADOS[uf]}: {n}" for uf, n in contagem.most_common()]
+            tg.enviar(chat, "<b>Concursos de TI por estado</b>\n\n" + "\n".join(linhas or ["Nenhum agora."])
+                      + "\n\nEnvie /estado MS ou /estado Mato Grosso do Sul")
+            return
+        uf = uf_de(arg)
+        if not uf:
+            tg.enviar(chat, "Não reconheci esse estado. Use a sigla ou o nome: /estado RJ ou /estado Rio de Janeiro")
         else:
-            listar([c for c in todos if c.uf != "Nacional" and _na_uf(c, {arg.upper()})], f"Concursos de TI — {arg.upper()}")
+            listar([c for c in todos if uf in ufs_do_concurso(c.uf)], f"Concursos de TI — {ESTADOS[uf]} ({uf})")
     elif cmd == "buscar":
         if not arg:
             tg.enviar(chat, "Informe o termo. Exemplo: /buscar analista de dados")

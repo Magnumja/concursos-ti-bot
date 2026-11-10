@@ -103,7 +103,8 @@ Nesse modo, cada pessoa que mandar `/start` ao bot passa a receber os avisos, e 
 | `/novos` | Os que entraram nos últimos 7 dias |
 | `/prazo` | Inscrições que encerram em até 7 dias |
 | `/top` | Maiores salários |
-| `/uf SP` | Filtra por estado |
+| `/estado MS` ou `/estado Mato Grosso do Sul` | Filtra por estado, pela sigla ou pelo nome |
+| `/estado` | Quantos concursos há em cada estado |
 | `/buscar analista de dados` | Busca por órgão, cargo ou cidade |
 | `/ver_abc123` | Cartão completo de um concurso (o link vem nas listas) |
 | `/comunidade` | Link da comunidade |
@@ -126,7 +127,7 @@ python -m concursos_ti preview
 | `TELEGRAM_BOT_TOKEN` | — | Token do bot (obrigatório) |
 | `TELEGRAM_CHAT_ID` | — | Destino dos avisos; aceita vários, separados por vírgula |
 | `COMMUNITY_URL` | — | Link da comunidade em cada mensagem |
-| `UFS` | todos | Só avisa concursos destes estados, além dos nacionais |
+| `UFS` | todos | Só avisa concursos destes estados, além dos nacionais. Sigla ou nome: `MS,Rio de Janeiro` |
 | `MAX_ENVIO` | `10` | Máximo de concursos por rodada |
 | `INTERVALO_HORAS` | `6` | Intervalo entre rodadas no modo interativo |
 

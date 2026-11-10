@@ -192,6 +192,31 @@ def estilo_da_banca(banca: str) -> str:
     return next((e for _, nome, _, e in BANCAS if nome == banca), "")
 
 
+ESTADOS = {
+    "AC": "Acre", "AL": "Alagoas", "AP": "Amapá", "AM": "Amazonas", "BA": "Bahia",
+    "CE": "Ceará", "DF": "Distrito Federal", "ES": "Espírito Santo", "GO": "Goiás",
+    "MA": "Maranhão", "MT": "Mato Grosso", "MS": "Mato Grosso do Sul", "MG": "Minas Gerais",
+    "PA": "Pará", "PB": "Paraíba", "PR": "Paraná", "PE": "Pernambuco", "PI": "Piauí",
+    "RJ": "Rio de Janeiro", "RN": "Rio Grande do Norte", "RS": "Rio Grande do Sul",
+    "RO": "Rondônia", "RR": "Roraima", "SC": "Santa Catarina", "SP": "São Paulo",
+    "SE": "Sergipe", "TO": "Tocantins",
+}
+_UF_POR_NOME = {norm(nome): uf for uf, nome in ESTADOS.items()}
+
+
+def uf_de(texto: str) -> str:
+    """'MS', 'ms', 'Mato Grosso do Sul' ou 'mato grosso do sul' -> 'MS'; '' se não reconhecer."""
+    t = re.sub(r"^estado(?: d[aeo])?\s+", "", norm(texto))
+    if t.upper() in ESTADOS:
+        return t.upper()
+    return _UF_POR_NOME.get(t, "")
+
+
+def ufs_do_concurso(uf: str) -> set[str]:
+    """'SP/MS', 'SP, MT e MS' ou 'Nacional' -> conjunto de siglas."""
+    return set(re.findall(r"\b[A-Z]{2}\b", uf)) & ESTADOS.keys()
+
+
 def uf_do_titulo(titulo: str) -> str:
     m = re.search(r" - ([A-Z]{2}(?:(?:/|, | e )[A-Z]{2})*)\b", titulo)
     return m.group(1) if m else ""

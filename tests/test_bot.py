@@ -268,14 +268,46 @@ def test_start_inscreve_e_parar_remove(estado):
 def test_comandos_de_consulta(estado):
     assert comando(estado, "/concursos")[0][1].count("/ver_") == 3
     assert comando(estado, "/concursos@MeuBot")[0][1].count("/ver_") == 3
-    assert "DPE" in comando(estado, "/uf am")[0][1]
+    assert "DPE" in comando(estado, "/uf am")[0][1]  # atalho antigo continua valendo
     assert "Birigui" in comando(estado, "/buscar birigui")[0][1]
     assert "Nada encontrado" in comando(estado, "/buscar xyzzy")[0][1]
     assert comando(estado, "/top")[0][1].index("TRF3") < comando(estado, "/top")[0][1].index("Birigui")
-    assert "Exemplo" in comando(estado, "/uf")[0][1]
     assert "https://t.me/grupo" in comando(estado, "/comunidade")[0][1]
     assert "/ajuda" in comando(estado, "/naoexiste")[0][1]
     assert comando(estado, "bom dia") == []
+
+
+@pytest.mark.parametrize("texto,uf", [
+    ("MS", "MS"), ("ms", "MS"), ("Mato Grosso do Sul", "MS"), ("mato grosso do sul", "MS"),
+    ("Mato Grosso", "MT"), ("RJ", "RJ"), ("Rio de Janeiro", "RJ"), ("sao paulo", "SP"),
+    ("São Paulo", "SP"), ("Estado do Amazonas", "AM"), ("distrito federal", "DF"),
+    ("Narnia", ""), ("XX", ""), ("", ""),
+])
+def test_reconhece_estado_por_sigla_ou_nome(texto, uf):
+    assert analise.uf_de(texto) == uf
+
+
+def test_siglas_do_concurso():
+    assert analise.ufs_do_concurso("SP/MS") == {"SP", "MS"}
+    assert analise.ufs_do_concurso("SP, MT e MS") == {"SP", "MT", "MS"}
+    assert analise.ufs_do_concurso("Nacional") == set()
+
+
+def test_comando_estado(estado):
+    for pedido in ("/estado MS", "/estado Mato Grosso do Sul", "/estado mato grosso do sul"):
+        texto = comando(estado, pedido)[0][1]
+        assert "Mato Grosso do Sul (MS)" in texto and "TRF3" in texto  # TRF3 é SP/MS
+    am = comando(estado, "/estado Amazonas")[0][1]
+    assert "DPE" in am and "TRF3" not in am
+    assert "Nada encontrado" in comando(estado, "/estado Rio de Janeiro")[0][1]
+    assert "Não reconheci" in comando(estado, "/estado Narnia")[0][1]
+    resumo = comando(estado, "/estado")[0][1]
+    assert "SP — São Paulo: 2" in resumo and "AM — Amazonas: 1" in resumo
+
+
+def test_filtro_ufs_aceita_nome_do_estado():
+    cfg = Config.do_ambiente({"UFS": "Mato Grosso do Sul, rj"})
+    assert cfg.ufs == {"MS", "RJ"}
 
 
 def test_ver_mostra_o_card(estado):
