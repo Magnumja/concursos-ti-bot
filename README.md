@@ -75,6 +75,32 @@ Pronto. O bot passa a rodar sozinho às 7h, 11h, 15h e 19h (Brasília) e envia a
 
 No GitHub Actions o bot só envia. Para ele também **responder comandos**, deixe-o rodando em qualquer máquina que fique ligada — seu computador, um Raspberry Pi ou uma VPS gratuita.
 
+### Numa VPS grátis (24h no ar)
+
+Funciona em qualquer servidor Ubuntu ou Debian. O [Oracle Cloud Always Free](https://www.oracle.com/cloud/free/) dá um de graça para sempre (pede cartão só para verificar a identidade).
+
+1. Crie a conta e vá em **Compute → Instances → Create instance**.
+2. Em *Image*, escolha **Ubuntu 24.04**. Em *Shape*, uma opção marcada como **Always Free** (`VM.Standard.E2.1.Micro` ou `Ampere A1`).
+3. Em *Add SSH keys*, clique em **Save private key** e guarde o arquivo `.key`.
+4. Crie a instância e copie o **IP público**. Não precisa abrir nenhuma porta: o bot só faz conexões de saída.
+5. Entre no servidor:
+
+   ```bash
+   chmod 600 ~/Downloads/ssh-key-*.key && ssh -i ~/Downloads/ssh-key-*.key ubuntu@SEU_IP
+   ```
+
+6. Já no servidor, instale o bot. O script pergunta o token (não aparece ao digitar), o canal e o link da comunidade:
+
+   ```bash
+   bash <(curl -fsSL https://raw.githubusercontent.com/Magnumja/concursos-ti-bot/main/deploy/instalar.sh)
+   ```
+
+Pronto: o bot vira um serviço do sistema, volta sozinho se o servidor reiniciar e continua de onde o GitHub Actions parou, sem reenviar nada. Para atualizar, rode o mesmo comando de novo. Para ver o log: `journalctl -u concursos-ti-bot -f`.
+
+Com a VPS no ar, **desligue o envio pelo GitHub Actions** para os avisos não chegarem em dobro: aba *Actions* → **Enviar concursos** → *Disable workflow*.
+
+### No seu computador
+
 ```bash
 git clone https://github.com/Magnumja/concursos-ti-bot.git
 ```
