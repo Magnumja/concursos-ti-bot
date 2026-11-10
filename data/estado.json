@@ -208,16 +208,16 @@
    ],
    "visto_em": "2026-11-09"
   },
-  "camara-de-portel-pa-abre-concurso-publico-com-salarios-de-ate-4723": {
-   "url": "https://www.pciconcursos.com.br/noticias/camara-de-portel-pa-abre-concurso-publico-com-salarios-de-ate-4723",
+  "camara-de-portel-pa-retifica-edital-de-concurso-publico": {
+   "url": "https://www.pciconcursos.com.br/noticias/camara-de-portel-pa-retifica-edital-de-concurso-publico",
    "orgao": "Câmara de Portel",
    "uf": "PA",
-   "titulo": "Câmara de Portel - PA abre concurso público com salários de até R$ 4.723,31",
+   "titulo": "Câmara de Portel - PA retifica edital de concurso público",
    "vagas": "27 vagas",
    "salario_max": 4723.31,
    "nivel": "Fundamental / Médio / Técnico / Superior",
    "inscricao_inicio": "",
-   "inscricao_fim": "2026-11-15",
+   "inscricao_fim": "2026-11-29",
    "cargos_ti": [
     "Técnico de Informática (1 vaga)"
    ],
@@ -225,13 +225,15 @@
     "suporte"
    ],
    "taxa": "R$ 80,00 a R$ 100,00",
-   "prova": "29 de novembro de 2026",
+   "prova": "20 de dezembro de 2026",
    "banca": "Instituto Vicente Nelson",
    "site_inscricao": "",
    "editais": [
-    "EDITAL DE CONCURSO PÚBLICO Nº 001/2026"
+    "EDITAL DE CONCURSO PÚBLICO Nº 001/2026",
+    "PRIMEIRA RETIFICAÇÃO DO EDITAL DE ABERTURA",
+    "RETIFICAÇÃO Nº 001/2026"
    ],
-   "visto_em": "2026-11-09"
+   "visto_em": "2026-11-10"
   },
   "camara-de-sao-francisco-do-sul-sc-retifica-edital-de-concurso-publico": {
    "url": "https://www.pciconcursos.com.br/noticias/camara-de-sao-francisco-do-sul-sc-retifica-edital-de-concurso-publico",
@@ -284,6 +286,31 @@
     "EDITAL Nº 1"
    ],
    "visto_em": "2026-11-09"
+  },
+  "cis-itu-sp-abre-concurso-publico-com-salarios-de-ate-7553": {
+   "url": "https://www.pciconcursos.com.br/noticias/cis-itu-sp-abre-concurso-publico-com-salarios-de-ate-7553",
+   "orgao": "CIS - Companhia Ituana de Saneamento",
+   "uf": "SP",
+   "titulo": "CIS Itu - SP abre concurso público com salários de até R$ 7.553,69",
+   "vagas": "28 vagas",
+   "salario_max": 7553.69,
+   "nivel": "Fundamental / Médio / Técnico / Superior",
+   "inscricao_inicio": "",
+   "inscricao_fim": "2026-12-07",
+   "cargos_ti": [
+    "Técnico em Informática (1 vaga)"
+   ],
+   "perfis": [
+    "suporte"
+   ],
+   "taxa": "R$ 42,00 a R$ 60,00",
+   "prova": "",
+   "banca": "",
+   "site_inscricao": "www.integribrasil.com.br",
+   "editais": [
+    "EDITAL Nº 001/2026"
+   ],
+   "visto_em": "2026-11-10"
   },
   "comando-do-1-distrito-naval-rj-mg-abre-vagas-para-oficiais-temporarios-de-nivel-superior": {
    "url": "https://www.pciconcursos.com.br/noticias/comando-do-1-distrito-naval-rj-mg-abre-vagas-para-oficiais-temporarios-de-nivel-superior",
@@ -516,6 +543,31 @@
     "EDITAL DE ABERTURA - CONCURSO PÚBLICO Nº 2/2026"
    ],
    "visto_em": "2026-11-09"
+  },
+  "fundacao-escola-tecnica-liberato-salzano-vieira-da-cunha-rs-abre-concurso-publico-para-diversos-cargos": {
+   "url": "https://www.pciconcursos.com.br/noticias/fundacao-escola-tecnica-liberato-salzano-vieira-da-cunha-rs-abre-concurso-publico-para-diversos-cargos",
+   "orgao": "Fundação Escola Técnica Liberato Salzano Vieira da Cunha",
+   "uf": "RS",
+   "titulo": "Fundação Escola Técnica Liberato Salzano Vieira da Cunha - RS abre concurso público para diversos cargos",
+   "vagas": "34 vagas",
+   "salario_max": 10370.94,
+   "nivel": "Médio / Superior",
+   "inscricao_inicio": "",
+   "inscricao_fim": "2026-12-08",
+   "cargos_ti": [
+    "Professor de Ciência da Computação (1 vaga)"
+   ],
+   "perfis": [
+    "docencia"
+   ],
+   "taxa": "R$ 124,02 a R$ 282,79",
+   "prova": "7 de março de 2027",
+   "banca": "",
+   "site_inscricao": "www.legalleconcursos.com.br",
+   "editais": [
+    "EDITAL DE ABERTURA - CONCURSO PÚBLICO 001/2026"
+   ],
+   "visto_em": "2026-11-10"
   },
   "ifmg-abre-processo-seletivo-para-professores-substitutos-em-sao-joao-evangelista": {
    "url": "https://www.pciconcursos.com.br/noticias/ifmg-abre-processo-seletivo-para-professores-substitutos-em-sao-joao-evangelista",
@@ -899,31 +951,6 @@
    ],
    "visto_em": "2026-11-09"
   },
-  "mgs-abre-processo-seletivo-com-vagas-imediatas-e-cadastro-de-reserva-em-diversas-areas": {
-   "url": "https://www.pciconcursos.com.br/noticias/mgs-abre-processo-seletivo-com-vagas-imediatas-e-cadastro-de-reserva-em-diversas-areas",
-   "orgao": "MGS - Minas Gerais Administração e Serviços S.A.",
-   "uf": "Nacional",
-   "titulo": "MGS abre processo seletivo com vagas imediatas e cadastro de reserva em diversas áreas",
-   "vagas": "643 vagas",
-   "salario_max": 3911.17,
-   "nivel": "Fundamental / Médio / Técnico",
-   "inscricao_inicio": "",
-   "inscricao_fim": "2026-11-09",
-   "cargos_ti": [
-    "Técnico Especializado em Informática"
-   ],
-   "perfis": [
-    "geral"
-   ],
-   "taxa": "R$ 60,36 a R$ 71,17",
-   "prova": "13 de dezembro de 2026",
-   "banca": "IBFC",
-   "site_inscricao": "www.ibfc.org.br",
-   "editais": [
-    "EDITAL MGS Nº 05/2026"
-   ],
-   "visto_em": "2026-11-09"
-  },
   "municipio-de-nova-trento-sc-abre-tres-novos-processos-seletivos-com-salarios-de-ate-14189": {
    "url": "https://www.pciconcursos.com.br/noticias/municipio-de-nova-trento-sc-abre-tres-novos-processos-seletivos-com-salarios-de-ate-14189",
    "orgao": "Prefeitura de Nova Trento",
@@ -1291,31 +1318,6 @@
    ],
    "visto_em": "2026-11-09"
   },
-  "prefeitura-de-firmino-alves-ba-abre-selecao-com-salarios-de-ate-8000": {
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-firmino-alves-ba-abre-selecao-com-salarios-de-ate-8000",
-   "orgao": "Prefeitura de Firmino Alves",
-   "uf": "BA",
-   "titulo": "Prefeitura de Firmino Alves - BA abre seleção com salários de até R$ 8.000,00",
-   "vagas": "50 vagas + 25 CR",
-   "salario_max": 8000.0,
-   "nivel": "Fundamental / Médio / Técnico / Superior",
-   "inscricao_inicio": "",
-   "inscricao_fim": "2026-11-09",
-   "cargos_ti": [
-    "Técnico em Informática (T.I.) (2 vagas + 1 CR)"
-   ],
-   "perfis": [
-    "suporte"
-   ],
-   "taxa": "R$ 60,00 a R$ 110,00",
-   "prova": "31 de janeiro de 2027",
-   "banca": "",
-   "site_inscricao": "concursos.msconc.com.br",
-   "editais": [
-    "EDITAL DE PROCESSO SELETIVO Nº 001/2026"
-   ],
-   "visto_em": "2026-11-09"
-  },
   "prefeitura-de-floresta-pe-publica-retificacao-de-concurso-publico": {
    "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-floresta-pe-publica-retificacao-de-concurso-publico",
    "orgao": "Prefeitura de Floresta",
@@ -1368,31 +1370,6 @@
    "site_inscricao": "",
    "editais": [
     "EDITAL DE CONCURSO PÚBLICO Nº 001/2026"
-   ],
-   "visto_em": "2026-11-09"
-  },
-  "prefeitura-de-francisco-beltrao-pr-abre-processo-seletivo-para-diversos-cargos": {
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-francisco-beltrao-pr-abre-processo-seletivo-para-diversos-cargos",
-   "orgao": "Prefeitura de Francisco Beltrão",
-   "uf": "PR",
-   "titulo": "Prefeitura de Francisco Beltrão - PR abre processo seletivo para diversos cargos",
-   "vagas": "",
-   "salario_max": 6749.53,
-   "nivel": "Fundamental / Médio / Técnico / Superior",
-   "inscricao_inicio": "",
-   "inscricao_fim": "2026-11-09",
-   "cargos_ti": [
-    "Instrutor de Informática"
-   ],
-   "perfis": [
-    "docencia"
-   ],
-   "taxa": "",
-   "prova": "",
-   "banca": "",
-   "site_inscricao": "",
-   "editais": [
-    "EDITAL Nº 415"
    ],
    "visto_em": "2026-11-09"
   },
@@ -2359,33 +2336,6 @@
    ],
    "visto_em": "2026-11-09"
   },
-  "prefeitura-de-sao-joao-do-piaui-pi-abre-processos-seletivos-com-salarios-de-ate-16800": {
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-joao-do-piaui-pi-abre-processos-seletivos-com-salarios-de-ate-16800",
-   "orgao": "Prefeitura de São João do Piauí",
-   "uf": "PI",
-   "titulo": "Prefeitura de São João do Piauí - PI abre processos seletivos com salários de até R$ 16.800,00",
-   "vagas": "590 vagas",
-   "salario_max": 16800.0,
-   "nivel": "Fundamental / Médio / Técnico / Superior",
-   "inscricao_inicio": "",
-   "inscricao_fim": "2026-11-09",
-   "cargos_ti": [
-    "Operador(a) de sistema de informação em saúde (3 vagas)",
-    "Técnico(a) em informática (4 vagas)"
-   ],
-   "perfis": [
-    "geral"
-   ],
-   "taxa": "R$ 60,00 a R$ 110,00",
-   "prova": "12 e 13 de janeiro de 2027",
-   "banca": "Instituto CONSULPAM",
-   "site_inscricao": "",
-   "editais": [
-    "EDITAL Nº 003/2026",
-    "EDITAL Nº 004/2026"
-   ],
-   "visto_em": "2026-11-09"
-  },
   "prefeitura-de-sao-jose-do-divino-mg-abre-concurso-publico-para-diversos-cargos": {
    "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-jose-do-divino-mg-abre-concurso-publico-para-diversos-cargos",
    "orgao": "Prefeitura de São José do Divino",
@@ -3057,8 +3007,8 @@
   "https://www.pciconcursos.com.br/noticias/prefeitura-de-nova-xavantina-mt-divulga-edital-retificado-de-processo-seletivo-para-a-educacao": "2026-11-13",
   "https://www.pciconcursos.com.br/noticias/prefeitura-de-poranga-ce-reabre-inscricoes-para-concursos-publicos": "2026-11-10",
   "https://www.pciconcursos.com.br/noticias/prefeitura-de-santa-rita-do-trivelato-mt-abre-selecao-com-salarios-de-ate-21825": "2026-11-22",
-  "https://www.pciconcursos.com.br/noticias/prefeitura-de-varzea-grande-mt-retifica-processo-seletivo-com-vagas-para-a-educacao": "2026-11-09",
   "https://www.pciconcursos.com.br/noticias/ufv-mg-abre-concursos-publicos-para-professores-de-magisterio-superior": "2026-11-14",
+  "https://www.pciconcursos.com.br/noticias/unilab-ce-abre-concurso-publico-com-vagas-para-professores-do-magisterio-superior": "2026-12-09",
   "https://www.pciconcursos.com.br/noticias/usp-sp-abre-10-novos-concursos-publicos-para-diversos-cargos": "2027-01-07"
  },
  "enviados": {
@@ -3066,11 +3016,17 @@
   "comando-do-1-distrito-naval-rj-mg-abre-vagas-para-oficiais-temporarios-de-nivel-superior": "2026-11-10",
   "creci-es-abre-concurso-publico-com-salarios-de-ate-8250": "2026-11-10",
   "faculdade-sebrae-sp-abre-vaga-para-professor-adjunto-de-engenharia-de-software": "2026-11-10",
+  "inb-retifica-concurso-publico-para-cadastro-de-reserva-em-diversas-areas-de-atuacao": "2026-11-11",
   "marinha-do-brasil-2-distrito-naval-abre-selecao-para-oficiais-temporarios-rm2-na-bahia": "2026-11-10",
+  "marinha-do-brasil-4-distrito-naval-abre-selecao-para-oficiais-temporarios-com-vagas-em-diferentes-estados": "2026-11-10",
+  "marinha-do-brasil-8-distrito-naval-abre-vagas-para-oficiais-rm2-em-sp": "2026-11-10",
   "marinha-do-brasil-am-e-ro-abre-processo-seletivo-para-oficiais-temporarios-de-nivel-superior": "2026-11-10",
-  "mgs-abre-processo-seletivo-com-vagas-imediatas-e-cadastro-de-reserva-em-diversas-areas": "2026-11-09",
-  "prefeitura-de-firmino-alves-ba-abre-selecao-com-salarios-de-ate-8000": "2026-11-09",
-  "prefeitura-de-francisco-beltrao-pr-abre-processo-seletivo-para-diversos-cargos": "2026-11-09",
-  "prefeitura-de-sao-joao-do-piaui-pi-abre-processos-seletivos-com-salarios-de-ate-16800": "2026-11-09"
+  "prefeitura-de-florestopolis-pr-abre-concurso-publico-com-salarios-de-ate-15389": "2026-11-10",
+  "prefeitura-de-guaicara-sp-abre-concurso-publico-com-salarios-de-ate-17716": "2026-11-11",
+  "prefeitura-de-nova-boa-vista-rs-abre-concurso-publico-com-salarios-de-ate-12039": "2026-11-10",
+  "prefeitura-de-santa-luzia-doeste-ro-abre-selecao-com-salarios-de-ate-5130": "2026-11-11",
+  "prefeitura-de-sao-pedro-de-alcantara-sc-abre-selecao-para-a-secretaria-de-educacao": "2026-11-11",
+  "prefeitura-de-sao-pedro-do-turvo-sp-abre-processos-seletivos-para-diversos-niveis": "2026-11-11",
+  "prudenprev-sp-abre-concurso-publico-com-salarios-de-ate-11102": "2026-11-10"
  }
 }
