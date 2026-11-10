@@ -1,0 +1,47 @@
+name: Enviar concursos
+on:
+  schedule:
+    - cron: "0 10,14,18,22 * * *" # 7h, 11h, 15h e 19h de Brasília
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: bot
+  cancel-in-progress: false
+
+jobs:
+  enviar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    env:
+      TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+      TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+      COMMUNITY_URL: ${{ vars.COMMUNITY_URL }}
+      UFS: ${{ vars.UFS }}
+      MAX_ENVIO: ${{ vars.MAX_ENVIO }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+
+      - name: Enviar novidades
+        if: env.TELEGRAM_BOT_TOKEN != ''
+        run: python -m concursos_ti digest
+
+      - name: Sem token — só coleta
+        if: env.TELEGRAM_BOT_TOKEN == ''
+        run: |
+          echo "::warning::Defina os secrets TELEGRAM_BOT_TOKEN e TELEGRAM_CHAT_ID para o bot enviar mensagens."
+          python -m concursos_ti preview | tail -n 1
+
+      - name: Salvar o que já foi enviado
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/estado.json
+          git diff --cached --quiet || (git commit -m "chore: atualiza concursos" && git push)

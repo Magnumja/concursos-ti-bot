@@ -1,0 +1,10 @@
+[project]
+name = "concursos-ti-bot"
+version = "1.0.0"
+description = "Bot de Telegram com concursos públicos de TI filtrados e analisados"
+requires-python = ">=3.10"
+dependencies = ["requests>=2.31", "beautifulsoup4>=4.12"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]

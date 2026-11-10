@@ -1,0 +1,3065 @@
+{
+ "concursos": {
+  "abdi-df-processo-seletivo-abre-vagas-para-analistas-de-produtividade-e-inovacao": {
+   "url": "https://www.pciconcursos.com.br/noticias/abdi-df-processo-seletivo-abre-vagas-para-analistas-de-produtividade-e-inovacao",
+   "orgao": "ABDI - Agência Brasileira de Desenvolvimento Industrial",
+   "uf": "DF",
+   "titulo": "ABDI - DF: Processo seletivo abre vagas para analistas de produtividade e inovação",
+   "vagas": "20 vagas",
+   "salario_max": 16034.7,
+   "nivel": "Superior",
+   "inscricao_inicio": "",
+   "inscricao_fim": "2026-11-10",
+   "cargos_ti": [
+    "Analista de Produtividade e Inovação, perfil Analista de Dados (2 vagas)",
+    "Analista de Produtividade e Inovação, perfil Desenvolvimento de TI (2 vagas)"
+   ],
+   "perfis": [
+    "dados",
+    "dev"
+   ],
+   "taxa": "R$ 100,00",
+   "prova": "20 de dezembro de 2026",
+   "banca": "FGV",
+   "site_inscricao": "conhecimento.fgv.br/concursos",
+   "editais": [
+    "EDITAL Nº 01/2026"
+   ],
+   "visto_em": "2026-11-09"
+  },
+  "camara-de-aracruz-es-abre-concurso-publico-com-salarios-de-ate-6614": {
+   "url": "https://www.pciconcursos.com.br/noticias/camara-de-aracruz-es-abre-concurso-publico-com-salarios-de-ate-6614",
+   "orgao": "Câmara de Aracruz",
+   "uf": "ES",
+   "titulo": "Câmara de Aracruz - ES abre concurso público com salários de até R$ 6.614,93",
+   "vagas": "9 vagas",
+   "salario_max": 6614.93,
+   "nivel": "Médio / Superior",
+   "inscricao_inicio": "",
+   "inscricao_fim": "2026-11-30",
+   "cargos_ti": [
+    "Agente de Informática, Manutenção e Suporte (1 vaga)"
+   ],
+   "perfis": [
+    "suporte"
+   ],
+   "taxa": "R$ 70,00 a R$ 90,00",
+   "prova": "20 de dezembro de 2026",
+   "banca": "Instituto Referência",
+   "site_inscricao": "",
+   "editais": [
+    "EDITAL DE CONCURSO PÚBLICO - Nº 01/2026"
+   ],
+   "visto_em": "2026-11-09"
+  },
+  "camara-de-cristalina-go-retifica-concurso-publico-com-salarios-de-ate-8383": {
+   "url": "https://www.pciconcursos.com.br/noticias/camara-de-cristalina-go-retifica-concurso-publico-com-salarios-de-ate-8383",
+   "orgao": "Câmara de Cristalina",
+   "uf": "GO",
+   "titulo": "Câmara de Cristalina - GO retifica concurso público com salários de até R$ 8.383,20",
+   "vagas": "36 vagas + 45 CR",
+   "salario_max": 8383.2,
+   "nivel": "Fundamental / Médio / Técnico / Superior",
+   "inscricao_inicio": "",
+   "inscricao_fim": "2026-11-18",
+   "cargos_ti": [
+    "Analista de Tecnologia da Informação (1 vaga + 5 CR)"
+   ],
+   "perfis": [
+    "geral"
+   ],
+   "taxa": "R$ 80,00 a R$ 120,00",
+   "prova": "20 de dezembro de 2026",
+   "banca": "Consulplan",
+   "site_inscricao": "www.institutoconsulplan.org.br",
+   "editais": [
+    "EDITAL Nº 1",
+    "RETIFICAÇÃO I"
+   ],
+   "visto_em": "2026-11-09"
+  },
+  "camara-de-cuiaba-mt-abre-concurso-publico-com-salarios-de-ate-11629": {
+   "url": "https://www.pciconcursos.com.br/noticias/camara-de-cuiaba-mt-abre-concurso-publico-com-salarios-de-ate-11629",
+   "orgao": "Câmara de Cuiabá",
+   "uf": "MT",
+   "titulo": "Câmara de Cuiabá - MT abre concurso público com salários de até R$ 11.629,67",
+   "vagas": "26 vagas",
+   "salario_max": 11629.67,
+   "nivel": "Médio / Superior",
+   "inscricao_inicio": "",
+   "inscricao_fim": "2026-11-30",
+   "cargos_ti": [
+    "Analista Legislativo - Tecnologia da Informação (5 vagas)"
+   ],
+   "perfis": [
+    "geral"
+   ],
+   "taxa": "R$ 90,00 a R$ 120,00",
+   "prova": "13 de dezembro de 2026",
+   "banca": "Selecon",
+   "site_inscricao": "www.selecon.org.br",
+   "editais": [
+    "EDITAL Nº 001/2026"
+   ],
+   "visto_em": "2026-11-09"
+  },
+  "camara-de-dom-inocencio-pi-abre-concurso-publico-com-salarios-de-ate-6000": {
+   "url": "https://www.pciconcursos.com.br/noticias/camara-de-dom-inocencio-pi-abre-concurso-publico-com-salarios-de-ate-6000",
+   "orgao": "Câmara de Dom Inocêncio",
+   "uf": "PI",
+   "titulo": "Câmara de Dom Inocêncio - PI abre concurso público com salários de até R$ 6.000,00",
+   "vagas": "6 vagas",
+   "salario_max": 6000.0,
+   "nivel": "Médio / Superior",
+   "inscricao_inicio": "",
+   "inscricao_fim": "2026-11-13",
+   "cargos_ti": [
+    "Técnico Legislativo - Área de Tecnologia da Informação (1 vaga)"
+   ],
+   "perfis": [
+    "geral"
+   ],
+   "taxa": "R$ 120,00 a R$ 130,00",
+   "prova": "13 de dezembro de 2026",
+   "banca": "",
+   "site_inscricao": "www.gabrielexcelencia.net.br",
+   "editais": [
+    "CAM DOM INOCENCIO 1 CP"
+   ],
+   "visto_em": "2026-11-09"
+  },
+  "camara-de-mossoro-rn-abre-concurso-publico-com-salarios-de-ate-8810": {
+   "url": "https://www.pciconcursos.com.br/noticias/camara-de-mossoro-rn-abre-concurso-publico-com-salarios-de-ate-8810",
+   "orgao": "Câmara de Mossoró",
+   "uf": "RN",
+   "titulo": "Câmara de Mossoró - RN abre concurso público com salários de até R$ 8.810,69",
+   "vagas": "24 vagas",
+   "salario_max": 8810.69,
+   "nivel": "Médio / Técnico / Superior",
+   "inscricao_inicio": "",
+   "inscricao_fim": "2026-11-12",
+   "cargos_ti": [
+    "Técnico de Informática (2 vagas)",
+    "Analista de Tecnologia da Informação (1 vaga)"
+   ],
+   "perfis": [
+    "suporte",
+    "geral"
+   ],
+   "taxa": "R$ 100,00 a R$ 150,00",
+   "prova": "6 de dezembro de 2026",
+   "banca": "",
+   "site_inscricao": "www.comperve.ufrn.br",
+   "editais": [
+    "EDITAL Nº 001/2026",
+    "EDITAL COMPLETO Nº 001/2026"
+   ],
+   "visto_em": "2026-11-09"
+  },
+  "camara-de-petrolina-pe-abre-concurso-publico-com-salarios-de-ate-8561": {
+   "url": "https://www.pciconcursos.com.br/noticias/camara-de-petrolina-pe-abre-concurso-publico-com-salarios-de-ate-8561",
+   "orgao": "Câmara de Petrolina",
+   "uf": "PE",
+   "titulo": "Câmara de Petrolina - PE abre concurso público com salários de até R$ 8.561,42",
+   "vagas": "17 vagas",
+   "salario_max": 8561.42,
+   "nivel": "Médio / Superior",
+   "inscricao_inicio": "",
+   "inscricao_fim": "2026-12-05",
+   "cargos_ti": [
+    "Tecnologia da Informação (1 vaga)"
+   ],
+   "perfis": [
+    "geral"
+   ],
+   "taxa": "R$ 120,00 a R$ 140,00",
+   "prova": "17 de janeiro de 2027",
+   "banca": "Idecan",
+   "site_inscricao": "www.idecan.org.br",
+   "editais": [
+    "EDITAL Nº 01/2026"
+   ],
+   "visto_em": "2026-11-09"
+  },
+  "camara-de-pires-do-rio-go-retifica-edital-de-concurso-publico": {
+   "url": "https://www.pciconcursos.com.br/noticias/camara-de-pires-do-rio-go-retifica-edital-de-concurso-publico",
+   "orgao": "Câmara de Pires do Rio",
+   "uf": "GO",
+   "titulo": "Câmara de Pires do Rio - GO retifica edital de concurso público",
+   "vagas": "12 vagas",
+   "salario_max": 6523.44,
+   "nivel": "Fundamental / Médio / Técnico / Superior",
+   "inscricao_inicio": "",
+   "inscricao_fim": "2026-11-18",
+   "cargos_ti": [
+    "Analista de Sistemas (1 vaga)"
+   ],
+   "perfis": [
+    "dev"
+   ],
+   "taxa": "R$ 115,00 a R$ 145,00",
+   "prova": "17 de janeiro de 2027",
+   "banca": "",
+   "site_inscricao": "www.institutoverbena.ufg.br",
+   "editais": [
+    "EDITAL DE ABERTURA Nº 01/2026",
+    "EDITAL RETIFICADO Nº 01/2026",
+    "EDITAL COMPLEMENTAR Nº 1 - REFERENTE AO EDITAL Nº 01/2026"
+   ],
+   "visto_em": "2026-11-09"
+  },
+  "camara-de-portel-pa-abre-concurso-publico-com-salarios-de-ate-4723": {
+   "url": "https://www.pciconcursos.com.br/noticias/camara-de-portel-pa-abre-concurso-publico-com-salarios-de-ate-4723",
+   "orgao": "Câmara de Portel",
+   "uf": "PA",
+   "titulo": "Câmara de Portel - PA abre concurso público com salários de até R$ 4.723,31",
+   "vagas": "27 vagas",
+   "salario_max": 4723.31,
+   "nivel": "Fundamental / Médio / Técnico / Superior",
+   "inscricao_inicio": "",
+   "inscricao_fim": "2026-11-15",
+   "cargos_ti": [
+    "Técnico de Informática (1 vaga)"
+   ],
+   "perfis": [
+    "suporte"
+   ],
+   "taxa": "R$ 80,00 a R$ 100,00",
+   "prova": "29 de novembro de 2026",
+   "banca": "Instituto Vicente Nelson",
+   "site_inscricao": "",
+   "editais": [
+    "EDITAL DE CONCURSO PÚBLICO Nº 001/2026"
+   ],
+   "visto_em": "2026-11-09"
+  },
+  "camara-de-sao-francisco-do-sul-sc-retifica-edital-de-concurso-publico": {
+   "url": "https://www.pciconcursos.com.br/noticias/camara-de-sao-francisco-do-sul-sc-retifica-edital-de-concurso-publico",
+   "orgao": "Câmara de São Francisco do Sul",
+   "uf": "SC",
+   "titulo": "Câmara de São Francisco do Sul - SC retifica edital de concurso público",
+   "vagas": "17 vagas",
+   "salario_max": 10924.72,
+   "nivel": "Fundamental / Médio / Superior",
+   "inscricao_inicio": "",
+   "inscricao_fim": "2026-12-07",
+   "cargos_ti": [
+    "Analista de Tecnologia da Informação (1 vaga)"
+   ],
+   "perfis": [
+    "geral"
+   ],
+   "taxa": "R$ 70,00 a R$ 150,00",
+   "prova": "24 de janeiro de 2027",
+   "banca": "",
+   "site_inscricao": "concursos.furb.br",
+   "editais": [
+    "EDITAL Nº 001/2026",
+    "EDITAL RETIFICADO Nº 001/2026",
+    "ERRATA Nº 01"
+   ],
+   "visto_em": "2026-11-09"
+  },
+  "camara-de-unai-mg-abre-concurso-publico-com-remuneracao-de-9193": {
+   "url": "https://www.pciconcursos.com.br/noticias/camara-de-unai-mg-abre-concurso-publico-com-remuneracao-de-9193",
+   "orgao": "Câmara de Unaí",
+   "uf": "MG",
+   "titulo": "Câmara de Unaí - MG abre concurso público com remuneração de R$ 9.193,89",
+   "vagas": "2 vagas",
+   "salario_max": 9193.89,
+   "nivel": "Superior",
+   "inscricao_inicio": "",
+   "inscricao_fim": "2026-12-01",
+   "cargos_ti": [
+    "Analista de Atividades da Secretaria - Analista de Sistemas (1 vaga + cadastro de reserva)"
+   ],
+   "perfis": [
+    "dev"
+   ],
+   "taxa": "R$ 80,00",
+   "prova": "10 de janeiro de 2027",
+   "banca": "Consulplan",
+   "site_inscricao": "www.institutoconsulplan.org.br",
+   "editais": [
+    "EDITAL Nº 1"
+   ],
+   "visto_em": "2026-11-09"
+  },
+  "comando-do-1-distrito-naval-rj-mg-abre-vagas-para-oficiais-temporarios-de-nivel-superior": {
+   "url": "https://www.pciconcursos.com.br/noticias/comando-do-1-distrito-naval-rj-mg-abre-vagas-para-oficiais-temporarios-de-nivel-superior",
+   "orgao": "Com1ºDN - Comando do 1º Distrito Naval da Marinha do Brasil",
+   "uf": "RJ/MG",
+   "titulo": "Comando do 1º Distrito Naval - RJ/MG abre vagas para oficiais temporários de nível superior",
+   "vagas": "171 vagas",
+   "salario_max": null,
+   "nivel": "Superior",
+   "inscricao_inicio": "",
+   "inscricao_fim": "2026-11-10",
+   "cargos_ti": [
+    "Informática - Banco de Dados (Rio de Janeiro/RJ - 1 vaga)",
+    "Informática - Infraestrutura (Rio de Janeiro/RJ - 4 vagas)",
+    "Informática - Desenvolvimento de Sistemas (Rio de Janeiro/RJ - 7 vagas)",
+    "Informática - Infraestrutura (São Pedro da Aldeia/RJ - 1 vaga)",
+    "Engenharia de Sistemas de Computação (Rio de Janeiro/RJ - 1 vaga)"
+   ],
+   "perfis": [
+    "dados",
+    "infra",
+    "dev",
+    "geral"
+   ],
+   "taxa": "R$ 150,00",
+   "prova": "",
+   "banca": "Com1ºDN",
+   "site_inscricao": "",
+   "editais": [
+    "AVISO DE CONVOCAÃO Nº 04/2026 (OFICIAIS-RM2-MD)",
+    "AVISO DE CONVOCAÇÃO Nº 05/2026 (OFICIAIS-RM2)"
+   ],
+   "visto_em": "2026-11-09"
+  },
+  "creci-es-abre-concurso-publico-com-salarios-de-ate-8250": {
+   "url": "https://www.pciconcursos.com.br/noticias/creci-es-abre-concurso-publico-com-salarios-de-ate-8250",
+   "orgao": "CRECI - Conselho Regional de Corretores de Imóveis da 13ª Região",
+   "uf": "ES",
+   "titulo": "CRECI - ES abre concurso público com salários de até R$ 8.250,00",
+   "vagas": "24 vagas",
+   "salario_max": 8250.0,
+   "nivel": "Médio / Superior",
+   "inscricao_inicio": "",
+   "inscricao_fim": "2026-11-10",
+   "cargos_ti": [
+    "Profissional de Suporte Técnico (PST) - Assistente de T.I. - Vitória (1 vaga + CR)",
+    "Profissional Analista Superior (PAS) - Analista de T.I. - Vitória (1 vaga AC, 1 vaga PN + CR)"
+   ],
+   "perfis": [
+    "suporte",
+    "geral"
+   ],
+   "taxa": "R$ 66,00 a R$ 68,00",
+   "prova": "17 de janeiro de 2027",
+   "banca": "Quadrix",
+   "site_inscricao": "www.quadrix.org.br",
+   "editais": [
+    "EDITAL Nº 1"
+   ],
+   "visto_em": "2026-11-09"
+  },
+  "dpdf-abre-concurso-publico-para-analista-de-apoio-a-assistencia-judiciaria": {
+   "url": "https://www.pciconcursos.com.br/noticias/dpdf-abre-concurso-publico-para-analista-de-apoio-a-assistencia-judiciaria",
+   "orgao": "DPDF - Defensoria Pública do Distrito Federal",
+   "uf": "DF",
+   "titulo": "DPDF abre concurso público para Analista de Apoio à Assistência Judiciária",
+   "vagas": "7 vagas",
+   "salario_max": 11514.95,
+   "nivel": "Superior",
+   "inscricao_inicio": "2026-12-03",
+   "inscricao_fim": "2027-01-07",
+   "cargos_ti": [
+    "Analista de Apoio à Assistência Judiciária, especialidade Informática, área Banco de Dados (1 vaga)",
+    "Analista de Apoio à Assistência Judiciária, especialidade Informática, área Desenvolvimento de Sistemas (1 vaga)",
+    "Analista de Apoio à Assistência Judiciária, especialidade Informática, área Redes (1 vaga)"
+   ],
+   "perfis": [
+    "dados",
+    "dev",
+    "infra"
+   ],
+   "taxa": "R$ 110,00",
+   "prova": "21 de fevereiro de 2027",
+   "banca": "Instituto ACCESS",
+   "site_inscricao": "",
+   "editais": [
+    "EDITAL Nº 1"
+   ],
+   "visto_em": "2026-11-09"
+  },
+  "dpe-am-abre-concurso-publico-com-salarios-de-ate-8006": {
+   "url": "https://www.pciconcursos.com.br/noticias/dpe-am-abre-concurso-publico-com-salarios-de-ate-8006",
+   "orgao": "DPE - Defensoria Pública do Estado do Amazonas",
+   "uf": "AM",
+   "titulo": "DPE - AM abre concurso público com salários de até R$ 8.006,38",
+   "vagas": "5 vagas",
+   "salario_max": 8006.38,
+   "nivel": "Médio / Técnico / Superior",
+   "inscricao_inicio": "2026-11-30",
+   "inscricao_fim": "2027-01-04",
+   "cargos_ti": [
+    "Assistente Técnico em Tecnologia da Informação de Defensoria, Programador (cadastro reserva)",
+    "Assistente Técnico em Tecnologia da Informação de Defensoria, Assistente Técnico de Suporte (2 vagas e cadastro reserva)",
+    "Analista em Gestão Especializado em Tecnologia da Informação de Defensoria, Analista de Infraestrutura (cadastro reserva)",
+    "Analista em Gestão Especializado em Tecnologia da Informação de Defensoria, Analista de Service Desk (cadastro reserva)",
+    "Analista em Gestão Especializado em Tecnologia da Informação de Defensoria, Analista de Segurança da Informação (cadastro reserva)"
+   ],
+   "perfis": [
+    "dev",
+    "suporte",
+    "infra",
+    "seguranca"
+   ],
+   "taxa": "R$ 100,00 a R$ 125,00",
+   "prova": "",
+   "banca": "FCC",
+   "site_inscricao": "www.concursosfcc.com.br",
+   "editais": [
+    "EDITAL Nº 01/2026",
+    "EDITAL Nº 01/2026 COMPLETO"
+   ],
+   "visto_em": "2026-11-09"
+  },
+  "dpe-pb-abre-concurso-publico-com-salarios-de-ate-5197": {
+   "url": "https://www.pciconcursos.com.br/noticias/dpe-pb-abre-concurso-publico-com-salarios-de-ate-5197",
+   "orgao": "DPE - Defensoria Pública do Estado da Paraíba",
+   "uf": "PB",
+   "titulo": "DPE - PB abre concurso público com salários de até R$ 5.197,50",
+   "vagas": "20 vagas",
+   "salario_max": 5197.5,
+   "nivel": "Médio / Superior",
+   "inscricao_inicio": "",
+   "inscricao_fim": "2026-11-13",
+   "cargos_ti": [
+    "Analista da Defensoria - Desenvolvimento de Sistemas (1 vaga)",
+    "Analista da Defensoria - Suporte e Infraestrutura de Redes (1 vaga)",
+    "Analista da Defensoria - Segurança da Informação (1 vaga)"
+   ],
+   "perfis": [
+    "dev",
+    "infra",
+    "suporte",
+    "seguranca"
+   ],
+   "taxa": "R$ 103,00 a R$ 123,00",
+   "prova": "28 de fevereiro de 2027",
+   "banca": "FCC",
+   "site_inscricao": "www.concursosfcc.com.br",
+   "editais": [
+    "EDITAL Nº 01/2026"
+   ],
+   "visto_em": "2026-11-09"
+  },
+  "faculdade-sebrae-sp-abre-vaga-para-professor-adjunto-de-engenharia-de-software": {
+   "url": "https://www.pciconcursos.com.br/noticias/faculdade-sebrae-sp-abre-vaga-para-professor-adjunto-de-engenharia-de-software",
+   "orgao": "Faculdade Sebrae",
+   "uf": "SP",
+   "titulo": "Faculdade Sebrae - SP abre vaga para professor adjunto de Engenharia de Software",
+   "vagas": "1 vaga",
+   "salario_max": 19522.83,
+   "nivel": "Superior",
+   "inscricao_inicio": "",
+   "inscricao_fim": "2026-11-10",
+   "cargos_ti": [
+    "Professor Adjunto - Engenharia de Software - Sistema da Informação (1 vaga)"
+   ],
+   "perfis": [
+    "docencia"
+   ],
+   "taxa": "",
+   "prova": "",
+   "banca": "RBO",
+   "site_inscricao": "",
+   "editais": [
+    "COMUNICADO 049/2026"
+   ],
+   "visto_em": "2026-11-09"
+  },
+  "fumep-de-sete-lagoas-mg-retifica-concurso-publico-para-diversos-niveis-de-escolaridade": {
+   "url": "https://www.pciconcursos.com.br/noticias/fumep-de-sete-lagoas-mg-retifica-concurso-publico-para-diversos-niveis-de-escolaridade",
+   "orgao": "FUMEP - Fundação Municipal de Ensino Profissionalizante de Sete Lagoas",
+   "uf": "MG",
+   "titulo": "FUMEP de Sete Lagoas - MG retifica concurso público para diversos níveis de escolaridade",
+   "vagas": "39 vagas",
+   "salario_max": 2530.56,
+   "nivel": "Fundamental / Médio / Técnico / Superior",
+   "inscricao_inicio": "",
+   "inscricao_fim": "2026-11-18",
+   "cargos_ti": [
+    "Auxiliar de Laboratório - Informática (1 vaga)",
+    "Analista de Sistema (CR)",
+    "Professor de Ensino Profissionalizante - Engenharia da Computação (1 vaga)",
+    "Professor de Ensino Profissionalizante - Tecnólogo em Rede de Computadores (1 vaga)"
+   ],
+   "perfis": [
+    "geral",
+    "docencia"
+   ],
+   "taxa": "R$ 60,00 a R$ 80,00",
+   "prova": "20 de dezembro de 2026",
+   "banca": "",
+   "site_inscricao": "www.gestaodeconcursos.com.br",
+   "editais": [
+    "EDITAL DO CONCURSO PÚBLICO Nº 01/2026",
+    "ERRATA 01"
+   ],
+   "visto_em": "2026-11-09"
+  },
+  "fundacao-educacional-guacuana-sp-abre-concurso-publico-para-bibliotecario-e-tecnico-em-informatica": {
+   "url": "https://www.pciconcursos.com.br/noticias/fundacao-educacional-guacuana-sp-abre-concurso-publico-para-bibliotecario-e-tecnico-em-informatica",
+   "orgao": "FEG - Fundação Educacional Guaçuana",
+   "uf": "SP",
+   "titulo": "Fundação Educacional Guaçuana - SP abre concurso público para Bibliotecário e Técnico em Informática",
+   "vagas": "2 vagas",
+   "salario_max": 2969.41,
+   "nivel": "Médio / Técnico / Superior",
+   "inscricao_inicio": "",
+   "inscricao_fim": "2026-11-19",
+   "cargos_ti": [
+    "Técnico em Informática (1 vaga e cadastro de reserva)"
+   ],
+   "perfis": [
+    "suporte"
+   ],
+   "taxa": "R$ 11,30 a R$ 12,70",
+   "prova": "13 de dezembro de 2026",
+   "banca": "",
+   "site_inscricao": "www.publiconsult.com.br",
+   "editais": [
+    "EDITAL DE ABERTURA - CONCURSO PÚBLICO Nº 2/2026"
+   ],
+   "visto_em": "2026-11-09"
+  },
+  "ifmg-abre-processo-seletivo-para-professores-substitutos-em-sao-joao-evangelista": {
+   "url": "https://www.pciconcursos.com.br/noticias/ifmg-abre-processo-seletivo-para-professores-substitutos-em-sao-joao-evangelista",
+   "orgao": "IFMG - Instituto Federal de Educação, Ciência e Tecnologia de Minas Gerais",
+   "uf": "MG",
+   "titulo": "IFMG abre processo seletivo para professores substitutos em São João Evangelista",
+   "vagas": "8 vagas",
+   "salario_max": 15964.45,
+   "nivel": "Superior",
+   "inscricao_inicio": "",
+   "inscricao_fim": "2026-11-19",
+   "cargos_ti": [
+    "Professor substituto na área de Bacharelado em Sistemas de Informação e Técnico Integrado em Informática (1 vaga)"
+   ],
+   "perfis": [
+    "docencia"
+   ],
+   "taxa": "R$ 50,00",
+   "prova": "25 a 27 de novembro de 2026",
+   "banca": "",
+   "site_inscricao": "",
+   "editais": [
+    "EDITAL Nº 1175"
+   ],
+   "visto_em": "2026-11-09"
+  },
+  "ifmg-retifica-concurso-publico-para-o-cargo-de-professor-do-ensino-basico-tecnico-e-tecnologico": {
+   "url": "https://www.pciconcursos.com.br/noticias/ifmg-retifica-concurso-publico-para-o-cargo-de-professor-do-ensino-basico-tecnico-e-tecnologico",
+   "orgao": "IFMG - Instituto Federal de Educação, Ciência e Tecnologia de Minas Gerais",
+   "uf": "MG",
+   "titulo": "IFMG retifica concurso público para o cargo de Professor do Ensino Básico, Técnico e Tecnológico",
+   "vagas": "33 vagas",
+   "salario_max": 14945.96,
+   "nivel": "Superior",
+   "inscricao_inicio": "",
+   "inscricao_fim": "2026-11-13",
+   "cargos_ti": [
+    "Informática/Ciência da Computação/Engenharia de Computação (6 vagas - Ouro Branco, Ibirité, Ribeirão das Neves, Itabirito e Contagem)",
+    "Informática/Ciência da Computação/Engenharia de Computação (1 vaga - Sabará)"
+   ],
+   "perfis": [
+    "geral"
+   ],
+   "taxa": "R$ 250,00",
+   "prova": "24 de janeiro de 2027",
+   "banca": "",
+   "site_inscricao": "portal.concursos.ifmg.edu.br",
+   "editais": [
+    "EDITAL Nº 1077",
+    "RETIFICAÇÃO Nº 01",
+    "RETIFICAÇÃO Nº 02",
+    "RETIFICAÇÃO Nº 03"
+   ],
+   "visto_em": "2026-11-09"
+  },
+  "ifpr-abre-processos-seletivos-para-professor-substituto-no-campus-jacarezinho": {
+   "url": "https://www.pciconcursos.com.br/noticias/ifpr-abre-processos-seletivos-para-professor-substituto-no-campus-jacarezinho",
+   "orgao": "IFPR - Instituto Federal de Educação, Ciência e Tecnologia do Paraná",
+   "uf": "PR",
+   "titulo": "IFPR abre processos seletivos para professor substituto no campus Jacarezinho",
+   "vagas": "2 vagas",
+   "salario_max": 5037.78,
+   "nivel": "Superior",
+   "inscricao_inicio": "",
+   "inscricao_fim": "2026-11-18",
+   "cargos_ti": [
+    "Professor substituto de Informática (1 vaga)",
+    "Informática"
+   ],
+   "perfis": [
+    "docencia",
+    "geral"
+   ],
+   "taxa": "R$ 47,98",
+   "prova": "2 de dezembro de 2026",
+   "banca": "",
+   "site_inscricao": "",
+   "editais": [
+    "EDITAL Nº 78",
+    "EDITAL Nº 79"
+   ],
+   "visto_em": "2026-11-09"
+  },
+  "ifsp-retifica-edital-de-concurso-publico-para-o-cargo-de-professor-do-ensino-basico-tecnico-e-tecnologico": {
+   "url": "https://www.pciconcursos.com.br/noticias/ifsp-retifica-edital-de-concurso-publico-para-o-cargo-de-professor-do-ensino-basico-tecnico-e-tecnologico",
+   "orgao": "IFSP - Instituto Federal de Educação, Ciência e Tecnologia de São Paulo",
+   "uf": "SP",
+   "titulo": "IFSP retifica edital de concurso público para o cargo de Professor do Ensino Básico, Técnico e Tecnológico",
+   "vagas": "45 vagas",
+   "salario_max": 6397.19,
+   "nivel": "Superior",
+   "inscricao_inicio": "",
+   "inscricao_fim": "2026-11-17",
+   "cargos_ti": [
+    "Professor de Informática - Barretos (1 vaga)",
+    "Professor de Informática - Boituva (1 vaga)",
+    "Professor de Informática - Capivari (1 vaga)",
+    "Professor de Informática - Cidade Tiradentes (2 vagas)",
+    "Professor de Informática - Cubatão (2 vagas)",
+    "Professor de Informática - Itaquaquecetuba (1 vaga)",
+    "Professor de Informática - Jaçanã (1 vaga)",
+    "Professor de Informática - Miracatu (2 vagas)",
+    "Professor de Informática - Pirituba (2 vagas)",
+    "Professor de Informática - Santos (2 vagas)",
+    "Professor de Informática - São Miguel Paulista (2 vagas)",
+    "Professor de Informática - São Paulo (1 vaga)",
+    "Professor de Informática - São Vicente (1 vaga)"
+   ],
+   "perfis": [
+    "docencia"
+   ],
+   "taxa": "R$ 200,00",
+   "prova": "",
+   "banca": "",
+   "site_inscricao": "concursopublico.ifsp.edu.br",
+   "editais": [
+    "EDITAL Nº 183",
+    "EDITAL COMPLETO Nº 183",
+    "RETIFICAÇÃO - QUADRO DE VAGAS"
+   ],
+   "visto_em": "2026-11-09"
+  },
+  "ifsp-retifica-processo-seletivo-com-vagas-para-professores-substitutos": {
+   "url": "https://www.pciconcursos.com.br/noticias/ifsp-retifica-processo-seletivo-com-vagas-para-professores-substitutos",
+   "orgao": "IFSP - Instituto Federal de Educação, Ciência e Tecnologia de São Paulo",
+   "uf": "SP",
+   "titulo": "IFSP retifica processo seletivo com vagas para professores substitutos",
+   "vagas": "79 vagas",
+   "salario_max": 8340.33,
+   "nivel": "Superior",
+   "inscricao_inicio": "",
+   "inscricao_fim": "2026-11-13",
+   "cargos_ti": [
+    "Professor substituto de Informática (1 vaga)",
+    "Professor substituto de Informática - Arquitetura de Redes de Computadores (1 vaga)"
+   ],
+   "perfis": [
+    "docencia"
+   ],
+   "taxa": "R$ 90,00",
+   "prova": "",
+   "banca": "",
+   "site_inscricao": "",
+   "editais": [
+    "EDITAL Nº 123/2026",
+    "RETIFICAÇÃO"
+   ],
+   "visto_em": "2026-11-09"
+  },
+  "ima-sc-abre-concurso-publico-com-salarios-de-ate-12300": {
+   "url": "https://www.pciconcursos.com.br/noticias/ima-sc-abre-concurso-publico-com-salarios-de-ate-12300",
+   "orgao": "IMA - Instituto do Meio Ambiente do Estado de Santa Catarina",
+   "uf": "SC",
+   "titulo": "IMA - SC abre concurso público com salários de até R$ 12.300,00",
+   "vagas": "18 vagas",
+   "salario_max": 12300.0,
+   "nivel": "Técnico / Superior",
+   "inscricao_inicio": "",
+   "inscricao_fim": "2026-12-14",
+   "cargos_ti": [
+    "Técnico em Informática (1 vaga)",
+    "Analista de Informática (5 vagas)"
+   ],
+   "perfis": [
+    "suporte",
+    "geral"
+   ],
+   "taxa": "R$ 100,00 a R$ 160,00",
+   "prova": "14 de fevereiro de 2027",
+   "banca": "",
+   "site_inscricao": "concursos.furb.br",
+   "editais": [
+    "EDITAL Nº 001/2026"
+   ],
+   "visto_em": "2026-11-09"
+  },
+  "inb-retifica-concurso-publico-para-cadastro-de-reserva-em-diversas-areas-de-atuacao": {
+   "url": "https://www.pciconcursos.com.br/noticias/inb-retifica-concurso-publico-para-cadastro-de-reserva-em-diversas-areas-de-atuacao",
+   "orgao": "INB - Indústrias Nucleares do Brasil S.A.",
+   "uf": "Nacional",
+   "titulo": "INB retifica concurso público para cadastro de reserva em diversas áreas de atuação",
+   "vagas": "",
+   "salario_max": 8374.0,
+   "nivel": "Médio / Técnico / Superior",
+   "inscricao_inicio": "",
+   "inscricao_fim": "2026-11-11",
+   "cargos_ti": [
+    "Analista de Sistemas"
+   ],
+   "perfis": [
+    "dev"
+   ],
+   "taxa": "R$ 100,00 a R$ 125,00",
+   "prova": "10 de janeiro de 2027",
+   "banca": "FGV",
+   "site_inscricao": "conhecimento.fgv.br",
+   "editais": [
+    "EDITAL Nº 01/2026",
+    "ERRATA - 1ª RETIFICAÇÃO",
+    "EDITAL RETIFICADO Nº 01/2026"
+   ],
+   "visto_em": "2026-11-09"
+  },
+  "ipa-sp-abre-concurso-publico-para-pesquisadores-cientificos": {
+   "url": "https://www.pciconcursos.com.br/noticias/ipa-sp-abre-concurso-publico-para-pesquisadores-cientificos",
+   "orgao": "IPA - Instituto de Pesquisas Ambientais",
+   "uf": "SP",
+   "titulo": "IPA - SP abre concurso público para pesquisadores científicos",
+   "vagas": "98 vagas",
+   "salario_max": 9052.47,
+   "nivel": "Superior",
+   "inscricao_inicio": "",
+   "inscricao_fim": "2026-12-22",
+   "cargos_ti": [
+    "Pesquisador Científico I A, área de Bioinformática aplicada à biodiversidade (2 vagas)"
+   ],
+   "perfis": [
+    "geral"
+   ],
+   "taxa": "R$ 150,00",
+   "prova": "",
+   "banca": "Vunesp",
+   "site_inscricao": "www.vunesp.com.br",
+   "editais": [
+    "EDITAL Nº : 01/2026"
+   ],
+   "visto_em": "2026-11-09"
+  },
+  "ipam-de-porto-velho-ro-abre-concurso-publico-com-salarios-de-ate-5000": {
+   "url": "https://www.pciconcursos.com.br/noticias/ipam-de-porto-velho-ro-abre-concurso-publico-com-salarios-de-ate-5000",
+   "orgao": "IPAM - Instituto de Previdência e Assistência dos Servidores do Município de Porto Velho",
+   "uf": "RO",
+   "titulo": "IPAM de Porto Velho - RO abre concurso público com salários de até R$ 5.000,00",
+   "vagas": "71 vagas",
+   "salario_max": 5000.0,
+   "nivel": "Médio / Técnico / Superior",
+   "inscricao_inicio": "",
+   "inscricao_fim": "2026-12-07",
+   "cargos_ti": [
+    "Técnico Autárquico, Informática (4 vagas)",
+    "Analista Autárquico, Tecnologia da Informação (2 vagas)"
+   ],
+   "perfis": [
+    "geral"
+   ],
+   "taxa": "R$ 105,00 a R$ 140,00",
+   "prova": "21 de fevereiro de 2027",
+   "banca": "Ibade",
+   "site_inscricao": "www.ibade.org.br",
+   "editais": [
+    "EDITAL DE CONCURSO PÚBLICO Nº 001/2026"
+   ],
+   "visto_em": "2026-11-09"
+  },
+  "iprejun-de-jundiai-sp-abre-concurso-publico-com-salarios-de-ate-15123": {
+   "url": "https://www.pciconcursos.com.br/noticias/iprejun-de-jundiai-sp-abre-concurso-publico-com-salarios-de-ate-15123",
+   "orgao": "IPREJUN - Instituto de Previdência do Município de Jundiaí",
+   "uf": "SP",
+   "titulo": "IPREJUN de Jundiaí - SP abre concurso público com salários de até R$ 15.123,99",
+   "vagas": "4 vagas",
+   "salario_max": 15123.99,
+   "nivel": "Médio / Superior",
+   "inscricao_inicio": "",
+   "inscricao_fim": "2026-12-15",
+   "cargos_ti": [
+    "Analista de Planejamento, Gestão e Orçamento - Informática (1 vaga)"
+   ],
+   "perfis": [
+    "geral"
+   ],
+   "taxa": "R$ 80,00 a R$ 115,00",
+   "prova": "21 de fevereiro de 2027",
+   "banca": "Vunesp",
+   "site_inscricao": "www.vunesp.com.br",
+   "editais": [
+    "EDITAL Nº 015"
+   ],
+   "visto_em": "2026-11-09"
+  },
+  "marinha-do-brasil-2-distrito-naval-abre-selecao-para-oficiais-temporarios-rm2-na-bahia": {
+   "url": "https://www.pciconcursos.com.br/noticias/marinha-do-brasil-2-distrito-naval-abre-selecao-para-oficiais-temporarios-rm2-na-bahia",
+   "orgao": "Comando do 2º Distrito Naval da Marinha do Brasil",
+   "uf": "BA",
+   "titulo": "Marinha do Brasil - 2º Distrito Naval abre seleção para oficiais temporários RM2 na Bahia",
+   "vagas": "18 vagas",
+   "salario_max": null,
+   "nivel": "Superior",
+   "inscricao_inicio": "",
+   "inscricao_fim": "2026-11-10",
+   "cargos_ti": [
+    "Informática (1 vaga)"
+   ],
+   "perfis": [
+    "geral"
+   ],
+   "taxa": "R$ 150,00",
+   "prova": "",
+   "banca": "",
+   "site_inscricao": "www.marinha.mil.br/com2dn",
+   "editais": [
+    "AVISO DE CONVOCAÇÃO Nº 2/2026 (OFICIAIS-RM2 DEMAIS ÁREAS)"
+   ],
+   "visto_em": "2026-11-09"
+  },
+  "marinha-do-brasil-4-distrito-naval-abre-selecao-para-oficiais-temporarios-com-vagas-em-diferentes-estados": {
+   "url": "https://www.pciconcursos.com.br/noticias/marinha-do-brasil-4-distrito-naval-abre-selecao-para-oficiais-temporarios-com-vagas-em-diferentes-estados",
+   "orgao": "Marinha do Brasil - Comando do 4º Distrito Naval",
+   "uf": "Nacional",
+   "titulo": "Marinha do Brasil - 4º Distrito Naval abre seleção para oficiais temporários com vagas em diferentes estados",
+   "vagas": "25 vagas",
+   "salario_max": null,
+   "nivel": "Superior",
+   "inscricao_inicio": "",
+   "inscricao_fim": "2026-11-10",
+   "cargos_ti": [
+    "Informática (2 vagas - Belém/PA)"
+   ],
+   "perfis": [
+    "geral"
+   ],
+   "taxa": "R$ 150,00",
+   "prova": "",
+   "banca": "",
+   "site_inscricao": "www.marinha.mil.br/com4dn/",
+   "editais": [
+    "AVISO DE CONVOCAÇÃO Nº 02/2026 (OFICIAIS-RM2)",
+    "AVISO DE CONVOCAÇÃO Nº 03/2026 (OFICIAIS-RM2-MD)"
+   ],
+   "visto_em": "2026-11-09"
+  },
+  "marinha-do-brasil-8-distrito-naval-abre-vagas-para-oficiais-rm2-em-sp": {
+   "url": "https://www.pciconcursos.com.br/noticias/marinha-do-brasil-8-distrito-naval-abre-vagas-para-oficiais-rm2-em-sp",
+   "orgao": "Marinha do Brasil - Comando do 8º Distrito Naval",
+   "uf": "SP",
+   "titulo": "Marinha do Brasil - 8º Distrito Naval abre vagas para Oficiais RM2 em SP",
+   "vagas": "36 vagas",
+   "salario_max": null,
+   "nivel": "Superior",
+   "inscricao_inicio": "",
+   "inscricao_fim": "2026-11-10",
+   "cargos_ti": [
+    "Informática, São Paulo - SP (1 vaga)",
+    "Engenharia de Sistemas de Computação, Iperó - SP (1 vaga)",
+    "Engenharia de Sistemas de Computação, São Paulo - SP (1 vaga)"
+   ],
+   "perfis": [
+    "geral"
+   ],
+   "taxa": "R$ 150,00",
+   "prova": "",
+   "banca": "Comando do 8º Distrito Naval",
+   "site_inscricao": "",
+   "editais": [
+    "AVISO DE CONVOCAÇÃO Nº 02/2026 (OFICIAIS-RM2)",
+    "AVISO DE CONVOCAÇÃO Nº 03/2026 (OFICIAIS-RM2-MD)"
+   ],
+   "visto_em": "2026-11-09"
+  },
+  "marinha-do-brasil-am-e-ro-abre-processo-seletivo-para-oficiais-temporarios-de-nivel-superior": {
+   "url": "https://www.pciconcursos.com.br/noticias/marinha-do-brasil-am-e-ro-abre-processo-seletivo-para-oficiais-temporarios-de-nivel-superior",
+   "orgao": "Com9ºDN - Comando do 9º Distrito Naval da Marinha do Brasil",
+   "uf": "AM e RO",
+   "titulo": "Marinha do Brasil - AM e RO abre processo seletivo para Oficiais Temporários de nível superior",
+   "vagas": "23 vagas",
+   "salario_max": null,
+   "nivel": "Superior",
+   "inscricao_inicio": "",
+   "inscricao_fim": "2026-11-10",
+   "cargos_ti": [
+    "Informática (Manaus-AM) (3 vagas)"
+   ],
+   "perfis": [
+    "geral"
+   ],
+   "taxa": "R$ 150,00",
+   "prova": "",
+   "banca": "",
+   "site_inscricao": "www.marinha.mil.br/com9dn",
+   "editais": [
+    "AVISO DE CONVOCAÇÃO Nº 01/2026 (OFICIAIS-RM2)"
+   ],
+   "visto_em": "2026-11-09"
+  },
+  "mgs-abre-processo-seletivo-com-vagas-imediatas-e-cadastro-de-reserva-em-diversas-areas": {
+   "url": "https://www.pciconcursos.com.br/noticias/mgs-abre-processo-seletivo-com-vagas-imediatas-e-cadastro-de-reserva-em-diversas-areas",
+   "orgao": "MGS - Minas Gerais Administração e Serviços S.A.",
+   "uf": "Nacional",
+   "titulo": "MGS abre processo seletivo com vagas imediatas e cadastro de reserva em diversas áreas",
+   "vagas": "643 vagas",
+   "salario_max": 3911.17,
+   "nivel": "Fundamental / Médio / Técnico",
+   "inscricao_inicio": "",
+   "inscricao_fim": "2026-11-09",
+   "cargos_ti": [
+    "Técnico Especializado em Informática"
+   ],
+   "perfis": [
+    "geral"
+   ],
+   "taxa": "R$ 60,36 a R$ 71,17",
+   "prova": "13 de dezembro de 2026",
+   "banca": "IBFC",
+   "site_inscricao": "www.ibfc.org.br",
+   "editais": [
+    "EDITAL MGS Nº 05/2026"
+   ],
+   "visto_em": "2026-11-09"
+  },
+  "municipio-de-nova-trento-sc-abre-tres-novos-processos-seletivos-com-salarios-de-ate-14189": {
+   "url": "https://www.pciconcursos.com.br/noticias/municipio-de-nova-trento-sc-abre-tres-novos-processos-seletivos-com-salarios-de-ate-14189",
+   "orgao": "Prefeitura de Nova Trento",
+   "uf": "SC",
+   "titulo": "Município de Nova Trento - SC abre três novos processos seletivos com salários de até R$ 14.189,97",
+   "vagas": "",
+   "salario_max": 14189.97,
+   "nivel": "Fundamental / Médio / Técnico / Superior",
+   "inscricao_inicio": "",
+   "inscricao_fim": "2026-11-28",
+   "cargos_ti": [
+    "Técnico de Informática"
+   ],
+   "perfis": [
+    "suporte"
+   ],
+   "taxa": "R$ 40,00 a R$ 80,00",
+   "prova": "13 de dezembro de 2026",
+   "banca": "Acesse Concursos",
+   "site_inscricao": "",
+   "editais": [
+    "EDITAL DE PROCESSO SELETIVO PÚBLICO Nº 001/2026",
+    "EDITAL DE PROCESSO SELETIVO Nº 002/2026 - SECRETARIA DE EDUCAÇÃO",
+    "EDITAL DE PROCESSO SELETIVO Nº 003/2026 DEMAIS SECRETARIAS"
+   ],
+   "visto_em": "2026-11-09"
+  },
+  "municipio-de-teutonia-rs-abre-concurso-publico-com-salarios-de-ate-13844": {
+   "url": "https://www.pciconcursos.com.br/noticias/municipio-de-teutonia-rs-abre-concurso-publico-com-salarios-de-ate-13844",
+   "orgao": "Prefeitura de Teutônia",
+   "uf": "RS",
+   "titulo": "Município de Teutônia - RS abre concurso público com salários de até R$ 13.844,56",
+   "vagas": "12 vagas",
+   "salario_max": 13844.56,
+   "nivel": "Fundamental / Médio / Técnico / Superior",
+   "inscricao_inicio": "",
+   "inscricao_fim": "2026-11-18",
+   "cargos_ti": [
+    "Professor - Informática"
+   ],
+   "perfis": [
+    "docencia"
+   ],
+   "taxa": "R$ 120,00 a R$ 190,00",
+   "prova": "13 de dezembro de 2026",
+   "banca": "Instituto Objetiva",
+   "site_inscricao": "",
+   "editais": [
+    "EDITAL Nº 001/2026"
+   ],
+   "visto_em": "2026-11-09"
+  },
+  "policia-civil-do-estado-do-acre-pcac-e-sead-ac-abrem-concurso-publico-com-salarios-de-ate-19505": {
+   "url": "https://www.pciconcursos.com.br/noticias/policia-civil-do-estado-do-acre-pcac-e-sead-ac-abrem-concurso-publico-com-salarios-de-ate-19505",
+   "orgao": "PCAC - Polícia Civil do Estado do Acre",
+   "uf": "AC",
+   "titulo": "Polícia Civil do Estado do Acre (PCAC) e SEAD - AC abrem concurso público com salários de até R$ 19.505,66",
+   "vagas": "139 vagas",
+   "salario_max": 19505.66,
+   "nivel": "Superior",
+   "inscricao_inicio": "",
+   "inscricao_fim": "2026-12-14",
+   "cargos_ti": [
+    "Informática Forense, Baixo Acre (1 vaga)"
+   ],
+   "perfis": [
+    "geral"
+   ],
+   "taxa": "R$ 105,00 a R$ 133,00",
+   "prova": "",
+   "banca": "Idecan",
+   "site_inscricao": "www.idecan.org.br",
+   "editais": [
+    "EDITAL Nº 001"
+   ],
+   "visto_em": "2026-11-09"
+  },
+  "prefeitura-de-aluminio-sp-abre-processo-seletivo-na-area-da-educacao": {
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-aluminio-sp-abre-processo-seletivo-na-area-da-educacao",
+   "orgao": "Prefeitura de Alumínio",
+   "uf": "SP",
+   "titulo": "Prefeitura de Alumínio - SP abre processo seletivo na área da educação",
+   "vagas": "",
+   "salario_max": 7285.25,
+   "nivel": "Fundamental / Médio / Superior",
+   "inscricao_inicio": "",
+   "inscricao_fim": "2026-11-23",
+   "cargos_ti": [
+    "Professor de Informática I - Ciclos I e II",
+    "Professor de Informática II - Ciclos III e IV"
+   ],
+   "perfis": [
+    "docencia"
+   ],
+   "taxa": "R$ 32,80 a R$ 62,80",
+   "prova": "13 de dezembro de 2026",
+   "banca": "IGECS",
+   "site_inscricao": "",
+   "editais": [
+    "EDITAL DE PROCESSO SELETIVO PSPMA 001/2026"
+   ],
+   "visto_em": "2026-11-09"
+  },
+  "prefeitura-de-anchieta-es-abre-concurso-publico-com-salarios-de-ate-7362": {
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-anchieta-es-abre-concurso-publico-com-salarios-de-ate-7362",
+   "orgao": "Prefeitura de Anchieta",
+   "uf": "ES",
+   "titulo": "Prefeitura de Anchieta - ES abre concurso público com salários de até R$ 7.362,50",
+   "vagas": "33 vagas",
+   "salario_max": 7362.5,
+   "nivel": "Médio / Técnico / Superior",
+   "inscricao_inicio": "",
+   "inscricao_fim": "2026-12-14",
+   "cargos_ti": [
+    "Técnico de Tecnologia da Informação (1 vaga)",
+    "Analista em Tecnologia da Informação (1 vaga)"
+   ],
+   "perfis": [
+    "geral"
+   ],
+   "taxa": "R$ 80,00 a R$ 100,00",
+   "prova": "21 de fevereiro de 2027",
+   "banca": "",
+   "site_inscricao": "www.idcap.org.br",
+   "editais": [
+    "EDITAL DE ABERTURA Nº 002/2026"
+   ],
+   "visto_em": "2026-11-09"
+  },
+  "prefeitura-de-belem-do-piaui-pi-abre-concurso-com-remuneracoes-de-ate-12000": {
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-belem-do-piaui-pi-abre-concurso-com-remuneracoes-de-ate-12000",
+   "orgao": "Prefeitura de Belém do Piauí",
+   "uf": "PI",
+   "titulo": "Prefeitura de Belém do Piauí - PI abre concurso com remunerações de até R$ 12.000,00",
+   "vagas": "49 vagas",
+   "salario_max": 12000.0,
+   "nivel": "Fundamental / Médio / Técnico / Superior",
+   "inscricao_inicio": "",
+   "inscricao_fim": "2026-11-25",
+   "cargos_ti": [
+    "Técnico de Informática (1 vaga e cadastro de reserva)"
+   ],
+   "perfis": [
+    "suporte"
+   ],
+   "taxa": "R$ 80,00 a R$ 110,00",
+   "prova": "13 de dezembro de 2026",
+   "banca": "Instituto Brasileiro de Estudos e Desenvolvimento (IBED)",
+   "site_inscricao": "",
+   "editais": [
+    "EDITAL Nº 1/2026"
+   ],
+   "visto_em": "2026-11-09"
+  },
+  "prefeitura-de-birigui-sp-abre-concurso-publico-com-salarios-de-ate-13881": {
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-birigui-sp-abre-concurso-publico-com-salarios-de-ate-13881",
+   "orgao": "Prefeitura de Birigui",
+   "uf": "SP",
+   "titulo": "Prefeitura de Birigui - SP abre concurso público com salários de até R$ 13.881,85",
+   "vagas": "171 vagas",
+   "salario_max": 13881.85,
+   "nivel": "Fundamental / Médio / Técnico / Superior",
+   "inscricao_inicio": "",
+   "inscricao_fim": "2026-12-10",
+   "cargos_ti": [
+    "Técnico em Informática (1 vaga)",
+    "Analista de Tecnologia da Informação (1 vaga)"
+   ],
+   "perfis": [
+    "suporte",
+    "geral"
+   ],
+   "taxa": "R$ 54,00 a R$ 58,00",
+   "prova": "14 de fevereiro de 2027",
+   "banca": "Instituto ACCESS",
+   "site_inscricao": "",
+   "editais": [
+    "EDITAL Nº 220/2026"
+   ],
+   "visto_em": "2026-11-09"
+  },
+  "prefeitura-de-blumenau-sc-abre-concurso-publico-para-a-area-da-educacao": {
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-blumenau-sc-abre-concurso-publico-para-a-area-da-educacao",
+   "orgao": "Prefeitura de Blumenau",
+   "uf": "SC",
+   "titulo": "Prefeitura de Blumenau - SC abre concurso público para a área da educação",
+   "vagas": "18 vagas",
+   "salario_max": 5130.63,
+   "nivel": "Superior",
+   "inscricao_inicio": "",
+   "inscricao_fim": "2026-12-09",
+   "cargos_ti": [
+    "Professor de Computação (1 vaga)"
+   ],
+   "perfis": [
+    "docencia"
+   ],
+   "taxa": "R$ 150,00",
+   "prova": "31 de janeiro de 2027",
+   "banca": "",
+   "site_inscricao": "concursos.furb.br",
+   "editais": [
+    "EDITAL Nº 001/2026"
+   ],
+   "visto_em": "2026-11-09"
+  },
+  "prefeitura-de-boa-viagem-ce-abre-concurso-publico-com-vagas-para-diversas-areas-de-atuacao": {
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-boa-viagem-ce-abre-concurso-publico-com-vagas-para-diversas-areas-de-atuacao",
+   "orgao": "Prefeitura de Boa Viagem",
+   "uf": "CE",
+   "titulo": "Prefeitura de Boa Viagem - CE abre concurso público com vagas para diversas áreas de atuação",
+   "vagas": "1001 vagas",
+   "salario_max": 14718.92,
+   "nivel": "Fundamental / Médio / Técnico / Superior",
+   "inscricao_inicio": "",
+   "inscricao_fim": "2026-12-07",
+   "cargos_ti": [
+    "Programador T.I. (5 vagas)"
+   ],
+   "perfis": [
+    "dev"
+   ],
+   "taxa": "R$ 80,00 a R$ 125,00",
+   "prova": "10 de janeiro de 2027",
+   "banca": "Fundação CETREDE",
+   "site_inscricao": "",
+   "editais": [
+    "EDITAL Nº 001/2026"
+   ],
+   "visto_em": "2026-11-09"
+  },
+  "prefeitura-de-campo-grande-do-piaui-pi-abre-concurso-publico-para-diversos-cargos-e-cadastro-de-reserva": {
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-campo-grande-do-piaui-pi-abre-concurso-publico-para-diversos-cargos-e-cadastro-de-reserva",
+   "orgao": "Prefeitura de Campo Grande do Piauí",
+   "uf": "PI",
+   "titulo": "Prefeitura de Campo Grande do Piauí - PI abre concurso público para diversos cargos e cadastro de reserva",
+   "vagas": "90 vagas",
+   "salario_max": 8257.0,
+   "nivel": "Fundamental / Médio / Técnico / Superior",
+   "inscricao_inicio": "",
+   "inscricao_fim": "2026-11-25",
+   "cargos_ti": [
+    "Professor de Ciências da Computação (1 vaga)"
+   ],
+   "perfis": [
+    "docencia"
+   ],
+   "taxa": "R$ 80,00 a R$ 110,00",
+   "prova": "13 de dezembro de 2026",
+   "banca": "",
+   "site_inscricao": "",
+   "editais": [
+    "EDITAL Nº 1/2026"
+   ],
+   "visto_em": "2026-11-09"
+  },
+  "prefeitura-de-canitar-sp-abre-processo-seletivo-para-a-area-da-educacao": {
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-canitar-sp-abre-processo-seletivo-para-a-area-da-educacao",
+   "orgao": "Prefeitura de Canitar",
+   "uf": "SP",
+   "titulo": "Prefeitura de Canitar - SP abre processo seletivo para a área da educação",
+   "vagas": "",
+   "salario_max": 1621.0,
+   "nivel": "Médio / Superior",
+   "inscricao_inicio": "",
+   "inscricao_fim": "2026-11-18",
+   "cargos_ti": [
+    "PEB II - Ensino Fundamental - Informática (CR)"
+   ],
+   "perfis": [
+    "geral"
+   ],
+   "taxa": "R$ 73,19 a R$ 83,65",
+   "prova": "6 de dezembro de 2026",
+   "banca": "",
+   "site_inscricao": "www.inepam.org.br",
+   "editais": [
+    "EDITAL DE PROCESSO SELETIVO Nº 001/2026"
+   ],
+   "visto_em": "2026-11-09"
+  },
+  "prefeitura-de-canto-do-buriti-pi-retifica-edital-de-concurso-publico": {
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-canto-do-buriti-pi-retifica-edital-de-concurso-publico",
+   "orgao": "Prefeitura de Canto do Buriti",
+   "uf": "PI",
+   "titulo": "Prefeitura de Canto do Buriti - PI retifica edital de concurso público",
+   "vagas": "257 vagas",
+   "salario_max": 16210.0,
+   "nivel": "Fundamental / Médio / Técnico / Superior",
+   "inscricao_inicio": "",
+   "inscricao_fim": "2026-11-26",
+   "cargos_ti": [
+    "Técnico em Informática (3 vagas)",
+    "Professor de Informática (6 vagas)"
+   ],
+   "perfis": [
+    "suporte",
+    "docencia"
+   ],
+   "taxa": "R$ 76,00 a R$ 99,00",
+   "prova": "13 de dezembro de 2026",
+   "banca": "",
+   "site_inscricao": "www.institutovicentenelson.com.br",
+   "editais": [
+    "EDITAL DE CONCURSO PÚBLICO MUNICIPAL Nº 001/2026",
+    "EDITAL RETIFICADO Nº 001/2026",
+    "RETIFICAÇÃO Nº 001/2026"
+   ],
+   "visto_em": "2026-11-09"
+  },
+  "prefeitura-de-confins-mg-divulga-retificacoes-de-processo-seletivo": {
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-confins-mg-divulga-retificacoes-de-processo-seletivo",
+   "orgao": "Prefeitura de Confins",
+   "uf": "MG",
+   "titulo": "Prefeitura de Confins - MG divulga retificações de processo seletivo",
+   "vagas": "153 vagas",
+   "salario_max": 23298.67,
+   "nivel": "Fundamental / Médio / Técnico / Superior",
+   "inscricao_inicio": "",
+   "inscricao_fim": "2026-11-12",
+   "cargos_ti": [
+    "Técnico em Informática (1 vaga)",
+    "Analista de Sistema - Saúde (CR)"
+   ],
+   "perfis": [
+    "suporte",
+    "geral"
+   ],
+   "taxa": "R$ 40,00 a R$ 80,00",
+   "prova": "",
+   "banca": "",
+   "site_inscricao": "www.ibgpconcursos.com.br",
+   "editais": [
+    "EDITAL Nº 02/2026",
+    "RETIFICAÇÃO Nº 01",
+    "RETIFICAÇÃO Nº 02"
+   ],
+   "visto_em": "2026-11-09"
+  },
+  "prefeitura-de-contagem-mg-retifica-edital-de-concurso-publico": {
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-contagem-mg-retifica-edital-de-concurso-publico",
+   "orgao": "Prefeitura de Contagem",
+   "uf": "MG",
+   "titulo": "Prefeitura de Contagem - MG retifica edital de concurso público",
+   "vagas": "272 vagas",
+   "salario_max": 13305.57,
+   "nivel": "Médio / Técnico / Superior",
+   "inscricao_inicio": "",
+   "inscricao_fim": "2026-11-17",
+   "cargos_ti": [
+    "Analista de TI (1 vaga)",
+    "Auditor de Controle Interno - Tecnologia da Informação (1 vaga)"
+   ],
+   "perfis": [
+    "geral"
+   ],
+   "taxa": "R$ 70,00 a R$ 100,00",
+   "prova": "24 de janeiro de 2027",
+   "banca": "",
+   "site_inscricao": "www.ibgpconcursos.com.br",
+   "editais": [
+    "EDITAL Nº 01/2026",
+    "EDITAL RETIFICADO Nº 01/2026",
+    "RETIFICAÇÃO Nº 01"
+   ],
+   "visto_em": "2026-11-09"
+  },
+  "prefeitura-de-firmino-alves-ba-abre-selecao-com-salarios-de-ate-8000": {
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-firmino-alves-ba-abre-selecao-com-salarios-de-ate-8000",
+   "orgao": "Prefeitura de Firmino Alves",
+   "uf": "BA",
+   "titulo": "Prefeitura de Firmino Alves - BA abre seleção com salários de até R$ 8.000,00",
+   "vagas": "50 vagas + 25 CR",
+   "salario_max": 8000.0,
+   "nivel": "Fundamental / Médio / Técnico / Superior",
+   "inscricao_inicio": "",
+   "inscricao_fim": "2026-11-09",
+   "cargos_ti": [
+    "Técnico em Informática (T.I.) (2 vagas + 1 CR)"
+   ],
+   "perfis": [
+    "suporte"
+   ],
+   "taxa": "R$ 60,00 a R$ 110,00",
+   "prova": "31 de janeiro de 2027",
+   "banca": "",
+   "site_inscricao": "concursos.msconc.com.br",
+   "editais": [
+    "EDITAL DE PROCESSO SELETIVO Nº 001/2026"
+   ],
+   "visto_em": "2026-11-09"
+  },
+  "prefeitura-de-floresta-pe-publica-retificacao-de-concurso-publico": {
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-floresta-pe-publica-retificacao-de-concurso-publico",
+   "orgao": "Prefeitura de Floresta",
+   "uf": "PE",
+   "titulo": "Prefeitura de Floresta - PE publica retificação de concurso público",
+   "vagas": "431 vagas",
+   "salario_max": 8000.0,
+   "nivel": "Fundamental / Médio / Técnico / Superior",
+   "inscricao_inicio": "",
+   "inscricao_fim": "2026-11-12",
+   "cargos_ti": [
+    "Analista de Sistema (1 vaga)",
+    "Técnico em Informática (2 vagas)"
+   ],
+   "perfis": [
+    "geral",
+    "suporte"
+   ],
+   "taxa": "R$ 80,00 a R$ 130,00",
+   "prova": "13 de dezembro de 2026",
+   "banca": "",
+   "site_inscricao": "concursos.facetconcursos.com.br",
+   "editais": [
+    "EDITAL 01/2026",
+    "EDITAL RETIFICADO 01/2026",
+    "ADITIVO 01",
+    "ADITIVO 02"
+   ],
+   "visto_em": "2026-11-09"
+  },
+  "prefeitura-de-florestopolis-pr-abre-concurso-publico-com-salarios-de-ate-15389": {
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-florestopolis-pr-abre-concurso-publico-com-salarios-de-ate-15389",
+   "orgao": "Prefeitura de Florestópolis",
+   "uf": "PR",
+   "titulo": "Prefeitura de Florestópolis - PR abre concurso público com salários de até R$ 15.389,87",
+   "vagas": "46 vagas",
+   "salario_max": 15389.87,
+   "nivel": "Médio / Técnico / Superior",
+   "inscricao_inicio": "",
+   "inscricao_fim": "2026-11-10",
+   "cargos_ti": [
+    "Técnico de Informática (1 vaga + CR)"
+   ],
+   "perfis": [
+    "suporte"
+   ],
+   "taxa": "R$ 80,00 a R$ 200,00",
+   "prova": "29 de novembro de 2026",
+   "banca": "GAMA Consultoria em Gestão Pública",
+   "site_inscricao": "",
+   "editais": [
+    "EDITAL DE CONCURSO PÚBLICO Nº 001/2026"
+   ],
+   "visto_em": "2026-11-09"
+  },
+  "prefeitura-de-francisco-beltrao-pr-abre-processo-seletivo-para-diversos-cargos": {
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-francisco-beltrao-pr-abre-processo-seletivo-para-diversos-cargos",
+   "orgao": "Prefeitura de Francisco Beltrão",
+   "uf": "PR",
+   "titulo": "Prefeitura de Francisco Beltrão - PR abre processo seletivo para diversos cargos",
+   "vagas": "",
+   "salario_max": 6749.53,
+   "nivel": "Fundamental / Médio / Técnico / Superior",
+   "inscricao_inicio": "",
+   "inscricao_fim": "2026-11-09",
+   "cargos_ti": [
+    "Instrutor de Informática"
+   ],
+   "perfis": [
+    "docencia"
+   ],
+   "taxa": "",
+   "prova": "",
+   "banca": "",
+   "site_inscricao": "",
+   "editais": [
+    "EDITAL Nº 415"
+   ],
+   "visto_em": "2026-11-09"
+  },
+  "prefeitura-de-francisco-macedo-pi-abre-concurso-publico-com-vagas-imediatas-e-cadastro-de-reserva": {
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-francisco-macedo-pi-abre-concurso-publico-com-vagas-imediatas-e-cadastro-de-reserva",
+   "orgao": "Prefeitura de Francisco Macedo",
+   "uf": "PI",
+   "titulo": "Prefeitura de Francisco Macedo - PI abre concurso público com vagas imediatas e cadastro de reserva",
+   "vagas": "49 vagas",
+   "salario_max": 4318.18,
+   "nivel": "Fundamental / Médio / Técnico / Superior",
+   "inscricao_inicio": "",
+   "inscricao_fim": "2026-11-14",
+   "cargos_ti": [
+    "Analista de Tecnologia da Informação (1 vaga + CR)"
+   ],
+   "perfis": [
+    "geral"
+   ],
+   "taxa": "R$ 80,00 a R$ 110,00",
+   "prova": "6 de dezembro de 2026",
+   "banca": "",
+   "site_inscricao": "institutoibed.org",
+   "editais": [
+    "EDITAL - FRANCISCO MACEDO 1 CP"
+   ],
+   "visto_em": "2026-11-09"
+  },
+  "prefeitura-de-guaicara-sp-abre-concurso-publico-com-salarios-de-ate-17716": {
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-guaicara-sp-abre-concurso-publico-com-salarios-de-ate-17716",
+   "orgao": "Prefeitura de Guaiçara",
+   "uf": "SP",
+   "titulo": "Prefeitura de Guaiçara - SP abre concurso público com salários de até R$ 17.716,50",
+   "vagas": "33 vagas",
+   "salario_max": 17716.5,
+   "nivel": "Fundamental / Médio / Técnico / Superior",
+   "inscricao_inicio": "",
+   "inscricao_fim": "2026-11-11",
+   "cargos_ti": [
+    "PEB II Informática (1 vaga)"
+   ],
+   "perfis": [
+    "geral"
+   ],
+   "taxa": "R$ 60,00 a R$ 80,00",
+   "prova": "6 e 20 de dezembro de 2026",
+   "banca": "",
+   "site_inscricao": "portal.imperioconcursos.com.br",
+   "editais": [
+    "EDITAL DE ABERTURA DO CONCURSO PÚBLICO Nº 01/2026"
+   ],
+   "visto_em": "2026-11-09"
+  },
+  "prefeitura-de-guaratingueta-sp-abre-concurso-publico-com-salarios-de-ate-18540": {
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-guaratingueta-sp-abre-concurso-publico-com-salarios-de-ate-18540",
+   "orgao": "Prefeitura da Estância Turística de Guaratinguetá",
+   "uf": "SP",
+   "titulo": "Prefeitura de Guaratinguetá - SP abre concurso público com salários de até R$ 18.540,71",
+   "vagas": "107 vagas",
+   "salario_max": 18540.71,
+   "nivel": "Fundamental / Médio / Técnico / Superior",
+   "inscricao_inicio": "",
+   "inscricao_fim": "2026-12-15",
+   "cargos_ti": [
+    "Analista de Sistemas (1 vaga)"
+   ],
+   "perfis": [
+    "dev"
+   ],
+   "taxa": "R$ 65,00 a R$ 115,00",
+   "prova": "21 de fevereiro de 2027",
+   "banca": "Vunesp",
+   "site_inscricao": "www.vunesp.com.br",
+   "editais": [
+    "EDITAL DE ABERTURA - CONCURSO PÚBLICO Nº 001/2026"
+   ],
+   "visto_em": "2026-11-09"
+  },
+  "prefeitura-de-guaruja-do-sul-sc-abre-concurso-e-selecoes-com-salarios-de-ate-30-7-mil": {
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-guaruja-do-sul-sc-abre-concurso-e-selecoes-com-salarios-de-ate-30-7-mil",
+   "orgao": "Prefeitura de Guarujá do Sul",
+   "uf": "SC",
+   "titulo": "Prefeitura de Guarujá do Sul - SC abre concurso e seleções com salários de até R$ 30,7 mil",
+   "vagas": "5 vagas",
+   "salario_max": 30761.75,
+   "nivel": "Fundamental / Médio / Técnico / Superior",
+   "inscricao_inicio": "",
+   "inscricao_fim": "2026-12-02",
+   "cargos_ti": [
+    "Professor de Informática (cadastro de reserva)",
+    "Técnico em Informática (cadastro de reserva)"
+   ],
+   "perfis": [
+    "docencia",
+    "suporte"
+   ],
+   "taxa": "R$ 60,00 a R$ 120,00",
+   "prova": "20 de dezembro de 2026",
+   "banca": "Associação dos Municípios do Extremo Oeste de Santa Catarina (AMEOSC)",
+   "site_inscricao": "",
+   "editais": [
+    "EDITAL DE CONCURSO PÚBLICO Nº 001/2026",
+    "EDITAL DE PROCESSO SELETIVO Nº 001/2026",
+    "EDITAL DE PROCESSO SELETIVO Nº 002/2026"
+   ],
+   "visto_em": "2026-11-09"
+  },
+  "prefeitura-de-ijui-rs-abre-concurso-publico-com-salarios-de-ate-21312": {
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-ijui-rs-abre-concurso-publico-com-salarios-de-ate-21312",
+   "orgao": "Prefeitura de Ijuí",
+   "uf": "RS",
+   "titulo": "Prefeitura de Ijuí - RS abre concurso público com salários de até R$ 21.312,22",
+   "vagas": "157 vagas",
+   "salario_max": 21312.22,
+   "nivel": "Fundamental / Médio / Técnico / Superior",
+   "inscricao_inicio": "",
+   "inscricao_fim": "2026-11-19",
+   "cargos_ti": [
+    "Técnico em Informática"
+   ],
+   "perfis": [
+    "suporte"
+   ],
+   "taxa": "R$ 53,45 a R$ 267,23",
+   "prova": "19 e 20 de dezembro de 2026",
+   "banca": "Fundatec",
+   "site_inscricao": "www.fundatec.org.br",
+   "editais": [
+    "EDITAL DE ABERTURA - CONCURSO PÚBLICO Nº 01/2026"
+   ],
+   "visto_em": "2026-11-09"
+  },
+  "prefeitura-de-ilhota-sc-publica-edital-de-concurso-publico-com-salarios-de-ate-21113": {
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-ilhota-sc-publica-edital-de-concurso-publico-com-salarios-de-ate-21113",
+   "orgao": "Prefeitura de Ilhota",
+   "uf": "SC",
+   "titulo": "Prefeitura de Ilhota - SC publica edital de concurso público com salários de até R$ 21.113,16",
+   "vagas": "36 vagas",
+   "salario_max": 21113.16,
+   "nivel": "Fundamental / Médio / Técnico / Superior",
+   "inscricao_inicio": "",
+   "inscricao_fim": "2026-11-14",
+   "cargos_ti": [
+    "Instrutor de Informática (CR)"
+   ],
+   "perfis": [
+    "docencia"
+   ],
+   "taxa": "R$ 70,00 a R$ 150,00",
+   "prova": "6 de dezembro de 2026",
+   "banca": "Acesse Concursos",
+   "site_inscricao": "",
+   "editais": [
+    "EDITAL DE CONCURSO PÚBLICO Nº 001/2026"
+   ],
+   "visto_em": "2026-11-09"
+  },
+  "prefeitura-de-ipora-do-oeste-sc-abre-concurso-publico-e-processos-seletivos-com-salarios-de-ate-19265": {
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-ipora-do-oeste-sc-abre-concurso-publico-e-processos-seletivos-com-salarios-de-ate-19265",
+   "orgao": "Prefeitura de Iporã do Oeste",
+   "uf": "SC",
+   "titulo": "Prefeitura de Iporã do Oeste - SC abre concurso público e processos seletivos com salários de até R$ 19.265,80",
+   "vagas": "5 vagas",
+   "salario_max": 19265.8,
+   "nivel": "Fundamental / Médio / Técnico / Superior",
+   "inscricao_inicio": "",
+   "inscricao_fim": "2026-11-16",
+   "cargos_ti": [
+    "Professor de Informática"
+   ],
+   "perfis": [
+    "docencia"
+   ],
+   "taxa": "R$ 60,00 a R$ 120,00",
+   "prova": "",
+   "banca": "Associação dos Municípios do Extremo Oeste de Santa Catarina (AMEOSC)",
+   "site_inscricao": "",
+   "editais": [
+    "EDITAL DE PROCESSO SELETIVO Nº 014/2026",
+    "EDITAL DE CONCURSO PÚBLICO Nº 015/2026",
+    "EDITAL DE PROCESSO SELETIVO Nº 016/2026"
+   ],
+   "visto_em": "2026-11-09"
+  },
+  "prefeitura-de-itapororoca-pb-abre-concurso-com-salarios-de-ate-10000": {
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-itapororoca-pb-abre-concurso-com-salarios-de-ate-10000",
+   "orgao": "Prefeitura de Itapororoca",
+   "uf": "PB",
+   "titulo": "Prefeitura de Itapororoca - PB abre concurso com salários de até R$ 10.000,00",
+   "vagas": "175 vagas",
+   "salario_max": 10000.0,
+   "nivel": "Fundamental / Médio / Técnico / Superior",
+   "inscricao_inicio": "",
+   "inscricao_fim": "2026-11-20",
+   "cargos_ti": [
+    "Analista Desenvolvedor de Sistema (1 vaga)"
+   ],
+   "perfis": [
+    "dev"
+   ],
+   "taxa": "R$ 80,00 a R$ 115,00",
+   "prova": "20 de dezembro de 2026",
+   "banca": "FACET Concursos",
+   "site_inscricao": "",
+   "editais": [
+    "EDITAL 01/2026"
+   ],
+   "visto_em": "2026-11-09"
+  },
+  "prefeitura-de-itapuca-rs-retifica-concurso-publico-com-salarios-de-ate-9495": {
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-itapuca-rs-retifica-concurso-publico-com-salarios-de-ate-9495",
+   "orgao": "Prefeitura de Itapuca",
+   "uf": "RS",
+   "titulo": "Prefeitura de Itapuca - RS retifica concurso público com salários de até R$ 9.495,82",
+   "vagas": "51 vagas",
+   "salario_max": 9495.82,
+   "nivel": "Médio / Técnico / Superior",
+   "inscricao_inicio": "",
+   "inscricao_fim": "2026-11-12",
+   "cargos_ti": [
+    "Professor de Computação (1 vaga)"
+   ],
+   "perfis": [
+    "docencia"
+   ],
+   "taxa": "R$ 115,00 a R$ 185,00",
+   "prova": "",
+   "banca": "Fundatec",
+   "site_inscricao": "www.fundatec.org.br",
+   "editais": [
+    "EDITAL DE ABERTURA - CONCURSO PÚBLICO Nº 01/2026",
+    "RETIFICAÇÃO DO EDITAL DE ABERTURA E DEVOLUÇÃO DA TAXA DE INSCRIÇÃO"
+   ],
+   "visto_em": "2026-11-09"
+  },
+  "prefeitura-de-jandira-sp-abre-concurso-publico-com-salarios-de-ate-6812": {
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-jandira-sp-abre-concurso-publico-com-salarios-de-ate-6812",
+   "orgao": "Prefeitura de Jandira",
+   "uf": "SP",
+   "titulo": "Prefeitura de Jandira - SP abre concurso público com salários de até R$ 6.812,14",
+   "vagas": "308 vagas",
+   "salario_max": 6812.14,
+   "nivel": "Fundamental / Médio / Superior",
+   "inscricao_inicio": "2026-11-16",
+   "inscricao_fim": "2027-01-04",
+   "cargos_ti": [
+    "Técnico em Tecnologia da Informação (2 vagas)",
+    "Analista de Rede (cadastro de reserva)"
+   ],
+   "perfis": [
+    "geral",
+    "infra"
+   ],
+   "taxa": "R$ 67,00 a R$ 115,00",
+   "prova": "21 de fevereiro de 2027",
+   "banca": "Vunesp",
+   "site_inscricao": "www.vunesp.com.br",
+   "editais": [
+    "EDITAL DE ABERTURA - CONCURSO PÚBLICO Nº 1/2026"
+   ],
+   "visto_em": "2026-11-09"
+  },
+  "prefeitura-de-leme-sp-abre-concurso-publico-com-salarios-de-ate-13359": {
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-leme-sp-abre-concurso-publico-com-salarios-de-ate-13359",
+   "orgao": "Prefeitura de Leme",
+   "uf": "SP",
+   "titulo": "Prefeitura de Leme - SP abre concurso público com salários de até R$ 13.359,44",
+   "vagas": "29 vagas",
+   "salario_max": 13359.44,
+   "nivel": "Fundamental / Médio / Técnico / Superior",
+   "inscricao_inicio": "",
+   "inscricao_fim": "2026-11-30",
+   "cargos_ti": [
+    "Analista de Tecnologia da Informação (1 vaga)"
+   ],
+   "perfis": [
+    "geral"
+   ],
+   "taxa": "R$ 32,00 a R$ 80,00",
+   "prova": "20 de dezembro de 2026",
+   "banca": "INDEPAC",
+   "site_inscricao": "",
+   "editais": [
+    "EDITAL Nº 02/2026"
+   ],
+   "visto_em": "2026-11-09"
+  },
+  "prefeitura-de-luis-eduardo-magalhaes-ba-abre-processo-seletivo-para-diversos-cargos": {
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-luis-eduardo-magalhaes-ba-abre-processo-seletivo-para-diversos-cargos",
+   "orgao": "Prefeitura de Luís Eduardo Magalhães",
+   "uf": "BA",
+   "titulo": "Prefeitura de Luís Eduardo Magalhães - BA abre processo seletivo para diversos cargos",
+   "vagas": "2355 vagas",
+   "salario_max": 9216.9,
+   "nivel": "Fundamental / Médio / Técnico / Superior",
+   "inscricao_inicio": "",
+   "inscricao_fim": "2026-11-15",
+   "cargos_ti": [
+    "Instrutor de informática (2 vagas)"
+   ],
+   "perfis": [
+    "docencia"
+   ],
+   "taxa": "R$ 40,00 a R$ 90,00",
+   "prova": "13 de dezembro de 2026",
+   "banca": "ICDS",
+   "site_inscricao": "",
+   "editais": [
+    "EDITAL 001/2026"
+   ],
+   "visto_em": "2026-11-09"
+  },
+  "prefeitura-de-luislandia-mg-abre-concurso-publico-com-vagas-em-diversas-areas": {
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-luislandia-mg-abre-concurso-publico-com-vagas-em-diversas-areas",
+   "orgao": "Prefeitura de Luislândia",
+   "uf": "MG",
+   "titulo": "Prefeitura de Luislândia - MG abre concurso público com vagas em diversas áreas",
+   "vagas": "88 vagas",
+   "salario_max": 10000.0,
+   "nivel": "Fundamental / Médio / Técnico / Superior",
+   "inscricao_inicio": "2026-12-10",
+   "inscricao_fim": "2027-01-06",
+   "cargos_ti": [
+    "Técnico de Nível Médio - Tecnologia da Informação (1 vaga)"
+   ],
+   "perfis": [
+    "geral"
+   ],
+   "taxa": "R$ 65,00 a R$ 100,00",
+   "prova": "31 de janeiro de 2027",
+   "banca": "",
+   "site_inscricao": "cotec.fadenor.com.br",
+   "editais": [
+    "EDITAL 01/2026"
+   ],
+   "visto_em": "2026-11-09"
+  },
+  "prefeitura-de-luiz-alves-sc-abre-concurso-publico-com-salarios-de-ate-8889": {
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-luiz-alves-sc-abre-concurso-publico-com-salarios-de-ate-8889",
+   "orgao": "Prefeitura de Luiz Alves",
+   "uf": "SC",
+   "titulo": "Prefeitura de Luiz Alves - SC abre concurso público com salários de até R$ 8.889,30",
+   "vagas": "63 vagas",
+   "salario_max": 8889.3,
+   "nivel": "Fundamental / Médio / Técnico / Superior",
+   "inscricao_inicio": "",
+   "inscricao_fim": "2026-11-23",
+   "cargos_ti": [
+    "Técnico em Manutenção e Suporte de Informática"
+   ],
+   "perfis": [
+    "suporte"
+   ],
+   "taxa": "R$ 90,00 a R$ 160,00",
+   "prova": "13 de dezembro de 2026",
+   "banca": "",
+   "site_inscricao": "www.univali.br/concursos",
+   "editais": [
+    "EDITAL Nº 08/2026"
+   ],
+   "visto_em": "2026-11-09"
+  },
+  "prefeitura-de-luzerna-sc-abre-concurso-publico-com-salarios-de-ate-14004": {
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-luzerna-sc-abre-concurso-publico-com-salarios-de-ate-14004",
+   "orgao": "Prefeitura de Luzerna",
+   "uf": "SC",
+   "titulo": "Prefeitura de Luzerna - SC abre concurso público com salários de até R$ 14.004,25",
+   "vagas": "4 vagas",
+   "salario_max": 14004.25,
+   "nivel": "Fundamental / Médio / Técnico / Superior",
+   "inscricao_inicio": "",
+   "inscricao_fim": "2026-12-03",
+   "cargos_ti": [
+    "Monitor de Informática",
+    "Professor de Informática"
+   ],
+   "perfis": [
+    "geral",
+    "docencia"
+   ],
+   "taxa": "R$ 50,00 a R$ 100,00",
+   "prova": "17 de janeiro de 2027",
+   "banca": "Instituto DOM",
+   "site_inscricao": "",
+   "editais": [
+    "EDITAL DO CONCURSO PÚBLICO Nº 001"
+   ],
+   "visto_em": "2026-11-09"
+  },
+  "prefeitura-de-mairi-ba-abre-concurso-publico-com-vagas-na-saude-e-educacao": {
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-mairi-ba-abre-concurso-publico-com-vagas-na-saude-e-educacao",
+   "orgao": "Prefeitura de Mairi",
+   "uf": "BA",
+   "titulo": "Prefeitura de Mairi - BA abre concurso público com vagas na saúde e educação",
+   "vagas": "20 vagas",
+   "salario_max": 3242.0,
+   "nivel": "Médio / Técnico / Superior",
+   "inscricao_inicio": "",
+   "inscricao_fim": "2026-11-23",
+   "cargos_ti": [
+    "Técnico de Informática (1 vaga)",
+    "Técnico em Informática (2 vagas)"
+   ],
+   "perfis": [
+    "suporte"
+   ],
+   "taxa": "R$ 90,00 a R$ 100,00",
+   "prova": "21 de fevereiro de 2027",
+   "banca": "INETE",
+   "site_inscricao": "",
+   "editais": [
+    "EDITAL DE CONCURSO PÚBLICO Nº 001/2026"
+   ],
+   "visto_em": "2026-11-09"
+  },
+  "prefeitura-de-marapoama-sp-abre-processo-seletivo-com-vagas-imediatas-e-cadastro-de-reserva": {
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-marapoama-sp-abre-processo-seletivo-com-vagas-imediatas-e-cadastro-de-reserva",
+   "orgao": "Prefeitura de Marapoama",
+   "uf": "SP",
+   "titulo": "Prefeitura de Marapoama - SP abre processo seletivo com vagas imediatas e cadastro de reserva",
+   "vagas": "34 vagas",
+   "salario_max": 3242.0,
+   "nivel": "Fundamental / Médio / Superior",
+   "inscricao_inicio": "",
+   "inscricao_fim": "2026-11-17",
+   "cargos_ti": [
+    "Monitor de Informática (1 vaga e cadastro de reserva)"
+   ],
+   "perfis": [
+    "geral"
+   ],
+   "taxa": "R$ 35,00 a R$ 85,00",
+   "prova": "29 de novembro de 2026",
+   "banca": "FAMA Consultoria",
+   "site_inscricao": "",
+   "editais": [
+    "EDITAL DE ABERTURA Nº 01/2026 - PROCESSO SELETIVO SIMPLIFICADO Nº 02/2026"
+   ],
+   "visto_em": "2026-11-09"
+  },
+  "prefeitura-de-mirassol-doeste-mt-abre-processo-seletivo-com-salarios-de-ate-27645": {
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-mirassol-doeste-mt-abre-processo-seletivo-com-salarios-de-ate-27645",
+   "orgao": "Prefeitura de Mirassol d'Oeste",
+   "uf": "MT",
+   "titulo": "Prefeitura de Mirassol d'Oeste - MT abre processo seletivo com salários de até R$ 27.645,05",
+   "vagas": "205 vagas",
+   "salario_max": 27645.05,
+   "nivel": "Fundamental / Médio / Técnico / Superior",
+   "inscricao_inicio": "",
+   "inscricao_fim": "2026-11-16",
+   "cargos_ti": [
+    "Monitor de Informática (5 vagas)"
+   ],
+   "perfis": [
+    "geral"
+   ],
+   "taxa": "R$ 60,00 a R$ 100,00",
+   "prova": "13 de dezembro de 2026",
+   "banca": "",
+   "site_inscricao": "mirassoldoeste.selecao.net.br",
+   "editais": [
+    "EDITAL Nº 01/2026",
+    "ANEXO III - CRONOGRAMA"
+   ],
+   "visto_em": "2026-11-09"
+  },
+  "prefeitura-de-montenegro-rs-abre-concurso-publico-com-salarios-de-ate-9848": {
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-montenegro-rs-abre-concurso-publico-com-salarios-de-ate-9848",
+   "orgao": "Prefeitura de Montenegro",
+   "uf": "RS",
+   "titulo": "Prefeitura de Montenegro - RS abre concurso público com salários de até R$ 9.848,34",
+   "vagas": "84 vagas",
+   "salario_max": 9848.34,
+   "nivel": "Fundamental / Médio / Técnico / Superior",
+   "inscricao_inicio": "",
+   "inscricao_fim": "2026-11-13",
+   "cargos_ti": [
+    "Analista de Sistemas (1 + CR)",
+    "Técnico de Suporte em Informática (1 + CR)"
+   ],
+   "perfis": [
+    "dev",
+    "suporte"
+   ],
+   "taxa": "R$ 98,05 a R$ 196,50",
+   "prova": "12 e 13 de dezembro de 2026",
+   "banca": "Fundatec",
+   "site_inscricao": "www.fundatec.org.br",
+   "editais": [
+    "EDITAL DE ABERTURA CONCURSO PÚBLICO Nº 97/2026"
+   ],
+   "visto_em": "2026-11-09"
+  },
+  "prefeitura-de-moreilandia-pe-retifica-dois-concursos-publicos": {
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-moreilandia-pe-retifica-dois-concursos-publicos",
+   "orgao": "Prefeitura de Moreilândia",
+   "uf": "PE",
+   "titulo": "Prefeitura de Moreilândia - PE retifica dois concursos públicos",
+   "vagas": "381 vagas",
+   "salario_max": 10000.0,
+   "nivel": "Médio / Técnico / Superior",
+   "inscricao_inicio": "",
+   "inscricao_fim": "2026-12-03",
+   "cargos_ti": [
+    "Técnico em Informática (17 vagas + CR)"
+   ],
+   "perfis": [
+    "suporte"
+   ],
+   "taxa": "R$ 100,00 a R$ 140,00",
+   "prova": "20 de fevereiro de 2027",
+   "banca": "",
+   "site_inscricao": "www.consulpam.com.br",
+   "editais": [
+    "EDITAL Nº 001/2026",
+    "SUSPENSÃO",
+    "EDITAL Nº 001/2026 RETIFICADO",
+    "EDITAL Nº 002/2026",
+    "SUSPENSÃO",
+    "EDITAL Nº 002/2026 RETIFICADO"
+   ],
+   "visto_em": "2026-11-09"
+  },
+  "prefeitura-de-nova-boa-vista-rs-abre-concurso-publico-com-salarios-de-ate-12039": {
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-nova-boa-vista-rs-abre-concurso-publico-com-salarios-de-ate-12039",
+   "orgao": "Prefeitura de Nova Boa Vista",
+   "uf": "RS",
+   "titulo": "Prefeitura de Nova Boa Vista - RS abre concurso público com salários de até R$ 12.039,12",
+   "vagas": "20 vagas",
+   "salario_max": 12039.12,
+   "nivel": "Médio / Técnico / Superior",
+   "inscricao_inicio": "",
+   "inscricao_fim": "2026-11-10",
+   "cargos_ti": [
+    "Professor de Informática (1 vaga + Cadastro de Reserva)"
+   ],
+   "perfis": [
+    "docencia"
+   ],
+   "taxa": "R$ 250,00 a R$ 320,00",
+   "prova": "6 de dezembro de 2026",
+   "banca": "",
+   "site_inscricao": "fundacaolasalle.org.br/concursos",
+   "editais": [
+    "EDITAL DE ABERTURA Nº 088/2026"
+   ],
+   "visto_em": "2026-11-09"
+  },
+  "prefeitura-de-novo-cabrais-rs-abre-concurso-publico-com-salarios-de-ate-19089": {
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-novo-cabrais-rs-abre-concurso-publico-com-salarios-de-ate-19089",
+   "orgao": "Prefeitura de Novo Cabrais",
+   "uf": "RS",
+   "titulo": "Prefeitura de Novo Cabrais - RS abre concurso público com salários de até R$ 19.089,94",
+   "vagas": "9 vagas",
+   "salario_max": 19089.94,
+   "nivel": "Fundamental / Médio / Técnico / Superior",
+   "inscricao_inicio": "",
+   "inscricao_fim": "2026-11-23",
+   "cargos_ti": [
+    "Professor de Informática (1 vaga + CR)",
+    "Técnico em Informática (1 vaga + CR)"
+   ],
+   "perfis": [
+    "docencia",
+    "suporte"
+   ],
+   "taxa": "R$ 81,80 a R$ 245,40",
+   "prova": "10 de janeiro de 2027",
+   "banca": "Instituto Objetiva",
+   "site_inscricao": "",
+   "editais": [
+    "EDITAL DE CONCURSO PÚBLICO Nº 01/202"
+   ],
+   "visto_em": "2026-11-09"
+  },
+  "prefeitura-de-novo-sao-joaquim-mt-abre-concurso-com-salarios-de-ate-11979": {
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-novo-sao-joaquim-mt-abre-concurso-com-salarios-de-ate-11979",
+   "orgao": "Prefeitura de Novo São Joaquim",
+   "uf": "MT",
+   "titulo": "Prefeitura de Novo São Joaquim - MT abre concurso com salários de até R$ 11.979,03",
+   "vagas": "266 vagas",
+   "salario_max": 11979.03,
+   "nivel": "Fundamental / Médio / Técnico / Superior",
+   "inscricao_inicio": "2026-12-02",
+   "inscricao_fim": "2027-01-04",
+   "cargos_ti": [
+    "Instrutor de Informática (2 vagas)"
+   ],
+   "perfis": [
+    "docencia"
+   ],
+   "taxa": "R$ 60,00 a R$ 100,00",
+   "prova": "21 de fevereiro de 2027",
+   "banca": "",
+   "site_inscricao": "www.ibgpconcursos.com.br",
+   "editais": [
+    "EDITAL Nº 01/2026"
+   ],
+   "visto_em": "2026-11-09"
+  },
+  "prefeitura-de-novo-xingu-rs-abre-concurso-publico-com-salarios-de-ate-8797": {
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-novo-xingu-rs-abre-concurso-publico-com-salarios-de-ate-8797",
+   "orgao": "Prefeitura de Novo Xingu",
+   "uf": "RS",
+   "titulo": "Prefeitura de Novo Xingu - RS abre concurso público com salários de até R$ 8.797,52",
+   "vagas": "12 vagas",
+   "salario_max": 8797.52,
+   "nivel": "Fundamental / Médio / Técnico / Superior",
+   "inscricao_inicio": "",
+   "inscricao_fim": "2026-11-30",
+   "cargos_ti": [
+    "Técnico em Informática (1 vaga)"
+   ],
+   "perfis": [
+    "suporte"
+   ],
+   "taxa": "R$ 90,00 a R$ 150,00",
+   "prova": "24 de janeiro de 2027",
+   "banca": "Instituto Objetiva",
+   "site_inscricao": "",
+   "editais": [
+    "EDITAL DE CONCURSO PÚBLICO Nº 001/2026"
+   ],
+   "visto_em": "2026-11-09"
+  },
+  "prefeitura-de-oleo-sp-abre-processo-seletivo-para-diversos-cargos": {
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-oleo-sp-abre-processo-seletivo-para-diversos-cargos",
+   "orgao": "Prefeitura de Óleo",
+   "uf": "SP",
+   "titulo": "Prefeitura de Óleo - SP abre processo seletivo para diversos cargos",
+   "vagas": "",
+   "salario_max": 3951.25,
+   "nivel": "Fundamental / Médio / Técnico / Superior",
+   "inscricao_inicio": "",
+   "inscricao_fim": "2026-11-17",
+   "cargos_ti": [
+    "Técnico em Informática"
+   ],
+   "perfis": [
+    "suporte"
+   ],
+   "taxa": "R$ 35,00 a R$ 45,00",
+   "prova": "12 de dezembro de 2026",
+   "banca": "",
+   "site_inscricao": "www.omconcursos.com.br",
+   "editais": [
+    "EDITAL DE PROCESSO SELETIVO PÚBLICO Nº 01/2026"
+   ],
+   "visto_em": "2026-11-09"
+  },
+  "prefeitura-de-passo-de-torres-sc-abre-processo-seletivo-para-diversos-cargos-na-educacao": {
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-passo-de-torres-sc-abre-processo-seletivo-para-diversos-cargos-na-educacao",
+   "orgao": "Prefeitura de Passo de Torres",
+   "uf": "SC",
+   "titulo": "Prefeitura de Passo de Torres - SC abre processo seletivo para diversos cargos na educação",
+   "vagas": "181 vagas",
+   "salario_max": 5959.62,
+   "nivel": "Fundamental / Médio / Superior",
+   "inscricao_inicio": "",
+   "inscricao_fim": "2026-11-12",
+   "cargos_ti": [
+    "Professor de Informática (1 vaga)"
+   ],
+   "perfis": [
+    "docencia"
+   ],
+   "taxa": "R$ 100,00 a R$ 150,00",
+   "prova": "6 de dezembro de 2026",
+   "banca": "",
+   "site_inscricao": "",
+   "editais": [
+    "EDITAL 002/2026"
+   ],
+   "visto_em": "2026-11-09"
+  },
+  "prefeitura-de-patis-mg-abre-concurso-publico-com-salarios-de-ate-13500": {
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-patis-mg-abre-concurso-publico-com-salarios-de-ate-13500",
+   "orgao": "Prefeitura de Patis",
+   "uf": "MG",
+   "titulo": "Prefeitura de Patis - MG abre concurso público com salários de até R$ 13.500,00",
+   "vagas": "154 vagas",
+   "salario_max": 13500.0,
+   "nivel": "Fundamental / Médio / Técnico / Superior",
+   "inscricao_inicio": "",
+   "inscricao_fim": "2026-12-30",
+   "cargos_ti": [
+    "Professor de Computação (2 vagas)",
+    "Técnico em Informática (2 vagas)"
+   ],
+   "perfis": [
+    "docencia",
+    "suporte"
+   ],
+   "taxa": "R$ 65,00 a R$ 100,00",
+   "prova": "31 de janeiro de 2027",
+   "banca": "",
+   "site_inscricao": "cotec.fadenor.com.br",
+   "editais": [
+    "EDITAL 01/2026"
+   ],
+   "visto_em": "2026-11-09"
+  },
+  "prefeitura-de-piracema-mg-abre-concurso-e-processo-seletivo-com-diversas-vagas": {
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-piracema-mg-abre-concurso-e-processo-seletivo-com-diversas-vagas",
+   "orgao": "Prefeitura de Piracema",
+   "uf": "MG",
+   "titulo": "Prefeitura de Piracema - MG abre concurso e processo seletivo com diversas vagas",
+   "vagas": "132 vagas",
+   "salario_max": 18647.01,
+   "nivel": "Fundamental / Médio / Técnico / Superior",
+   "inscricao_inicio": "",
+   "inscricao_fim": "2026-11-18",
+   "cargos_ti": [
+    "Técnico em Informática (1 vaga)"
+   ],
+   "perfis": [
+    "suporte"
+   ],
+   "taxa": "R$ 60,00 a R$ 100,00",
+   "prova": "",
+   "banca": "",
+   "site_inscricao": "www.idepi.org.br",
+   "editais": [
+    "EDITAL Nº 01/2026 - CONCURSO PÚBLICO",
+    "EDITAL Nº 02/2026 - PROCESSO SELETIVO PÚBLICO"
+   ],
+   "visto_em": "2026-11-09"
+  },
+  "prefeitura-de-praia-grande-sc-abre-selecoes-com-salarios-de-ate-7921": {
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-praia-grande-sc-abre-selecoes-com-salarios-de-ate-7921",
+   "orgao": "Prefeitura de Praia Grande e Fundo Municipal de Saúde",
+   "uf": "SC",
+   "titulo": "Prefeitura de Praia Grande - SC abre seleções com salários de até R$ 7.921,65",
+   "vagas": "79 vagas",
+   "salario_max": 7921.65,
+   "nivel": "Fundamental / Médio / Técnico / Superior",
+   "inscricao_inicio": "",
+   "inscricao_fim": "2026-11-22",
+   "cargos_ti": [
+    "Professor de Informática habilitado (1 vaga)",
+    "Professor de Informática não habilitado"
+   ],
+   "perfis": [
+    "docencia"
+   ],
+   "taxa": "R$ 80,00 a R$ 100,00",
+   "prova": "13 de dezembro de 2026",
+   "banca": "Instituto Legalle",
+   "site_inscricao": "",
+   "editais": [
+    "EDITAL DE PROCESSO SELETIVO SIMPLIFICADO 001/2026",
+    "EDITAL DE PROCESSO SELETIVO SIMPLIFICADO 002/2026",
+    "EDITAL DE PROCESSO SELETIVO SIMPLIFICADO 003/2026"
+   ],
+   "visto_em": "2026-11-09"
+  },
+  "prefeitura-de-quixada-ce-abre-processo-seletivo-com-vagas-imediatas-e-cadastro-de-reserva": {
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-quixada-ce-abre-processo-seletivo-com-vagas-imediatas-e-cadastro-de-reserva",
+   "orgao": "Prefeitura de Quixadá",
+   "uf": "CE",
+   "titulo": "Prefeitura de Quixadá - CE abre processo seletivo com vagas imediatas e cadastro de reserva",
+   "vagas": "411 vagas",
+   "salario_max": 3138.0,
+   "nivel": "Fundamental / Médio / Técnico / Superior",
+   "inscricao_inicio": "",
+   "inscricao_fim": "2026-11-16",
+   "cargos_ti": [
+    "Técnico(a) de informática"
+   ],
+   "perfis": [
+    "geral"
+   ],
+   "taxa": "R$ 70,00 a R$ 130,00",
+   "prova": "27 de março de 2027",
+   "banca": "",
+   "site_inscricao": "www.inbrasp.org",
+   "editais": [
+    "EDITAL DO PROCESSO SELETIVO Nº 001/2026"
+   ],
+   "visto_em": "2026-11-09"
+  },
+  "prefeitura-de-ribeiraozinho-do-maranhao-ma-publica-editais-de-concurso-e-processo-seletivo": {
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-ribeiraozinho-do-maranhao-ma-publica-editais-de-concurso-e-processo-seletivo",
+   "orgao": "Prefeitura de Ribeirãozinho do Maranhão",
+   "uf": "MA",
+   "titulo": "Prefeitura de Ribeirãozinho do Maranhão - MA publica editais de concurso e processo seletivo",
+   "vagas": "211 vagas",
+   "salario_max": 6500.0,
+   "nivel": "Fundamental / Médio / Técnico / Superior",
+   "inscricao_inicio": "",
+   "inscricao_fim": "2026-12-01",
+   "cargos_ti": [
+    "Técnico de Informática (1 vaga)"
+   ],
+   "perfis": [
+    "suporte"
+   ],
+   "taxa": "R$ 80,00 a R$ 110,00",
+   "prova": "24 de janeiro de 2027",
+   "banca": "",
+   "site_inscricao": "www.fsaduconcursos.org.br",
+   "editais": [
+    "EDITAL DO CONCURSO PÚBLICO Nº 001",
+    "EDITAL DO CONCURSO PÚBLICO Nº 003",
+    "EDITAL DO CONCURSO PÚBLICO Nº 003"
+   ],
+   "visto_em": "2026-11-09"
+  },
+  "prefeitura-de-rio-negrinho-sc-e-orgaos-municipais-abrem-novos-concursos-publicos": {
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-rio-negrinho-sc-e-orgaos-municipais-abrem-novos-concursos-publicos",
+   "orgao": "Prefeitura de Rio Negrinho, FMC, IPRERIO e SAMAE",
+   "uf": "SC",
+   "titulo": "Prefeitura de Rio Negrinho - SC e órgãos municipais abrem novos concursos públicos",
+   "vagas": "27 vagas",
+   "salario_max": 18538.78,
+   "nivel": "Fundamental / Médio / Técnico / Superior",
+   "inscricao_inicio": "",
+   "inscricao_fim": "2026-11-15",
+   "cargos_ti": [
+    "Monitor de Tecnologia da Informação (1 vaga)",
+    "Monitor de Tecnologia da Informação (Volta Grande e Serro Azul)"
+   ],
+   "perfis": [
+    "geral"
+   ],
+   "taxa": "R$ 40,00 a R$ 100,00",
+   "prova": "6 de dezembro de 2026",
+   "banca": "Instituto Legalle",
+   "site_inscricao": "",
+   "editais": [
+    "FMC CONCURSO PÚBLICO 001/2026",
+    "IPRERIO CONCURSO PÚBLICO 001/2026",
+    "SAMAE CONCURSO PÚBLICO 001/2026",
+    "MUNICÍPIO DE RIO NEGRINHO CONCURSO PÚBLICO 001/2026"
+   ],
+   "visto_em": "2026-11-09"
+  },
+  "prefeitura-de-rodeio-sc-abre-processos-seletivos-para-diversos-cargos": {
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-rodeio-sc-abre-processos-seletivos-para-diversos-cargos",
+   "orgao": "Prefeitura de Rodeio",
+   "uf": "SC",
+   "titulo": "Prefeitura de Rodeio - SC abre processos seletivos para diversos cargos",
+   "vagas": "4 vagas",
+   "salario_max": 4299.34,
+   "nivel": "Fundamental / Médio / Técnico / Superior",
+   "inscricao_inicio": "",
+   "inscricao_fim": "2026-11-13",
+   "cargos_ti": [
+    "Professor de Informática (Habilitado e Não habilitado)"
+   ],
+   "perfis": [
+    "docencia"
+   ],
+   "taxa": "R$ 30,00 a R$ 60,00",
+   "prova": "22 de novembro de 2026",
+   "banca": "",
+   "site_inscricao": "portal.sctreinamentos.selecao.site",
+   "editais": [
+    "EDITAL DE PROCESSO SELETIVO Nº 14/2026",
+    "EDITAL DE PROCESSO SELETIVO Nº 15/2026"
+   ],
+   "visto_em": "2026-11-09"
+  },
+  "prefeitura-de-santa-luzia-doeste-ro-abre-selecao-com-salarios-de-ate-5130": {
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-santa-luzia-doeste-ro-abre-selecao-com-salarios-de-ate-5130",
+   "orgao": "Prefeitura de Santa Luzia d'Oeste",
+   "uf": "RO",
+   "titulo": "Prefeitura de Santa Luzia d'Oeste - RO abre seleção com salários de até R$ 5.130,63",
+   "vagas": "34 vagas",
+   "salario_max": 5130.63,
+   "nivel": "Fundamental / Médio / Técnico / Superior",
+   "inscricao_inicio": "",
+   "inscricao_fim": "2026-11-11",
+   "cargos_ti": [
+    "Instrutor de Informática (1 vaga)"
+   ],
+   "perfis": [
+    "docencia"
+   ],
+   "taxa": "",
+   "prova": "",
+   "banca": "",
+   "site_inscricao": "",
+   "editais": [
+    "EDITAL DE PROCESSO SELETIVO SIMPLIFICADO 002/SEMAD/2026",
+    "RETIFICAÇÃO - CRONOGRAMA"
+   ],
+   "visto_em": "2026-11-09"
+  },
+  "prefeitura-de-santa-luzia-mg-abre-concurso-publico-com-salarios-de-ate-8628": {
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-santa-luzia-mg-abre-concurso-publico-com-salarios-de-ate-8628",
+   "orgao": "Prefeitura de Santa Luzia",
+   "uf": "MG",
+   "titulo": "Prefeitura de Santa Luzia - MG abre concurso público com salários de até R$ 8.628,87",
+   "vagas": "454 vagas",
+   "salario_max": 8628.87,
+   "nivel": "Fundamental / Médio / Técnico / Superior",
+   "inscricao_inicio": "2026-12-17",
+   "inscricao_fim": "2027-01-15",
+   "cargos_ti": [
+    "Analista de Sistemas (1 vaga)",
+    "Técnico em Informática (2 vagas)"
+   ],
+   "perfis": [
+    "dev",
+    "suporte"
+   ],
+   "taxa": "R$ 70,00 a R$ 175,00",
+   "prova": "14 de março de 2027",
+   "banca": "",
+   "site_inscricao": "cotec.fadenor.com.br",
+   "editais": [
+    "EDITAL 01/2026"
+   ],
+   "visto_em": "2026-11-09"
+  },
+  "prefeitura-de-santana-dos-montes-mg-abre-concurso-publico-com-salarios-de-ate-20418": {
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-santana-dos-montes-mg-abre-concurso-publico-com-salarios-de-ate-20418",
+   "orgao": "Prefeitura de Santana dos Montes",
+   "uf": "MG",
+   "titulo": "Prefeitura de Santana dos Montes - MG abre concurso público com salários de até R$ 20.418,44",
+   "vagas": "43 vagas",
+   "salario_max": 20418.44,
+   "nivel": "Fundamental / Médio / Técnico / Superior",
+   "inscricao_inicio": "2026-12-23",
+   "inscricao_fim": "2027-01-21",
+   "cargos_ti": [
+    "Auxiliar de Informática (1 vaga)"
+   ],
+   "perfis": [
+    "geral"
+   ],
+   "taxa": "R$ 50,00 a R$ 120,00",
+   "prova": "21 de fevereiro de 2027",
+   "banca": "Elo Assessoria",
+   "site_inscricao": "",
+   "editais": [
+    "EDITAL Nº 01/2026"
+   ],
+   "visto_em": "2026-11-09"
+  },
+  "prefeitura-de-santo-antonio-da-patrulha-rs-divulga-processo-seletivo-para-instrutores-educacionais": {
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-santo-antonio-da-patrulha-rs-divulga-processo-seletivo-para-instrutores-educacionais",
+   "orgao": "Prefeitura de Santo Antônio da Patrulha",
+   "uf": "RS",
+   "titulo": "Prefeitura de Santo Antônio da Patrulha - RS divulga processo seletivo para instrutores educacionais",
+   "vagas": "",
+   "salario_max": 2367.2,
+   "nivel": "Médio / Superior",
+   "inscricao_inicio": "",
+   "inscricao_fim": "2026-11-13",
+   "cargos_ti": [
+    "Instrutor Educacional de Informática e Letramento"
+   ],
+   "perfis": [
+    "docencia"
+   ],
+   "taxa": "R$ 30,00 a R$ 40,00",
+   "prova": "",
+   "banca": "",
+   "site_inscricao": "",
+   "editais": [
+    "EDITAL 18/2026"
+   ],
+   "visto_em": "2026-11-09"
+  },
+  "prefeitura-de-sao-joao-do-piaui-pi-abre-processos-seletivos-com-salarios-de-ate-16800": {
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-joao-do-piaui-pi-abre-processos-seletivos-com-salarios-de-ate-16800",
+   "orgao": "Prefeitura de São João do Piauí",
+   "uf": "PI",
+   "titulo": "Prefeitura de São João do Piauí - PI abre processos seletivos com salários de até R$ 16.800,00",
+   "vagas": "590 vagas",
+   "salario_max": 16800.0,
+   "nivel": "Fundamental / Médio / Técnico / Superior",
+   "inscricao_inicio": "",
+   "inscricao_fim": "2026-11-09",
+   "cargos_ti": [
+    "Operador(a) de sistema de informação em saúde (3 vagas)",
+    "Técnico(a) em informática (4 vagas)"
+   ],
+   "perfis": [
+    "geral"
+   ],
+   "taxa": "R$ 60,00 a R$ 110,00",
+   "prova": "12 e 13 de janeiro de 2027",
+   "banca": "Instituto CONSULPAM",
+   "site_inscricao": "",
+   "editais": [
+    "EDITAL Nº 003/2026",
+    "EDITAL Nº 004/2026"
+   ],
+   "visto_em": "2026-11-09"
+  },
+  "prefeitura-de-sao-jose-do-divino-mg-abre-concurso-publico-para-diversos-cargos": {
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-jose-do-divino-mg-abre-concurso-publico-para-diversos-cargos",
+   "orgao": "Prefeitura de São José do Divino",
+   "uf": "MG",
+   "titulo": "Prefeitura de São José do Divino - MG abre concurso público para diversos cargos",
+   "vagas": "64 vagas",
+   "salario_max": 3242.0,
+   "nivel": "Fundamental / Médio / Técnico / Superior",
+   "inscricao_inicio": "",
+   "inscricao_fim": "2027-02-10",
+   "cargos_ti": [
+    "Técnico em Informática (1 vaga)"
+   ],
+   "perfis": [
+    "suporte"
+   ],
+   "taxa": "R$ 50,00 a R$ 100,00",
+   "prova": "14 de março de 2027",
+   "banca": "",
+   "site_inscricao": "www.institutoideap.org.br",
+   "editais": [
+    "EDITAL DE CONCURSO PÚBLICO Nº 01/2026"
+   ],
+   "visto_em": "2026-11-09"
+  },
+  "prefeitura-de-sao-jose-do-inhacora-rs-abre-concurso-publico-com-salarios-de-ate-9885": {
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-jose-do-inhacora-rs-abre-concurso-publico-com-salarios-de-ate-9885",
+   "orgao": "Prefeitura de São José do Inhacorá",
+   "uf": "RS",
+   "titulo": "Prefeitura de São José do Inhacorá - RS abre concurso público com salários de até R$ 9.885,71",
+   "vagas": "22 vagas",
+   "salario_max": 9885.71,
+   "nivel": "Fundamental / Médio / Superior",
+   "inscricao_inicio": "",
+   "inscricao_fim": "2026-11-23",
+   "cargos_ti": [
+    "Professor de Computação e Inovação (1 vaga)"
+   ],
+   "perfis": [
+    "docencia"
+   ],
+   "taxa": "R$ 73,29 a R$ 125,64",
+   "prova": "20 de dezembro de 2026",
+   "banca": "Premier Concursos",
+   "site_inscricao": "",
+   "editais": [
+    "EDITAL Nº 195/2026 - CONCURSO PÚBLICO Nº 01/2026"
+   ],
+   "visto_em": "2026-11-09"
+  },
+  "prefeitura-de-sao-pedro-de-alcantara-sc-abre-selecao-para-a-secretaria-de-educacao": {
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-pedro-de-alcantara-sc-abre-selecao-para-a-secretaria-de-educacao",
+   "orgao": "Prefeitura de São Pedro de Alcântara",
+   "uf": "SC",
+   "titulo": "Prefeitura de São Pedro de Alcântara - SC abre seleção para a Secretaria de Educação",
+   "vagas": "",
+   "salario_max": 5545.75,
+   "nivel": "Fundamental / Médio / Técnico / Superior",
+   "inscricao_inicio": "",
+   "inscricao_fim": "2026-11-11",
+   "cargos_ti": [
+    "Professor de Informática Educativa, habilitado"
+   ],
+   "perfis": [
+    "docencia"
+   ],
+   "taxa": "R$ 80,00 a R$ 100,00",
+   "prova": "29 de novembro de 2026",
+   "banca": "Instituto Fucap",
+   "site_inscricao": "",
+   "editais": [
+    "EDITAL DE PROCESSO SELETIVO Nº 001/2026"
+   ],
+   "visto_em": "2026-11-09"
+  },
+  "prefeitura-de-sao-pedro-do-turvo-sp-abre-processos-seletivos-para-diversos-niveis": {
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-pedro-do-turvo-sp-abre-processos-seletivos-para-diversos-niveis",
+   "orgao": "Prefeitura de São Pedro do Turvo",
+   "uf": "SP",
+   "titulo": "Prefeitura de São Pedro do Turvo - SP abre processos seletivos para diversos níveis",
+   "vagas": "",
+   "salario_max": 4082.72,
+   "nivel": "Fundamental / Médio / Superior",
+   "inscricao_inicio": "",
+   "inscricao_fim": "2026-11-11",
+   "cargos_ti": [
+    "Professor de Educação Básica II (PEB II) - Informática"
+   ],
+   "perfis": [
+    "docencia"
+   ],
+   "taxa": "R$ 52,00 a R$ 100,00",
+   "prova": "29 de novembro de 2026",
+   "banca": "Instituto UNIQUE",
+   "site_inscricao": "",
+   "editais": [
+    "EDITAL DE PROCESSO SELETIVO Nº 01/2026",
+    "EDITAL DE PROCESSO SELETIVO Nº 02/2026"
+   ],
+   "visto_em": "2026-11-09"
+  },
+  "prefeitura-de-serra-grande-pb-retifica-concurso-publico-com-vagas-para-diversos-cargos": {
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-serra-grande-pb-retifica-concurso-publico-com-vagas-para-diversos-cargos",
+   "orgao": "Prefeitura de Serra Grande",
+   "uf": "PB",
+   "titulo": "Prefeitura de Serra Grande - PB retifica concurso público com vagas para diversos cargos",
+   "vagas": "41 vagas",
+   "salario_max": 3651.0,
+   "nivel": "Fundamental / Médio / Técnico / Superior",
+   "inscricao_inicio": "",
+   "inscricao_fim": "2026-11-29",
+   "cargos_ti": [
+    "Técnico de Informática (1 vaga)"
+   ],
+   "perfis": [
+    "suporte"
+   ],
+   "taxa": "R$ 75,00 a R$ 115,00",
+   "prova": "14 de fevereiro de 2027",
+   "banca": "",
+   "site_inscricao": "",
+   "editais": [
+    "EDITAL NORMATIVO DE CONCURSO PÚBLICO Nº 001/2026",
+    "EDITAL RETIFICADO DE CONCURSO PÚBLICO Nº 001/2026"
+   ],
+   "visto_em": "2026-11-09"
+  },
+  "prefeitura-de-xaxim-sc-abre-processo-seletivo-para-professores": {
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-xaxim-sc-abre-processo-seletivo-para-professores",
+   "orgao": "Prefeitura de Xaxim",
+   "uf": "SC",
+   "titulo": "Prefeitura de Xaxim - SC abre processo seletivo para professores",
+   "vagas": "",
+   "salario_max": 5137.52,
+   "nivel": "Médio / Superior",
+   "inscricao_inicio": "",
+   "inscricao_fim": "2026-11-19",
+   "cargos_ti": [
+    "Professor de Informática"
+   ],
+   "perfis": [
+    "docencia"
+   ],
+   "taxa": "R$ 100,00 a R$ 200,00",
+   "prova": "6 de dezembro de 2026",
+   "banca": "",
+   "site_inscricao": "",
+   "editais": [
+    "EDITAL Nº 003/2026",
+    "RETIFICAÇÃO Nº 01"
+   ],
+   "visto_em": "2026-11-09"
+  },
+  "prefeitura-e-camara-de-faina-go-reabrem-concurso-publico-com-diversas-vagas": {
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-e-camara-de-faina-go-reabrem-concurso-publico-com-diversas-vagas",
+   "orgao": "Prefeitura e Câmara de Faina",
+   "uf": "GO",
+   "titulo": "Prefeitura e Câmara de Faina - GO reabrem concurso público com diversas vagas",
+   "vagas": "70 vagas",
+   "salario_max": 13530.0,
+   "nivel": "Fundamental / Médio / Técnico / Superior",
+   "inscricao_inicio": "",
+   "inscricao_fim": "2026-12-03",
+   "cargos_ti": [
+    "Técnico em Tecnologia da Informação (1 vaga)"
+   ],
+   "perfis": [
+    "geral"
+   ],
+   "taxa": "R$ 80,00 a R$ 150,00",
+   "prova": "31 de janeiro de 2027",
+   "banca": "",
+   "site_inscricao": "www.itame.com.br",
+   "editais": [
+    "EDITAL DE ABERTURA Nº 001/2024",
+    "SUSPENSÃO",
+    "REABERTURA DO CONCURSO",
+    "EDITAL 02 REABERTURA E REGULAMENTO GERAL"
+   ],
+   "visto_em": "2026-11-09"
+  },
+  "prudenprev-sp-abre-concurso-publico-com-salarios-de-ate-11102": {
+   "url": "https://www.pciconcursos.com.br/noticias/prudenprev-sp-abre-concurso-publico-com-salarios-de-ate-11102",
+   "orgao": "PRUDENPREV - Sistema de Previdência do Município de Presidente Prudente",
+   "uf": "SP",
+   "titulo": "PRUDENPREV - SP abre concurso público com salários de até R$ 11.102,06",
+   "vagas": "10 vagas",
+   "salario_max": 11102.06,
+   "nivel": "Fundamental / Médio / Técnico / Superior",
+   "inscricao_inicio": "",
+   "inscricao_fim": "2026-11-10",
+   "cargos_ti": [
+    "Técnico em Informática (1 vaga)"
+   ],
+   "perfis": [
+    "suporte"
+   ],
+   "taxa": "R$ 60,00 a R$ 150,00",
+   "prova": "17 de janeiro de 2027",
+   "banca": "",
+   "site_inscricao": "www.fundacaofafipa.org.br",
+   "editais": [
+    "EDITAL DE ABERTURA Nº 01/2026"
+   ],
+   "visto_em": "2026-11-09"
+  },
+  "seciteci-mt-abre-selecao-para-formacao-de-cadastro-de-reserva": {
+   "url": "https://www.pciconcursos.com.br/noticias/seciteci-mt-abre-selecao-para-formacao-de-cadastro-de-reserva",
+   "orgao": "SECITECI - Secretaria de Estado de Ciência, Tecnologia e Inovação de Mato Grosso",
+   "uf": "MT",
+   "titulo": "SECITECI - MT abre seleção para formação de cadastro de reserva",
+   "vagas": "",
+   "salario_max": 12937.29,
+   "nivel": "Médio / Técnico / Superior",
+   "inscricao_inicio": "",
+   "inscricao_fim": "2026-11-26",
+   "cargos_ti": [
+    "Professor na área de Análise e Desenvolvimento de Sistemas",
+    "Professor na área de Informática",
+    "Técnico em Informática",
+    "Técnico em Manutenção e Suporte em Informática"
+   ],
+   "perfis": [
+    "docencia",
+    "suporte"
+   ],
+   "taxa": "R$ 75,00",
+   "prova": "",
+   "banca": "Selecon",
+   "site_inscricao": "www.selecon.org.br",
+   "editais": [
+    "EDITAL Nº 012/2026"
+   ],
+   "visto_em": "2026-11-09"
+  },
+  "setec-campinas-sp-abre-concurso-publico-com-salarios-de-ate-10428": {
+   "url": "https://www.pciconcursos.com.br/noticias/setec-campinas-sp-abre-concurso-publico-com-salarios-de-ate-10428",
+   "orgao": "SETEC - Serviços Técnicos Gerais de Campinas",
+   "uf": "SP",
+   "titulo": "SETEC Campinas - SP abre concurso público com salários de até R$ 10.428,05",
+   "vagas": "39 vagas",
+   "salario_max": 10428.05,
+   "nivel": "Fundamental / Médio / Técnico / Superior",
+   "inscricao_inicio": "",
+   "inscricao_fim": "2026-12-04",
+   "cargos_ti": [
+    "Agente de Suporte Técnico (4 vagas + CR)",
+    "Analista Técnico (Informática) (1 vaga + CR)"
+   ],
+   "perfis": [
+    "suporte",
+    "geral"
+   ],
+   "taxa": "R$ 48,00 a R$ 78,00",
+   "prova": "17 de janeiro de 2027",
+   "banca": "",
+   "site_inscricao": "indepac.selecao.net.br",
+   "editais": [
+    "EDITAL Nº 01/2026"
+   ],
+   "visto_em": "2026-11-09"
+  },
+  "tjpb-retifica-concurso-publico-para-analistas-judiciarios": {
+   "url": "https://www.pciconcursos.com.br/noticias/tjpb-retifica-concurso-publico-para-analistas-judiciarios",
+   "orgao": "TJPB - Tribunal de Justiça do Estado da Paraíba",
+   "uf": "PB",
+   "titulo": "TJPB retifica concurso público para analistas judiciários",
+   "vagas": "50 vagas",
+   "salario_max": 7526.14,
+   "nivel": "Superior",
+   "inscricao_inicio": "",
+   "inscricao_fim": "2026-11-18",
+   "cargos_ti": [
+    "Analista Judiciário, TI, Desenvolvimento de Sistemas (10 vagas)",
+    "Analista Judiciário, TI, Banco de Dados (1 vaga)",
+    "Analista Judiciário, TI, Infraestrutura de TI (1 vaga)",
+    "Analista Judiciário, TI, Gestão de Governança de TI (2 vagas)",
+    "Analista Judiciário, TI, Segurança da Informação (2 vagas)",
+    "Analista Judiciário, TI, Inteligência Artificial (3 vagas)",
+    "Analista Judiciário, TI, Ciência e Análise de Dados (1 vaga)"
+   ],
+   "perfis": [
+    "dev",
+    "dados",
+    "infra",
+    "geral",
+    "seguranca"
+   ],
+   "taxa": "R$ 120,00",
+   "prova": "24 de janeiro de 2027",
+   "banca": "FGV",
+   "site_inscricao": "conhecimento.fgv.br/concursos",
+   "editais": [
+    "EDITAL Nº 01/2026",
+    "1ª RETIFICAÇÃO DO EDITAL Nº 01/2026",
+    "2ª RETIFICAÇÃO DO EDITAL Nº 01/2026",
+    "EDITAL RETIFICADO Nº 01/2026"
+   ],
+   "visto_em": "2026-11-09"
+  },
+  "trf3-sp-ms-retifica-concurso-publico-para-analistas-e-tecnicos-judiciarios": {
+   "url": "https://www.pciconcursos.com.br/noticias/trf3-sp-ms-retifica-concurso-publico-para-analistas-e-tecnicos-judiciarios",
+   "orgao": "TRF3 - Tribunal Regional Federal da 3ª Região",
+   "uf": "SP/MS",
+   "titulo": "TRF3 - SP/MS retifica concurso público para analistas e técnicos judiciários",
+   "vagas": "11 vagas",
+   "salario_max": 20013.11,
+   "nivel": "Técnico / Superior",
+   "inscricao_inicio": "",
+   "inscricao_fim": "2026-11-23",
+   "cargos_ti": [
+    "Analista Judiciário, especialidade: Análise de Sistemas de Informação (1 vaga)",
+    "Analista Judiciário, especialidade: Suporte em Tecnologia da Informação (1 vaga)",
+    "Técnico Judiciário, especialidade: Desenvolvimento de Sistemas de Informação (5 vagas)",
+    "Técnico Judiciário, especialidade: Suporte Técnico (4 vagas)",
+    "Técnico Judiciário, especialidade: Tecnologia da Informação, para cadastro de reserva"
+   ],
+   "perfis": [
+    "dev",
+    "suporte",
+    "geral"
+   ],
+   "taxa": "R$ 100,00 a R$ 160,00",
+   "prova": "",
+   "banca": "Vunesp",
+   "site_inscricao": "www.vunesp.com.br",
+   "editais": [
+    "EDITAL Nº 1",
+    "EDITAL DE RETIFICAÇÃO DO EDITAL DE ABERTURA DE INSCRIÇÕES Nº 01/2026"
+   ],
+   "visto_em": "2026-11-09"
+  },
+  "trt4-rs-abre-concurso-publico-para-analistas-e-tecnicos-judiciarios": {
+   "url": "https://www.pciconcursos.com.br/noticias/trt4-rs-abre-concurso-publico-para-analistas-e-tecnicos-judiciarios",
+   "orgao": "TRT 4 - Tribunal Regional do Trabalho da 4ª Região",
+   "uf": "RS",
+   "titulo": "TRT4 - RS abre concurso público para analistas e técnicos judiciários",
+   "vagas": "",
+   "salario_max": 16040.88,
+   "nivel": "Superior",
+   "inscricao_inicio": "",
+   "inscricao_fim": "2026-11-25",
+   "cargos_ti": [
+    "Analista Judiciário - Área Apoio Especializado - Especialidade Tecnologia da Informação",
+    "Técnico Judiciário - Área Apoio Especializado - Especialidade Tecnologia da Informação"
+   ],
+   "perfis": [
+    "geral"
+   ],
+   "taxa": "R$ 90,00 a R$ 110,00",
+   "prova": "31 de janeiro de 2027",
+   "banca": "FCC",
+   "site_inscricao": "www.concursosfcc.com.br",
+   "editais": [
+    "EDITAL Nº 01/2026"
+   ],
+   "visto_em": "2026-11-09"
+  },
+  "uerj-abre-concurso-publico-para-professor-adjunto-de-ciencia-da-computacao": {
+   "url": "https://www.pciconcursos.com.br/noticias/uerj-abre-concurso-publico-para-professor-adjunto-de-ciencia-da-computacao",
+   "orgao": "UERJ - Universidade do Estado do Rio de Janeiro",
+   "uf": "RJ",
+   "titulo": "UERJ abre concurso público para professor adjunto de Ciência da Computação",
+   "vagas": "1 vaga",
+   "salario_max": 6581.01,
+   "nivel": "Superior",
+   "inscricao_inicio": "",
+   "inscricao_fim": "2027-01-31",
+   "cargos_ti": [
+    "Professor Adjunto de Ciência da Computação (1 vaga)"
+   ],
+   "perfis": [
+    "docencia"
+   ],
+   "taxa": "R$ 329,05",
+   "prova": "15 de março de 2027",
+   "banca": "",
+   "site_inscricao": "prossim.uerj.br",
+   "editais": [
+    "EDITAL - UERJ 224 PROFESSOR ADJUNTO CIÊNCIA DA COMPUTAÇÃO"
+   ],
+   "visto_em": "2026-11-09"
+  },
+  "ufabc-sp-abre-concurso-publico-para-professores": {
+   "url": "https://www.pciconcursos.com.br/noticias/ufabc-sp-abre-concurso-publico-para-professores",
+   "orgao": "UFABC - Fundação Universidade Federal do ABC",
+   "uf": "SP",
+   "titulo": "UFABC - SP abre concurso público para professores",
+   "vagas": "79 vagas",
+   "salario_max": 13753.96,
+   "nivel": "Superior",
+   "inscricao_inicio": "2026-11-30",
+   "inscricao_fim": "2027-01-28",
+   "cargos_ti": [
+    "Professor assistente em Ciência da Computação, subárea Computação Gráfica (1 vaga)",
+    "Professor assistente em Ciência da Computação, subárea Engenharia de Software (1 vaga)",
+    "Professor assistente em Ciência de Dados, subárea Ciência de Dados Computacional (5 vagas)",
+    "Professor assistente em Engenharia de Informação, subárea Redes de Computadores (1 vaga)",
+    "Professor assistente em Física da Matéria Condensada, subárea Ciência de Dados aplicada à Estrutura Eletrônica e Propriedades de Átomos, Moléculas e Sólidos (1 vaga)",
+    "Professor assistente em Fundamentos da Ciência de Dados (2 vagas)"
+   ],
+   "perfis": [
+    "docencia"
+   ],
+   "taxa": "R$ 240,00",
+   "prova": "",
+   "banca": "UFABC",
+   "site_inscricao": "",
+   "editais": [
+    "EDITAL Nº 53/2026"
+   ],
+   "visto_em": "2026-11-09"
+  },
+  "ufj-go-abre-concurso-publico-para-professores-do-magisterio-superior": {
+   "url": "https://www.pciconcursos.com.br/noticias/ufj-go-abre-concurso-publico-para-professores-do-magisterio-superior",
+   "orgao": "UFJ - Universidade Federal de Jataí",
+   "uf": "GO",
+   "titulo": "UFJ - GO abre concurso público para Professores do Magistério Superior",
+   "vagas": "22 vagas",
+   "salario_max": 13854.96,
+   "nivel": "Superior",
+   "inscricao_inicio": "",
+   "inscricao_fim": "2026-11-27",
+   "cargos_ti": [
+    "Professor do Magistério Superior, área de Física Computacional, Métodos Numéricos e de Inteligência Artificial (1 vaga)",
+    "Professor do Magistério Superior, área de Processamento de Dados em Inteligência Artificial (2 vagas)"
+   ],
+   "perfis": [
+    "docencia"
+   ],
+   "taxa": "R$ 135,00 a R$ 290,00",
+   "prova": "",
+   "banca": "",
+   "site_inscricao": "",
+   "editais": [
+    "EDITAL Nº 5"
+   ],
+   "visto_em": "2026-11-09"
+  },
+  "ufms-abre-concurso-publico-para-cargos-tecnico-administrativos-em-educacao": {
+   "url": "https://www.pciconcursos.com.br/noticias/ufms-abre-concurso-publico-para-cargos-tecnico-administrativos-em-educacao",
+   "orgao": "UFMS - Fundação Universidade Federal de Mato Grosso do Sul",
+   "uf": "MS",
+   "titulo": "UFMS abre concurso público para cargos técnico-administrativos em educação",
+   "vagas": "154 vagas",
+   "salario_max": 5215.39,
+   "nivel": "Médio / Técnico / Superior",
+   "inscricao_inicio": "",
+   "inscricao_fim": "2026-12-04",
+   "cargos_ti": [
+    "Analista de Tecnologia da Informação, Governança, Segurança, Operações e Infraestrutura de Redes, Campo Grande (3 vagas)",
+    "Analista de Tecnologia da Informação, Web Designer, Campo Grande (1 vaga)",
+    "Analista de Tecnologia da Informação, Gestão de Projetos de Software, Campo Grande (1 vaga)",
+    "Analista de Tecnologia da Informação, Sistemas Embarcados e IoT, Campo Grande (1 vaga)",
+    "Analista de Tecnologia da Informação, Inteligência Artificial, Campo Grande (1 vaga)",
+    "Analista de Tecnologia da Informação, Desenvolvimento de Software, Campo Grande (2 vagas)",
+    "Técnico em Tecnologia da Informação, Campo Grande (15 vagas)",
+    "Técnico em Educação, Tecnologia da Informação, Paranaíba (1 vaga)",
+    "Técnico em Educação, Tecnologia da Informação, Ponta Porã (1 vaga)"
+   ],
+   "perfis": [
+    "infra",
+    "seguranca",
+    "dev",
+    "geral"
+   ],
+   "taxa": "R$ 120,00 a R$ 150,00",
+   "prova": "",
+   "banca": "Fundação de Apoio à Pesquisa, ao Ensino e à Cultura (Fapec)",
+   "site_inscricao": "",
+   "editais": [
+    "EDITAL PROGEP/UFMS Nº 152"
+   ],
+   "visto_em": "2026-11-09"
+  },
+  "ufms-abre-processos-seletivos-para-professores-visitantes": {
+   "url": "https://www.pciconcursos.com.br/noticias/ufms-abre-processos-seletivos-para-professores-visitantes",
+   "orgao": "UFMS - Fundação Universidade Federal de Mato Grosso do Sul",
+   "uf": "MS",
+   "titulo": "UFMS abre processos seletivos para professores visitantes",
+   "vagas": "79 vagas",
+   "salario_max": 13753.96,
+   "nivel": "Superior",
+   "inscricao_inicio": "",
+   "inscricao_fim": "2026-11-13",
+   "cargos_ti": [
+    "Professor visitante em Ciência da Computação, na Faculdade de Computação (1 vaga)",
+    "Professor visitante em Computação Aplicada, na Faculdade de Computação (1 vaga)",
+    "Professor visitante na Faculdade de Computação (3 vagas)"
+   ],
+   "perfis": [
+    "docencia"
+   ],
+   "taxa": "",
+   "prova": "",
+   "banca": "",
+   "site_inscricao": "www.concursos.ufms.br",
+   "editais": [
+    "EDITAL Nº 145",
+    "EDITAL Nº 147"
+   ],
+   "visto_em": "2026-11-09"
+  },
+  "ufpr-abre-concurso-publico-para-professor-de-ciencia-da-computacao": {
+   "url": "https://www.pciconcursos.com.br/noticias/ufpr-abre-concurso-publico-para-professor-de-ciencia-da-computacao",
+   "orgao": "UFPR - Universidade Federal do Paraná",
+   "uf": "PR",
+   "titulo": "UFPR abre concurso público para Professor de Ciência da Computação",
+   "vagas": "1 vaga",
+   "salario_max": 3198.59,
+   "nivel": "Superior",
+   "inscricao_inicio": "",
+   "inscricao_fim": "2026-11-25",
+   "cargos_ti": [
+    "Professor na área de Ciência da Computação (1 vaga)"
+   ],
+   "perfis": [
+    "docencia"
+   ],
+   "taxa": "R$ 61,00",
+   "prova": "",
+   "banca": "",
+   "site_inscricao": "",
+   "editais": [
+    "EDITAL Nº 303/2026"
+   ],
+   "visto_em": "2026-11-09"
+  },
+  "ufsm-rs-abre-concurso-para-professores-do-magisterio-superior": {
+   "url": "https://www.pciconcursos.com.br/noticias/ufsm-rs-abre-concurso-para-professores-do-magisterio-superior",
+   "orgao": "UFSM - Universidade Federal de Santa Maria",
+   "uf": "RS",
+   "titulo": "UFSM - RS abre concurso para professores do magistério superior",
+   "vagas": "6 vagas",
+   "salario_max": 13753.98,
+   "nivel": "Superior",
+   "inscricao_inicio": "",
+   "inscricao_fim": "2026-12-02",
+   "cargos_ti": [
+    "Professor assistente de Ciências Exatas e da Terra, Ciência da Computação, Metodologia e Técnicas da Computação (2 vagas)"
+   ],
+   "perfis": [
+    "docencia"
+   ],
+   "taxa": "R$ 412,60",
+   "prova": "17 de janeiro de 2027",
+   "banca": "UFSM",
+   "site_inscricao": "",
+   "editais": [
+    "EDITAL Nº 252"
+   ],
+   "visto_em": "2026-11-09"
+  },
+  "unesp-abre-novos-concursos-para-professores-substitutos-no-campus-de-presidente-prudente-sp": {
+   "url": "https://www.pciconcursos.com.br/noticias/unesp-abre-novos-concursos-para-professores-substitutos-no-campus-de-presidente-prudente-sp",
+   "orgao": "UNESP - Universidade Estadual Paulista Júlio de Mesquita Filho",
+   "uf": "SP",
+   "titulo": "UNESP abre novos concursos para professores substitutos no campus de Presidente Prudente - SP",
+   "vagas": "2 vagas",
+   "salario_max": 3511.9,
+   "nivel": "Superior",
+   "inscricao_inicio": "",
+   "inscricao_fim": "2026-11-23",
+   "cargos_ti": [
+    "Professor Substituto na área de Ciência da Computação, subárea de Sistemas de Computação (1 vaga)"
+   ],
+   "perfis": [
+    "docencia"
+   ],
+   "taxa": "R$ 209,00",
+   "prova": "",
+   "banca": "",
+   "site_inscricao": "inscricoes.unesp.br",
+   "editais": [
+    "EDITAL Nº 478/2026",
+    "EDITAL Nº 479/2026"
+   ],
+   "visto_em": "2026-11-09"
+  },
+  "unifei-mg-abre-concurso-publico-para-professores-do-magisterio-superior": {
+   "url": "https://www.pciconcursos.com.br/noticias/unifei-mg-abre-concurso-publico-para-professores-do-magisterio-superior",
+   "orgao": "UNIFEI - Universidade Federal de Itajubá",
+   "uf": "MG",
+   "titulo": "UNIFEI - MG abre concurso público para professores do magistério superior",
+   "vagas": "27 vagas",
+   "salario_max": 13753.96,
+   "nivel": "Superior",
+   "inscricao_inicio": "",
+   "inscricao_fim": "2026-11-26",
+   "cargos_ti": [
+    "Professor de Desenho e Desenvolvimento Web, Cloud Computing, Banco de Dados e Sistemas Computacionais (1 vaga)",
+    "Professor de Engenharia de Software, IHM, Arquitetura e Confiabilidade (1 vaga)",
+    "Professor de Programação, Algoritmos, Modelagem e Verificação de Software (1 vaga)",
+    "Professor de Redes de Computadores, Criptografia e Protocolos Seguros (1 vaga)",
+    "Professor de Segurança da Informação (1 vaga)",
+    "Professor de Sistemas Embarcados, Arquitetura de Computadores e Sistemas Digitais (1 vaga)",
+    "Professor de Arquitetura de Computadores e Compiladores (1 vaga)",
+    "Professor de Programação e Desenvolvimento de Sistemas Aplicados à Ciência de Dados (1 vaga)",
+    "Professor de Computação, Algoritmos e Fundamentos de Programação (1 vaga)"
+   ],
+   "perfis": [
+    "docencia"
+   ],
+   "taxa": "R$ 200,00",
+   "prova": "",
+   "banca": "",
+   "site_inscricao": "sigrh.unifei.edu.br",
+   "editais": [
+    "EDITAL Nº 59"
+   ],
+   "visto_em": "2026-11-09"
+  },
+  "usp-sp-abre-concurso-publico-para-o-cargo-de-professor-titular-na-area-de-sistemas-de-computacao": {
+   "url": "https://www.pciconcursos.com.br/noticias/usp-sp-abre-concurso-publico-para-o-cargo-de-professor-titular-na-area-de-sistemas-de-computacao",
+   "orgao": "USP - Universidade de São Paulo",
+   "uf": "SP",
+   "titulo": "USP - SP abre concurso público para o cargo de Professor Titular na área de Sistemas de Computação",
+   "vagas": "1 vaga",
+   "salario_max": 24309.11,
+   "nivel": "Superior",
+   "inscricao_inicio": "",
+   "inscricao_fim": "2027-01-08",
+   "cargos_ti": [
+    "Professor Titular no Departamento de Sistemas de Computação, na área de Sistemas de Computação (1 vaga)"
+   ],
+   "perfis": [
+    "docencia"
+   ],
+   "taxa": "",
+   "prova": "",
+   "banca": "",
+   "site_inscricao": "uspdigital.usp.br",
+   "editais": [
+    "EDITAL Nº 011/2026"
+   ],
+   "visto_em": "2026-11-09"
+  },
+  "utfpr-pr-abre-processo-seletivo-para-professores-substitutos-no-campus-pato-branco": {
+   "url": "https://www.pciconcursos.com.br/noticias/utfpr-pr-abre-processo-seletivo-para-professores-substitutos-no-campus-pato-branco",
+   "orgao": "UTFPR - Universidade Tecnológica Federal do Paraná",
+   "uf": "PR",
+   "titulo": "UTFPR - PR abre processo seletivo para professores substitutos no campus Pato Branco",
+   "vagas": "3 vagas",
+   "salario_max": 8340.33,
+   "nivel": "Superior",
+   "inscricao_inicio": "",
+   "inscricao_fim": "2026-11-22",
+   "cargos_ti": [
+    "Professor substituto de Ciência da Computação (1 vaga)"
+   ],
+   "perfis": [
+    "docencia"
+   ],
+   "taxa": "R$ 99,00",
+   "prova": "6 de dezembro de 2026",
+   "banca": "UTFPR",
+   "site_inscricao": "",
+   "editais": [
+    "EDITAL DE ABERTURA - PROCESSO SELETIVO Nº 002/2026"
+   ],
+   "visto_em": "2026-11-09"
+  }
+ },
+ "ignorados": {
+  "https://www.pciconcursos.com.br/noticias/camara-de-lambari-mg-abre-concurso-publico-com-salarios-de-ate-5500": "2026-11-18",
+  "https://www.pciconcursos.com.br/noticias/prefeitura-de-estiva-mg-abre-processo-seletivo-com-sete-vagas": "2026-11-13",
+  "https://www.pciconcursos.com.br/noticias/prefeitura-de-jaguaribe-ce-reabre-inscricoes-para-concursos-publicos": "2026-11-11",
+  "https://www.pciconcursos.com.br/noticias/prefeitura-de-matao-sp-abre-concurso-publico-com-salarios-de-ate-9717": "2026-11-18",
+  "https://www.pciconcursos.com.br/noticias/prefeitura-de-nova-xavantina-mt-divulga-edital-retificado-de-processo-seletivo-para-a-educacao": "2026-11-13",
+  "https://www.pciconcursos.com.br/noticias/prefeitura-de-poranga-ce-reabre-inscricoes-para-concursos-publicos": "2026-11-10",
+  "https://www.pciconcursos.com.br/noticias/prefeitura-de-santa-rita-do-trivelato-mt-abre-selecao-com-salarios-de-ate-21825": "2026-11-22",
+  "https://www.pciconcursos.com.br/noticias/prefeitura-de-varzea-grande-mt-retifica-processo-seletivo-com-vagas-para-a-educacao": "2026-11-09",
+  "https://www.pciconcursos.com.br/noticias/ufv-mg-abre-concursos-publicos-para-professores-de-magisterio-superior": "2026-11-14",
+  "https://www.pciconcursos.com.br/noticias/usp-sp-abre-10-novos-concursos-publicos-para-diversos-cargos": "2027-01-07"
+ },
+ "enviados": {}
+}
