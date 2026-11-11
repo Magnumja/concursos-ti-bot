@@ -1,32 +1,5 @@
 {
  "concursos": {
-  "abdi-df-processo-seletivo-abre-vagas-para-analistas-de-produtividade-e-inovacao": {
-   "url": "https://www.pciconcursos.com.br/noticias/abdi-df-processo-seletivo-abre-vagas-para-analistas-de-produtividade-e-inovacao",
-   "orgao": "ABDI - Agência Brasileira de Desenvolvimento Industrial",
-   "uf": "DF",
-   "titulo": "ABDI - DF: Processo seletivo abre vagas para analistas de produtividade e inovação",
-   "vagas": "20 vagas",
-   "salario_max": 16034.7,
-   "nivel": "Superior",
-   "inscricao_inicio": "",
-   "inscricao_fim": "2026-11-10",
-   "cargos_ti": [
-    "Analista de Produtividade e Inovação, perfil Analista de Dados (2 vagas)",
-    "Analista de Produtividade e Inovação, perfil Desenvolvimento de TI (2 vagas)"
-   ],
-   "perfis": [
-    "dados",
-    "dev"
-   ],
-   "taxa": "R$ 100,00",
-   "prova": "20 de dezembro de 2026",
-   "banca": "FGV",
-   "site_inscricao": "conhecimento.fgv.br/concursos",
-   "editais": [
-    "EDITAL Nº 01/2026"
-   ],
-   "visto_em": "2026-11-09"
-  },
   "camara-de-aracruz-es-abre-concurso-publico-com-salarios-de-ate-6614": {
    "url": "https://www.pciconcursos.com.br/noticias/camara-de-aracruz-es-abre-concurso-publico-com-salarios-de-ate-6614",
    "orgao": "Câmara de Aracruz",
@@ -287,6 +260,34 @@
    ],
    "visto_em": "2026-11-09"
   },
+  "cetesb-sp-abre-concursos-publicos-para-diversos-cargos": {
+   "url": "https://www.pciconcursos.com.br/noticias/cetesb-sp-abre-concursos-publicos-para-diversos-cargos",
+   "orgao": "CETESB - Companhia Ambiental do Estado de São Paulo",
+   "uf": "SP",
+   "titulo": "CETESB - SP abre concursos públicos para diversos cargos",
+   "vagas": "107 vagas",
+   "salario_max": 8971.98,
+   "nivel": "Médio / Técnico / Superior",
+   "inscricao_inicio": "",
+   "inscricao_fim": "2026-12-14",
+   "cargos_ti": [
+    "Analista de Tecnologia da Informação, Redes e Telecomunicação (1 vaga)",
+    "Analista de Tecnologia da Informação, Sistemas (3 vagas)"
+   ],
+   "perfis": [
+    "infra",
+    "geral"
+   ],
+   "taxa": "R$ 60,00 a R$ 90,00",
+   "prova": "21 de fevereiro de 2027",
+   "banca": "",
+   "site_inscricao": "www.concursosfcc.com.br",
+   "editais": [
+    "EDITAL Nº 01/2026",
+    "EDITAL Nº 02/2026"
+   ],
+   "visto_em": "2026-11-11"
+  },
   "cis-itu-sp-abre-concurso-publico-com-salarios-de-ate-7553": {
    "url": "https://www.pciconcursos.com.br/noticias/cis-itu-sp-abre-concurso-publico-com-salarios-de-ate-7553",
    "orgao": "CIS - Companhia Ituana de Saneamento",
@@ -311,66 +312,6 @@
     "EDITAL Nº 001/2026"
    ],
    "visto_em": "2026-11-10"
-  },
-  "comando-do-1-distrito-naval-rj-mg-abre-vagas-para-oficiais-temporarios-de-nivel-superior": {
-   "url": "https://www.pciconcursos.com.br/noticias/comando-do-1-distrito-naval-rj-mg-abre-vagas-para-oficiais-temporarios-de-nivel-superior",
-   "orgao": "Com1ºDN - Comando do 1º Distrito Naval da Marinha do Brasil",
-   "uf": "RJ/MG",
-   "titulo": "Comando do 1º Distrito Naval - RJ/MG abre vagas para oficiais temporários de nível superior",
-   "vagas": "171 vagas",
-   "salario_max": null,
-   "nivel": "Superior",
-   "inscricao_inicio": "",
-   "inscricao_fim": "2026-11-10",
-   "cargos_ti": [
-    "Informática - Banco de Dados (Rio de Janeiro/RJ - 1 vaga)",
-    "Informática - Infraestrutura (Rio de Janeiro/RJ - 4 vagas)",
-    "Informática - Desenvolvimento de Sistemas (Rio de Janeiro/RJ - 7 vagas)",
-    "Informática - Infraestrutura (São Pedro da Aldeia/RJ - 1 vaga)",
-    "Engenharia de Sistemas de Computação (Rio de Janeiro/RJ - 1 vaga)"
-   ],
-   "perfis": [
-    "dados",
-    "infra",
-    "dev",
-    "geral"
-   ],
-   "taxa": "R$ 150,00",
-   "prova": "",
-   "banca": "Com1ºDN",
-   "site_inscricao": "",
-   "editais": [
-    "AVISO DE CONVOCAÃO Nº 04/2026 (OFICIAIS-RM2-MD)",
-    "AVISO DE CONVOCAÇÃO Nº 05/2026 (OFICIAIS-RM2)"
-   ],
-   "visto_em": "2026-11-09"
-  },
-  "creci-es-abre-concurso-publico-com-salarios-de-ate-8250": {
-   "url": "https://www.pciconcursos.com.br/noticias/creci-es-abre-concurso-publico-com-salarios-de-ate-8250",
-   "orgao": "CRECI - Conselho Regional de Corretores de Imóveis da 13ª Região",
-   "uf": "ES",
-   "titulo": "CRECI - ES abre concurso público com salários de até R$ 8.250,00",
-   "vagas": "24 vagas",
-   "salario_max": 8250.0,
-   "nivel": "Médio / Superior",
-   "inscricao_inicio": "",
-   "inscricao_fim": "2026-11-10",
-   "cargos_ti": [
-    "Profissional de Suporte Técnico (PST) - Assistente de T.I. - Vitória (1 vaga + CR)",
-    "Profissional Analista Superior (PAS) - Analista de T.I. - Vitória (1 vaga AC, 1 vaga PN + CR)"
-   ],
-   "perfis": [
-    "suporte",
-    "geral"
-   ],
-   "taxa": "R$ 66,00 a R$ 68,00",
-   "prova": "17 de janeiro de 2027",
-   "banca": "Quadrix",
-   "site_inscricao": "www.quadrix.org.br",
-   "editais": [
-    "EDITAL Nº 1"
-   ],
-   "visto_em": "2026-11-09"
   },
   "dpdf-abre-concurso-publico-para-analista-de-apoio-a-assistencia-judiciaria": {
    "url": "https://www.pciconcursos.com.br/noticias/dpdf-abre-concurso-publico-para-analista-de-apoio-a-assistencia-judiciaria",
@@ -461,31 +402,6 @@
    "site_inscricao": "www.concursosfcc.com.br",
    "editais": [
     "EDITAL Nº 01/2026"
-   ],
-   "visto_em": "2026-11-09"
-  },
-  "faculdade-sebrae-sp-abre-vaga-para-professor-adjunto-de-engenharia-de-software": {
-   "url": "https://www.pciconcursos.com.br/noticias/faculdade-sebrae-sp-abre-vaga-para-professor-adjunto-de-engenharia-de-software",
-   "orgao": "Faculdade Sebrae",
-   "uf": "SP",
-   "titulo": "Faculdade Sebrae - SP abre vaga para professor adjunto de Engenharia de Software",
-   "vagas": "1 vaga",
-   "salario_max": 19522.83,
-   "nivel": "Superior",
-   "inscricao_inicio": "",
-   "inscricao_fim": "2026-11-10",
-   "cargos_ti": [
-    "Professor Adjunto - Engenharia de Software - Sistema da Informação (1 vaga)"
-   ],
-   "perfis": [
-    "docencia"
-   ],
-   "taxa": "",
-   "prova": "",
-   "banca": "RBO",
-   "site_inscricao": "",
-   "editais": [
-    "COMUNICADO 049/2026"
    ],
    "visto_em": "2026-11-09"
   },
@@ -651,6 +567,33 @@
    ],
    "visto_em": "2026-11-09"
   },
+  "ifsp-abre-concurso-publico-para-cargos-tecnico-administrativos": {
+   "url": "https://www.pciconcursos.com.br/noticias/ifsp-abre-concurso-publico-para-cargos-tecnico-administrativos",
+   "orgao": "IFSP - Instituto Federal de Educação, Ciência e Tecnologia de São Paulo",
+   "uf": "SP",
+   "titulo": "IFSP abre concurso público para cargos técnico-administrativos",
+   "vagas": "6 vagas",
+   "salario_max": 5215.39,
+   "nivel": "Técnico / Superior",
+   "inscricao_inicio": "2026-11-17",
+   "inscricao_fim": "2027-01-04",
+   "cargos_ti": [
+    "Técnico de Laboratório, área Informática (3 vagas)",
+    "Analista de Tecnologia da Informação, Ciência de Dados (1 vaga)"
+   ],
+   "perfis": [
+    "geral",
+    "dados"
+   ],
+   "taxa": "R$ 120,00 a R$ 150,00",
+   "prova": "",
+   "banca": "",
+   "site_inscricao": "concursopublico.ifsp.edu.br",
+   "editais": [
+    "EDITAL Nº 214/2026"
+   ],
+   "visto_em": "2026-11-11"
+  },
   "ifsp-retifica-edital-de-concurso-publico-para-o-cargo-de-professor-do-ensino-basico-tecnico-e-tecnologico": {
    "url": "https://www.pciconcursos.com.br/noticias/ifsp-retifica-edital-de-concurso-publico-para-o-cargo-de-professor-do-ensino-basico-tecnico-e-tecnologico",
    "orgao": "IFSP - Instituto Federal de Educação, Ciência e Tecnologia de São Paulo",
@@ -716,6 +659,34 @@
     "RETIFICAÇÃO"
    ],
    "visto_em": "2026-11-09"
+  },
+  "iges-df-abre-quatro-selecoes-para-medicos-tecnicos-e-analistas": {
+   "url": "https://www.pciconcursos.com.br/noticias/iges-df-abre-quatro-selecoes-para-medicos-tecnicos-e-analistas",
+   "orgao": "IGESDF - Instituto de Gestão Estratégica de Saúde do Distrito Federal",
+   "uf": "DF",
+   "titulo": "IGES - DF abre quatro seleções para médicos, técnicos e analistas",
+   "vagas": "",
+   "salario_max": 13359.56,
+   "nivel": "Técnico / Superior",
+   "inscricao_inicio": "",
+   "inscricao_fim": "2026-11-19",
+   "cargos_ti": [
+    "Analista de TI III - Análise de Sistemas"
+   ],
+   "perfis": [
+    "dev"
+   ],
+   "taxa": "",
+   "prova": "",
+   "banca": "",
+   "site_inscricao": "",
+   "editais": [
+    "EDITAL Nº 122/2026",
+    "EDITAL Nº 123/2026",
+    "EDITAL Nº 124/2026",
+    "EDITAL Nº 125/2026"
+   ],
+   "visto_em": "2026-11-11"
   },
   "ima-sc-abre-concurso-publico-com-salarios-de-ate-12300": {
    "url": "https://www.pciconcursos.com.br/noticias/ima-sc-abre-concurso-publico-com-salarios-de-ate-12300",
@@ -844,110 +815,6 @@
    "site_inscricao": "www.vunesp.com.br",
    "editais": [
     "EDITAL Nº 015"
-   ],
-   "visto_em": "2026-11-09"
-  },
-  "marinha-do-brasil-2-distrito-naval-abre-selecao-para-oficiais-temporarios-rm2-na-bahia": {
-   "url": "https://www.pciconcursos.com.br/noticias/marinha-do-brasil-2-distrito-naval-abre-selecao-para-oficiais-temporarios-rm2-na-bahia",
-   "orgao": "Comando do 2º Distrito Naval da Marinha do Brasil",
-   "uf": "BA",
-   "titulo": "Marinha do Brasil - 2º Distrito Naval abre seleção para oficiais temporários RM2 na Bahia",
-   "vagas": "18 vagas",
-   "salario_max": null,
-   "nivel": "Superior",
-   "inscricao_inicio": "",
-   "inscricao_fim": "2026-11-10",
-   "cargos_ti": [
-    "Informática (1 vaga)"
-   ],
-   "perfis": [
-    "geral"
-   ],
-   "taxa": "R$ 150,00",
-   "prova": "",
-   "banca": "",
-   "site_inscricao": "www.marinha.mil.br/com2dn",
-   "editais": [
-    "AVISO DE CONVOCAÇÃO Nº 2/2026 (OFICIAIS-RM2 DEMAIS ÁREAS)"
-   ],
-   "visto_em": "2026-11-09"
-  },
-  "marinha-do-brasil-4-distrito-naval-abre-selecao-para-oficiais-temporarios-com-vagas-em-diferentes-estados": {
-   "url": "https://www.pciconcursos.com.br/noticias/marinha-do-brasil-4-distrito-naval-abre-selecao-para-oficiais-temporarios-com-vagas-em-diferentes-estados",
-   "orgao": "Marinha do Brasil - Comando do 4º Distrito Naval",
-   "uf": "Nacional",
-   "titulo": "Marinha do Brasil - 4º Distrito Naval abre seleção para oficiais temporários com vagas em diferentes estados",
-   "vagas": "25 vagas",
-   "salario_max": null,
-   "nivel": "Superior",
-   "inscricao_inicio": "",
-   "inscricao_fim": "2026-11-10",
-   "cargos_ti": [
-    "Informática (2 vagas - Belém/PA)"
-   ],
-   "perfis": [
-    "geral"
-   ],
-   "taxa": "R$ 150,00",
-   "prova": "",
-   "banca": "",
-   "site_inscricao": "www.marinha.mil.br/com4dn/",
-   "editais": [
-    "AVISO DE CONVOCAÇÃO Nº 02/2026 (OFICIAIS-RM2)",
-    "AVISO DE CONVOCAÇÃO Nº 03/2026 (OFICIAIS-RM2-MD)"
-   ],
-   "visto_em": "2026-11-09"
-  },
-  "marinha-do-brasil-8-distrito-naval-abre-vagas-para-oficiais-rm2-em-sp": {
-   "url": "https://www.pciconcursos.com.br/noticias/marinha-do-brasil-8-distrito-naval-abre-vagas-para-oficiais-rm2-em-sp",
-   "orgao": "Marinha do Brasil - Comando do 8º Distrito Naval",
-   "uf": "SP",
-   "titulo": "Marinha do Brasil - 8º Distrito Naval abre vagas para Oficiais RM2 em SP",
-   "vagas": "36 vagas",
-   "salario_max": null,
-   "nivel": "Superior",
-   "inscricao_inicio": "",
-   "inscricao_fim": "2026-11-10",
-   "cargos_ti": [
-    "Informática, São Paulo - SP (1 vaga)",
-    "Engenharia de Sistemas de Computação, Iperó - SP (1 vaga)",
-    "Engenharia de Sistemas de Computação, São Paulo - SP (1 vaga)"
-   ],
-   "perfis": [
-    "geral"
-   ],
-   "taxa": "R$ 150,00",
-   "prova": "",
-   "banca": "Comando do 8º Distrito Naval",
-   "site_inscricao": "",
-   "editais": [
-    "AVISO DE CONVOCAÇÃO Nº 02/2026 (OFICIAIS-RM2)",
-    "AVISO DE CONVOCAÇÃO Nº 03/2026 (OFICIAIS-RM2-MD)"
-   ],
-   "visto_em": "2026-11-09"
-  },
-  "marinha-do-brasil-am-e-ro-abre-processo-seletivo-para-oficiais-temporarios-de-nivel-superior": {
-   "url": "https://www.pciconcursos.com.br/noticias/marinha-do-brasil-am-e-ro-abre-processo-seletivo-para-oficiais-temporarios-de-nivel-superior",
-   "orgao": "Com9ºDN - Comando do 9º Distrito Naval da Marinha do Brasil",
-   "uf": "AM e RO",
-   "titulo": "Marinha do Brasil - AM e RO abre processo seletivo para Oficiais Temporários de nível superior",
-   "vagas": "23 vagas",
-   "salario_max": null,
-   "nivel": "Superior",
-   "inscricao_inicio": "",
-   "inscricao_fim": "2026-11-10",
-   "cargos_ti": [
-    "Informática (Manaus-AM) (3 vagas)"
-   ],
-   "perfis": [
-    "geral"
-   ],
-   "taxa": "R$ 150,00",
-   "prova": "",
-   "banca": "",
-   "site_inscricao": "www.marinha.mil.br/com9dn",
-   "editais": [
-    "AVISO DE CONVOCAÇÃO Nº 01/2026 (OFICIAIS-RM2)"
    ],
    "visto_em": "2026-11-09"
   },
@@ -1345,31 +1212,6 @@
     "EDITAL RETIFICADO 01/2026",
     "ADITIVO 01",
     "ADITIVO 02"
-   ],
-   "visto_em": "2026-11-09"
-  },
-  "prefeitura-de-florestopolis-pr-abre-concurso-publico-com-salarios-de-ate-15389": {
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-florestopolis-pr-abre-concurso-publico-com-salarios-de-ate-15389",
-   "orgao": "Prefeitura de Florestópolis",
-   "uf": "PR",
-   "titulo": "Prefeitura de Florestópolis - PR abre concurso público com salários de até R$ 15.389,87",
-   "vagas": "46 vagas",
-   "salario_max": 15389.87,
-   "nivel": "Médio / Técnico / Superior",
-   "inscricao_inicio": "",
-   "inscricao_fim": "2026-11-10",
-   "cargos_ti": [
-    "Técnico de Informática (1 vaga + CR)"
-   ],
-   "perfis": [
-    "suporte"
-   ],
-   "taxa": "R$ 80,00 a R$ 200,00",
-   "prova": "29 de novembro de 2026",
-   "banca": "GAMA Consultoria em Gestão Pública",
-   "site_inscricao": "",
-   "editais": [
-    "EDITAL DE CONCURSO PÚBLICO Nº 001/2026"
    ],
    "visto_em": "2026-11-09"
   },
@@ -1890,31 +1732,6 @@
     "EDITAL Nº 002/2026",
     "SUSPENSÃO",
     "EDITAL Nº 002/2026 RETIFICADO"
-   ],
-   "visto_em": "2026-11-09"
-  },
-  "prefeitura-de-nova-boa-vista-rs-abre-concurso-publico-com-salarios-de-ate-12039": {
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-nova-boa-vista-rs-abre-concurso-publico-com-salarios-de-ate-12039",
-   "orgao": "Prefeitura de Nova Boa Vista",
-   "uf": "RS",
-   "titulo": "Prefeitura de Nova Boa Vista - RS abre concurso público com salários de até R$ 12.039,12",
-   "vagas": "20 vagas",
-   "salario_max": 12039.12,
-   "nivel": "Médio / Técnico / Superior",
-   "inscricao_inicio": "",
-   "inscricao_fim": "2026-11-10",
-   "cargos_ti": [
-    "Professor de Informática (1 vaga + Cadastro de Reserva)"
-   ],
-   "perfis": [
-    "docencia"
-   ],
-   "taxa": "R$ 250,00 a R$ 320,00",
-   "prova": "6 de dezembro de 2026",
-   "banca": "",
-   "site_inscricao": "fundacaolasalle.org.br/concursos",
-   "editais": [
-    "EDITAL DE ABERTURA Nº 088/2026"
    ],
    "visto_em": "2026-11-09"
   },
@@ -2517,31 +2334,6 @@
    ],
    "visto_em": "2026-11-09"
   },
-  "prudenprev-sp-abre-concurso-publico-com-salarios-de-ate-11102": {
-   "url": "https://www.pciconcursos.com.br/noticias/prudenprev-sp-abre-concurso-publico-com-salarios-de-ate-11102",
-   "orgao": "PRUDENPREV - Sistema de Previdência do Município de Presidente Prudente",
-   "uf": "SP",
-   "titulo": "PRUDENPREV - SP abre concurso público com salários de até R$ 11.102,06",
-   "vagas": "10 vagas",
-   "salario_max": 11102.06,
-   "nivel": "Fundamental / Médio / Técnico / Superior",
-   "inscricao_inicio": "",
-   "inscricao_fim": "2026-11-10",
-   "cargos_ti": [
-    "Técnico em Informática (1 vaga)"
-   ],
-   "perfis": [
-    "suporte"
-   ],
-   "taxa": "R$ 60,00 a R$ 150,00",
-   "prova": "17 de janeiro de 2027",
-   "banca": "",
-   "site_inscricao": "www.fundacaofafipa.org.br",
-   "editais": [
-    "EDITAL DE ABERTURA Nº 01/2026"
-   ],
-   "visto_em": "2026-11-09"
-  },
   "seciteci-mt-abre-selecao-para-formacao-de-cadastro-de-reserva": {
    "url": "https://www.pciconcursos.com.br/noticias/seciteci-mt-abre-selecao-para-formacao-de-cadastro-de-reserva",
    "orgao": "SECITECI - Secretaria de Estado de Ciência, Tecnologia e Inovação de Mato Grosso",
@@ -3031,38 +2823,36 @@
   "https://www.pciconcursos.com.br/noticias/prefeitura-de-jaguaribe-ce-reabre-inscricoes-para-concursos-publicos": "2026-11-11",
   "https://www.pciconcursos.com.br/noticias/prefeitura-de-matao-sp-abre-concurso-publico-com-salarios-de-ate-9717": "2026-11-18",
   "https://www.pciconcursos.com.br/noticias/prefeitura-de-nova-xavantina-mt-divulga-edital-retificado-de-processo-seletivo-para-a-educacao": "2026-11-13",
-  "https://www.pciconcursos.com.br/noticias/prefeitura-de-poranga-ce-reabre-inscricoes-para-concursos-publicos": "2026-11-10",
   "https://www.pciconcursos.com.br/noticias/prefeitura-de-santa-rita-do-trivelato-mt-abre-selecao-com-salarios-de-ate-21825": "2026-11-22",
   "https://www.pciconcursos.com.br/noticias/ufv-mg-abre-concursos-publicos-para-professores-de-magisterio-superior": "2026-11-14",
   "https://www.pciconcursos.com.br/noticias/unilab-ce-abre-concurso-publico-com-vagas-para-professores-do-magisterio-superior": "2026-12-09",
   "https://www.pciconcursos.com.br/noticias/usp-sp-abre-10-novos-concursos-publicos-para-diversos-cargos": "2027-01-07"
  },
  "enviados": {
-  "abdi-df-processo-seletivo-abre-vagas-para-analistas-de-produtividade-e-inovacao": "2026-11-10",
   "camara-de-dom-inocencio-pi-abre-concurso-publico-com-salarios-de-ate-6000": "2026-11-13",
   "camara-de-mossoro-rn-abre-concurso-publico-com-salarios-de-ate-8810": "2026-11-12",
-  "comando-do-1-distrito-naval-rj-mg-abre-vagas-para-oficiais-temporarios-de-nivel-superior": "2026-11-10",
-  "creci-es-abre-concurso-publico-com-salarios-de-ate-8250": "2026-11-10",
   "dpe-pb-abre-concurso-publico-com-salarios-de-ate-5197": "2026-11-13",
-  "faculdade-sebrae-sp-abre-vaga-para-professor-adjunto-de-engenharia-de-software": "2026-11-10",
   "ifmg-retifica-concurso-publico-para-o-cargo-de-professor-do-ensino-basico-tecnico-e-tecnologico": "2026-11-13",
   "ifsp-retifica-processo-seletivo-com-vagas-para-professores-substitutos": "2026-11-13",
   "inb-retifica-concurso-publico-para-cadastro-de-reserva-em-diversas-areas-de-atuacao": "2026-11-11",
-  "marinha-do-brasil-2-distrito-naval-abre-selecao-para-oficiais-temporarios-rm2-na-bahia": "2026-11-10",
-  "marinha-do-brasil-4-distrito-naval-abre-selecao-para-oficiais-temporarios-com-vagas-em-diferentes-estados": "2026-11-10",
-  "marinha-do-brasil-8-distrito-naval-abre-vagas-para-oficiais-rm2-em-sp": "2026-11-10",
-  "marinha-do-brasil-am-e-ro-abre-processo-seletivo-para-oficiais-temporarios-de-nivel-superior": "2026-11-10",
   "prefeitura-de-confins-mg-divulga-retificacoes-de-processo-seletivo": "2026-11-12",
   "prefeitura-de-floresta-pe-publica-retificacao-de-concurso-publico": "2026-11-12",
-  "prefeitura-de-florestopolis-pr-abre-concurso-publico-com-salarios-de-ate-15389": "2026-11-10",
+  "prefeitura-de-francisco-macedo-pi-abre-concurso-publico-com-vagas-imediatas-e-cadastro-de-reserva": "2026-11-14",
   "prefeitura-de-guaicara-sp-abre-concurso-publico-com-salarios-de-ate-17716": "2026-11-11",
+  "prefeitura-de-ilhota-sc-publica-edital-de-concurso-publico-com-salarios-de-ate-21113": "2026-11-14",
+  "prefeitura-de-ipora-do-oeste-sc-abre-concurso-publico-e-processos-seletivos-com-salarios-de-ate-19265": "2026-11-16",
   "prefeitura-de-itapuca-rs-retifica-concurso-publico-com-salarios-de-ate-9495": "2026-11-12",
+  "prefeitura-de-luis-eduardo-magalhaes-ba-abre-processo-seletivo-para-diversos-cargos": "2026-11-15",
+  "prefeitura-de-mirassol-doeste-mt-abre-processo-seletivo-com-salarios-de-ate-27645": "2026-11-16",
   "prefeitura-de-montenegro-rs-abre-concurso-publico-com-salarios-de-ate-9848": "2026-11-13",
-  "prefeitura-de-nova-boa-vista-rs-abre-concurso-publico-com-salarios-de-ate-12039": "2026-11-10",
   "prefeitura-de-passo-de-torres-sc-abre-processo-seletivo-para-diversos-cargos-na-educacao": "2026-11-12",
+  "prefeitura-de-quixada-ce-abre-processo-seletivo-com-vagas-imediatas-e-cadastro-de-reserva": "2026-11-16",
+  "prefeitura-de-rio-negrinho-sc-e-orgaos-municipais-abrem-novos-concursos-publicos": "2026-11-15",
+  "prefeitura-de-rodeio-sc-abre-processos-seletivos-para-diversos-cargos": "2026-11-13",
   "prefeitura-de-santa-luzia-doeste-ro-abre-selecao-com-salarios-de-ate-5130": "2026-11-11",
+  "prefeitura-de-santo-antonio-da-patrulha-rs-divulga-processo-seletivo-para-instrutores-educacionais": "2026-11-13",
   "prefeitura-de-sao-pedro-de-alcantara-sc-abre-selecao-para-a-secretaria-de-educacao": "2026-11-11",
   "prefeitura-de-sao-pedro-do-turvo-sp-abre-processos-seletivos-para-diversos-niveis": "2026-11-11",
-  "prudenprev-sp-abre-concurso-publico-com-salarios-de-ate-11102": "2026-11-10"
+  "ufms-abre-processos-seletivos-para-professores-visitantes": "2026-11-13"
  }
 }
