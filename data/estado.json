@@ -1,5 +1,35 @@
 {
  "concursos": {
+  "banestes-es-abre-concurso-publico-para-cargos-de-nivel-superior": {
+   "url": "https://www.pciconcursos.com.br/noticias/banestes-es-abre-concurso-publico-para-cargos-de-nivel-superior",
+   "orgao": "Banestes - Banco do Estado do Espírito Santo",
+   "uf": "ES",
+   "titulo": "Banestes - ES abre concurso público para cargos de nível superior",
+   "vagas": "",
+   "salario_max": 6393.38,
+   "nivel": "Superior",
+   "inscricao_inicio": "",
+   "inscricao_fim": "2026-12-11",
+   "cargos_ti": [
+    "Analista de Tecnologia da Informação - Desenvolvimento de Sistemas (cadastro de reserva)",
+    "Analista de Tecnologia da Informação - Suporte e Infraestrutura (cadastro de reserva)",
+    "Analista de Tecnologia da Informação - Segurança da Informação (cadastro de reserva)"
+   ],
+   "perfis": [
+    "dev",
+    "infra",
+    "suporte",
+    "seguranca"
+   ],
+   "taxa": "R$ 87,00",
+   "prova": "",
+   "banca": "FCC",
+   "site_inscricao": "www.concursosfcc.com.br",
+   "editais": [
+    "EDITAL Nº 01/2027"
+   ],
+   "visto_em": "2026-11-12"
+  },
   "camara-de-aracruz-es-abre-concurso-publico-com-salarios-de-ate-6614": {
    "url": "https://www.pciconcursos.com.br/noticias/camara-de-aracruz-es-abre-concurso-publico-com-salarios-de-ate-6614",
    "orgao": "Câmara de Aracruz",
@@ -24,6 +54,31 @@
     "EDITAL DE CONCURSO PÚBLICO - Nº 01/2026"
    ],
    "visto_em": "2026-11-09"
+  },
+  "camara-de-aral-moreira-ms-abre-concurso-publico-com-salarios-de-ate-7566": {
+   "url": "https://www.pciconcursos.com.br/noticias/camara-de-aral-moreira-ms-abre-concurso-publico-com-salarios-de-ate-7566",
+   "orgao": "Câmara de Aral Moreira",
+   "uf": "MS",
+   "titulo": "Câmara de Aral Moreira - MS abre concurso público com salários de até R$ 7.566,00",
+   "vagas": "4 vagas",
+   "salario_max": 7566.0,
+   "nivel": "Fundamental / Médio / Superior",
+   "inscricao_inicio": "",
+   "inscricao_fim": "2026-11-22",
+   "cargos_ti": [
+    "Técnico em Informática (cadastro de reserva)"
+   ],
+   "perfis": [
+    "suporte"
+   ],
+   "taxa": "R$ 45,00 a R$ 130,00",
+   "prova": "13 de dezembro de 2026",
+   "banca": "",
+   "site_inscricao": "concursos.sigmams.com.br",
+   "editais": [
+    "EDITAL DE CONCURSO PÚBLICO 001/2026"
+   ],
+   "visto_em": "2026-11-12"
   },
   "camara-de-cristalina-go-retifica-concurso-publico-com-salarios-de-ate-8383": {
    "url": "https://www.pciconcursos.com.br/noticias/camara-de-cristalina-go-retifica-concurso-publico-com-salarios-de-ate-8383",
@@ -405,6 +460,32 @@
    ],
    "visto_em": "2026-11-09"
   },
+  "faculdade-sebrae-sp-prorroga-inscricoes-de-processo-seletivo-para-professor-adjunto-de-engenharia-de-software": {
+   "url": "https://www.pciconcursos.com.br/noticias/faculdade-sebrae-sp-prorroga-inscricoes-de-processo-seletivo-para-professor-adjunto-de-engenharia-de-software",
+   "orgao": "Faculdade Sebrae",
+   "uf": "SP",
+   "titulo": "Faculdade Sebrae - SP prorroga inscrições de processo seletivo para professor adjunto de Engenharia de Software",
+   "vagas": "1 vaga",
+   "salario_max": 19522.83,
+   "nivel": "Superior",
+   "inscricao_inicio": "",
+   "inscricao_fim": "2026-11-13",
+   "cargos_ti": [
+    "Professor Adjunto - Desenvolvimento e Engenharia de Software (Sistemas da Informação) (1 vaga)"
+   ],
+   "perfis": [
+    "docencia"
+   ],
+   "taxa": "",
+   "prova": "",
+   "banca": "RBO",
+   "site_inscricao": "",
+   "editais": [
+    "COMUNICADO 049/2026",
+    "PRORROGAÇÃO DO PERÍODO DE INSCRIÇÃO"
+   ],
+   "visto_em": "2026-11-12"
+  },
   "fumep-de-sete-lagoas-mg-retifica-concurso-publico-para-diversos-niveis-de-escolaridade": {
    "url": "https://www.pciconcursos.com.br/noticias/fumep-de-sete-lagoas-mg-retifica-concurso-publico-para-diversos-niveis-de-escolaridade",
    "orgao": "FUMEP - Fundação Municipal de Ensino Profissionalizante de Sete Lagoas",
@@ -712,33 +793,6 @@
    "site_inscricao": "concursos.furb.br",
    "editais": [
     "EDITAL Nº 001/2026"
-   ],
-   "visto_em": "2026-11-09"
-  },
-  "inb-retifica-concurso-publico-para-cadastro-de-reserva-em-diversas-areas-de-atuacao": {
-   "url": "https://www.pciconcursos.com.br/noticias/inb-retifica-concurso-publico-para-cadastro-de-reserva-em-diversas-areas-de-atuacao",
-   "orgao": "INB - Indústrias Nucleares do Brasil S.A.",
-   "uf": "Nacional",
-   "titulo": "INB retifica concurso público para cadastro de reserva em diversas áreas de atuação",
-   "vagas": "",
-   "salario_max": 8374.0,
-   "nivel": "Médio / Técnico / Superior",
-   "inscricao_inicio": "",
-   "inscricao_fim": "2026-11-11",
-   "cargos_ti": [
-    "Analista de Sistemas"
-   ],
-   "perfis": [
-    "dev"
-   ],
-   "taxa": "R$ 100,00 a R$ 125,00",
-   "prova": "10 de janeiro de 2027",
-   "banca": "FGV",
-   "site_inscricao": "conhecimento.fgv.br",
-   "editais": [
-    "EDITAL Nº 01/2026",
-    "ERRATA - 1ª RETIFICAÇÃO",
-    "EDITAL RETIFICADO Nº 01/2026"
    ],
    "visto_em": "2026-11-09"
   },
@@ -1185,6 +1239,57 @@
    ],
    "visto_em": "2026-11-09"
   },
+  "prefeitura-de-estiva-gerbi-sp-abre-processo-seletivo-para-area-da-educacao": {
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-estiva-gerbi-sp-abre-processo-seletivo-para-area-da-educacao",
+   "orgao": "Prefeitura de Estiva Gerbi",
+   "uf": "SP",
+   "titulo": "Prefeitura de Estiva Gerbi - SP abre processo seletivo para área da educação",
+   "vagas": "12 vagas",
+   "salario_max": 3890.27,
+   "nivel": "Médio / Superior",
+   "inscricao_inicio": "",
+   "inscricao_fim": "2026-12-07",
+   "cargos_ti": [
+    "Professor de Educação Básica II, Informática e Tecnologia (1 vaga + CR)"
+   ],
+   "perfis": [
+    "docencia"
+   ],
+   "taxa": "R$ 87,00 a R$ 99,00",
+   "prova": "10 de janeiro de 2027",
+   "banca": "",
+   "site_inscricao": "www.avancasp.org.br",
+   "editais": [
+    "EDITAL DE PROCESSO SELETIVO 01/2026"
+   ],
+   "visto_em": "2026-11-12"
+  },
+  "prefeitura-de-firmino-alves-ba-prorroga-inscricoes-para-processo-seletivo": {
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-firmino-alves-ba-prorroga-inscricoes-para-processo-seletivo",
+   "orgao": "Prefeitura de Firmino Alves",
+   "uf": "BA",
+   "titulo": "Prefeitura de Firmino Alves - BA prorroga inscrições para processo seletivo",
+   "vagas": "50 vagas",
+   "salario_max": 8000.0,
+   "nivel": "Fundamental / Médio / Técnico / Superior",
+   "inscricao_inicio": "",
+   "inscricao_fim": "2026-11-16",
+   "cargos_ti": [
+    "Técnico em Informática (T.I.) (2 vagas + 1 CR)"
+   ],
+   "perfis": [
+    "suporte"
+   ],
+   "taxa": "R$ 60,00 a R$ 110,00",
+   "prova": "31 de janeiro de 2027",
+   "banca": "",
+   "site_inscricao": "concursos.msconc.com.br",
+   "editais": [
+    "EDITAL DE PROCESSO SELETIVO Nº 001/2026",
+    "NOTA INFORMATIVA - PRORROGAÇÃO DO PRAZO DE INSCRIÇÕES"
+   ],
+   "visto_em": "2026-11-12"
+  },
   "prefeitura-de-floresta-pe-publica-retificacao-de-concurso-publico": {
    "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-floresta-pe-publica-retificacao-de-concurso-publico",
    "orgao": "Prefeitura de Floresta",
@@ -1237,31 +1342,6 @@
    "site_inscricao": "institutoibed.org",
    "editais": [
     "EDITAL - FRANCISCO MACEDO 1 CP"
-   ],
-   "visto_em": "2026-11-09"
-  },
-  "prefeitura-de-guaicara-sp-abre-concurso-publico-com-salarios-de-ate-17716": {
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-guaicara-sp-abre-concurso-publico-com-salarios-de-ate-17716",
-   "orgao": "Prefeitura de Guaiçara",
-   "uf": "SP",
-   "titulo": "Prefeitura de Guaiçara - SP abre concurso público com salários de até R$ 17.716,50",
-   "vagas": "33 vagas",
-   "salario_max": 17716.5,
-   "nivel": "Fundamental / Médio / Técnico / Superior",
-   "inscricao_inicio": "",
-   "inscricao_fim": "2026-11-11",
-   "cargos_ti": [
-    "PEB II Informática (1 vaga)"
-   ],
-   "perfis": [
-    "geral"
-   ],
-   "taxa": "R$ 60,00 a R$ 80,00",
-   "prova": "6 e 20 de dezembro de 2026",
-   "banca": "",
-   "site_inscricao": "portal.imperioconcursos.com.br",
-   "editais": [
-    "EDITAL DE ABERTURA DO CONCURSO PÚBLICO Nº 01/2026"
    ],
    "visto_em": "2026-11-09"
   },
@@ -2050,32 +2130,6 @@
    ],
    "visto_em": "2026-11-09"
   },
-  "prefeitura-de-santa-luzia-doeste-ro-abre-selecao-com-salarios-de-ate-5130": {
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-santa-luzia-doeste-ro-abre-selecao-com-salarios-de-ate-5130",
-   "orgao": "Prefeitura de Santa Luzia d'Oeste",
-   "uf": "RO",
-   "titulo": "Prefeitura de Santa Luzia d'Oeste - RO abre seleção com salários de até R$ 5.130,63",
-   "vagas": "34 vagas",
-   "salario_max": 5130.63,
-   "nivel": "Fundamental / Médio / Técnico / Superior",
-   "inscricao_inicio": "",
-   "inscricao_fim": "2026-11-11",
-   "cargos_ti": [
-    "Instrutor de Informática (1 vaga)"
-   ],
-   "perfis": [
-    "docencia"
-   ],
-   "taxa": "",
-   "prova": "",
-   "banca": "",
-   "site_inscricao": "",
-   "editais": [
-    "EDITAL DE PROCESSO SELETIVO SIMPLIFICADO 002/SEMAD/2026",
-    "RETIFICAÇÃO - CRONOGRAMA"
-   ],
-   "visto_em": "2026-11-09"
-  },
   "prefeitura-de-santa-luzia-mg-abre-concurso-publico-com-salarios-de-ate-8628": {
    "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-santa-luzia-mg-abre-concurso-publico-com-salarios-de-ate-8628",
    "orgao": "Prefeitura de Santa Luzia",
@@ -2102,6 +2156,32 @@
     "EDITAL 01/2026"
    ],
    "visto_em": "2026-11-09"
+  },
+  "prefeitura-de-santana-de-parnaiba-sp-abre-concurso-publico-com-salarios-de-ate-7497": {
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-santana-de-parnaiba-sp-abre-concurso-publico-com-salarios-de-ate-7497",
+   "orgao": "Prefeitura do Município de Santana de Parnaíba",
+   "uf": "SP",
+   "titulo": "Prefeitura de Santana de Parnaíba - SP abre concurso público com salários de até R$ 7.497,97",
+   "vagas": "76 vagas",
+   "salario_max": 7497.97,
+   "nivel": "Fundamental / Médio / Técnico / Superior",
+   "inscricao_inicio": "",
+   "inscricao_fim": "2026-12-08",
+   "cargos_ti": [
+    "Técnico em Tecnologia da Informação (1 vaga)",
+    "Analista de Tecnologia da Informação (cadastro de reserva)"
+   ],
+   "perfis": [
+    "geral"
+   ],
+   "taxa": "R$ 54,00 a R$ 81,00",
+   "prova": "10 de janeiro de 2027",
+   "banca": "Instituto Mais",
+   "site_inscricao": "",
+   "editais": [
+    "EDITAL Nº 07/2026"
+   ],
+   "visto_em": "2026-11-12"
   },
   "prefeitura-de-santana-dos-montes-mg-abre-concurso-publico-com-salarios-de-ate-20418": {
    "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-santana-dos-montes-mg-abre-concurso-publico-com-salarios-de-ate-20418",
@@ -2200,57 +2280,6 @@
    "site_inscricao": "",
    "editais": [
     "EDITAL Nº 195/2026 - CONCURSO PÚBLICO Nº 01/2026"
-   ],
-   "visto_em": "2026-11-09"
-  },
-  "prefeitura-de-sao-pedro-de-alcantara-sc-abre-selecao-para-a-secretaria-de-educacao": {
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-pedro-de-alcantara-sc-abre-selecao-para-a-secretaria-de-educacao",
-   "orgao": "Prefeitura de São Pedro de Alcântara",
-   "uf": "SC",
-   "titulo": "Prefeitura de São Pedro de Alcântara - SC abre seleção para a Secretaria de Educação",
-   "vagas": "",
-   "salario_max": 5545.75,
-   "nivel": "Fundamental / Médio / Técnico / Superior",
-   "inscricao_inicio": "",
-   "inscricao_fim": "2026-11-11",
-   "cargos_ti": [
-    "Professor de Informática Educativa, habilitado"
-   ],
-   "perfis": [
-    "docencia"
-   ],
-   "taxa": "R$ 80,00 a R$ 100,00",
-   "prova": "29 de novembro de 2026",
-   "banca": "Instituto Fucap",
-   "site_inscricao": "",
-   "editais": [
-    "EDITAL DE PROCESSO SELETIVO Nº 001/2026"
-   ],
-   "visto_em": "2026-11-09"
-  },
-  "prefeitura-de-sao-pedro-do-turvo-sp-abre-processos-seletivos-para-diversos-niveis": {
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-pedro-do-turvo-sp-abre-processos-seletivos-para-diversos-niveis",
-   "orgao": "Prefeitura de São Pedro do Turvo",
-   "uf": "SP",
-   "titulo": "Prefeitura de São Pedro do Turvo - SP abre processos seletivos para diversos níveis",
-   "vagas": "",
-   "salario_max": 4082.72,
-   "nivel": "Fundamental / Médio / Superior",
-   "inscricao_inicio": "",
-   "inscricao_fim": "2026-11-11",
-   "cargos_ti": [
-    "Professor de Educação Básica II (PEB II) - Informática"
-   ],
-   "perfis": [
-    "docencia"
-   ],
-   "taxa": "R$ 52,00 a R$ 100,00",
-   "prova": "29 de novembro de 2026",
-   "banca": "Instituto UNIQUE",
-   "site_inscricao": "",
-   "editais": [
-    "EDITAL DE PROCESSO SELETIVO Nº 01/2026",
-    "EDITAL DE PROCESSO SELETIVO Nº 02/2026"
    ],
    "visto_em": "2026-11-09"
   },
@@ -2820,11 +2849,11 @@
  "ignorados": {
   "https://www.pciconcursos.com.br/noticias/camara-de-lambari-mg-abre-concurso-publico-com-salarios-de-ate-5500": "2026-11-18",
   "https://www.pciconcursos.com.br/noticias/prefeitura-de-estiva-mg-abre-processo-seletivo-com-sete-vagas": "2026-11-13",
-  "https://www.pciconcursos.com.br/noticias/prefeitura-de-jaguaribe-ce-reabre-inscricoes-para-concursos-publicos": "2026-11-11",
   "https://www.pciconcursos.com.br/noticias/prefeitura-de-matao-sp-abre-concurso-publico-com-salarios-de-ate-9717": "2026-11-18",
   "https://www.pciconcursos.com.br/noticias/prefeitura-de-nova-xavantina-mt-divulga-edital-retificado-de-processo-seletivo-para-a-educacao": "2026-11-13",
   "https://www.pciconcursos.com.br/noticias/prefeitura-de-santa-rita-do-trivelato-mt-abre-selecao-com-salarios-de-ate-21825": "2026-11-22",
   "https://www.pciconcursos.com.br/noticias/ufv-mg-abre-concursos-publicos-para-professores-de-magisterio-superior": "2026-11-14",
+  "https://www.pciconcursos.com.br/noticias/unesp-abre-quatro-concursos-publicos-para-professores-substitutos-em-presidente-prudente-sp": "2026-11-30",
   "https://www.pciconcursos.com.br/noticias/unilab-ce-abre-concurso-publico-com-vagas-para-professores-do-magisterio-superior": "2026-12-09",
   "https://www.pciconcursos.com.br/noticias/usp-sp-abre-10-novos-concursos-publicos-para-diversos-cargos": "2027-01-07"
  },
@@ -2834,20 +2863,26 @@
   "camara-de-mossoro-rn-abre-concurso-publico-com-salarios-de-ate-8810": "2026-11-12",
   "camara-de-pires-do-rio-go-retifica-edital-de-concurso-publico": "2026-11-18",
   "dpe-pb-abre-concurso-publico-com-salarios-de-ate-5197": "2026-11-13",
+  "faculdade-sebrae-sp-prorroga-inscricoes-de-processo-seletivo-para-professor-adjunto-de-engenharia-de-software": "2026-11-13",
   "fumep-de-sete-lagoas-mg-retifica-concurso-publico-para-diversos-niveis-de-escolaridade": "2026-11-18",
+  "fundacao-educacional-guacuana-sp-abre-concurso-publico-para-bibliotecario-e-tecnico-em-informatica": "2026-11-19",
+  "ifmg-abre-processo-seletivo-para-professores-substitutos-em-sao-joao-evangelista": "2026-11-19",
   "ifmg-retifica-concurso-publico-para-o-cargo-de-professor-do-ensino-basico-tecnico-e-tecnologico": "2026-11-13",
   "ifpr-abre-processos-seletivos-para-professor-substituto-no-campus-jacarezinho": "2026-11-18",
   "ifsp-retifica-edital-de-concurso-publico-para-o-cargo-de-professor-do-ensino-basico-tecnico-e-tecnologico": "2026-11-17",
   "ifsp-retifica-processo-seletivo-com-vagas-para-professores-substitutos": "2026-11-13",
-  "inb-retifica-concurso-publico-para-cadastro-de-reserva-em-diversas-areas-de-atuacao": "2026-11-11",
+  "iges-df-abre-quatro-selecoes-para-medicos-tecnicos-e-analistas": "2026-11-19",
+  "municipio-de-teutonia-rs-abre-concurso-publico-com-salarios-de-ate-13844": "2026-11-18",
   "prefeitura-de-canitar-sp-abre-processo-seletivo-para-a-area-da-educacao": "2026-11-18",
   "prefeitura-de-confins-mg-divulga-retificacoes-de-processo-seletivo": "2026-11-12",
   "prefeitura-de-contagem-mg-retifica-edital-de-concurso-publico": "2026-11-17",
+  "prefeitura-de-firmino-alves-ba-prorroga-inscricoes-para-processo-seletivo": "2026-11-16",
   "prefeitura-de-floresta-pe-publica-retificacao-de-concurso-publico": "2026-11-12",
   "prefeitura-de-francisco-macedo-pi-abre-concurso-publico-com-vagas-imediatas-e-cadastro-de-reserva": "2026-11-14",
-  "prefeitura-de-guaicara-sp-abre-concurso-publico-com-salarios-de-ate-17716": "2026-11-11",
+  "prefeitura-de-ijui-rs-abre-concurso-publico-com-salarios-de-ate-21312": "2026-11-19",
   "prefeitura-de-ilhota-sc-publica-edital-de-concurso-publico-com-salarios-de-ate-21113": "2026-11-14",
   "prefeitura-de-ipora-do-oeste-sc-abre-concurso-publico-e-processos-seletivos-com-salarios-de-ate-19265": "2026-11-16",
+  "prefeitura-de-itapororoca-pb-abre-concurso-com-salarios-de-ate-10000": "2026-11-20",
   "prefeitura-de-itapuca-rs-retifica-concurso-publico-com-salarios-de-ate-9495": "2026-11-12",
   "prefeitura-de-luis-eduardo-magalhaes-ba-abre-processo-seletivo-para-diversos-cargos": "2026-11-15",
   "prefeitura-de-marapoama-sp-abre-processo-seletivo-com-vagas-imediatas-e-cadastro-de-reserva": "2026-11-17",
@@ -2859,10 +2894,9 @@
   "prefeitura-de-quixada-ce-abre-processo-seletivo-com-vagas-imediatas-e-cadastro-de-reserva": "2026-11-16",
   "prefeitura-de-rio-negrinho-sc-e-orgaos-municipais-abrem-novos-concursos-publicos": "2026-11-15",
   "prefeitura-de-rodeio-sc-abre-processos-seletivos-para-diversos-cargos": "2026-11-13",
-  "prefeitura-de-santa-luzia-doeste-ro-abre-selecao-com-salarios-de-ate-5130": "2026-11-11",
   "prefeitura-de-santo-antonio-da-patrulha-rs-divulga-processo-seletivo-para-instrutores-educacionais": "2026-11-13",
-  "prefeitura-de-sao-pedro-de-alcantara-sc-abre-selecao-para-a-secretaria-de-educacao": "2026-11-11",
-  "prefeitura-de-sao-pedro-do-turvo-sp-abre-processos-seletivos-para-diversos-niveis": "2026-11-11",
+  "prefeitura-de-xaxim-sc-abre-processo-seletivo-para-professores": "2026-11-19",
+  "tjpb-retifica-concurso-publico-para-analistas-judiciarios": "2026-11-18",
   "ufms-abre-processos-seletivos-para-professores-visitantes": "2026-11-13"
  }
 }
