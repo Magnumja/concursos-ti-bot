@@ -1498,7 +1498,7 @@
    "vagas": "308 vagas",
    "salario_max": 6812.14,
    "nivel": "Fundamental / Médio / Superior",
-   "inscricao_inicio": "2026-11-16",
+   "inscricao_inicio": "",
    "inscricao_fim": "2027-01-04",
    "cargos_ti": [
     "Técnico em Tecnologia da Informação (2 vagas)",
@@ -1539,31 +1539,6 @@
    "site_inscricao": "",
    "editais": [
     "EDITAL Nº 02/2026"
-   ],
-   "visto_em": "2026-11-09"
-  },
-  "prefeitura-de-luis-eduardo-magalhaes-ba-abre-processo-seletivo-para-diversos-cargos": {
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-luis-eduardo-magalhaes-ba-abre-processo-seletivo-para-diversos-cargos",
-   "orgao": "Prefeitura de Luís Eduardo Magalhães",
-   "uf": "BA",
-   "titulo": "Prefeitura de Luís Eduardo Magalhães - BA abre processo seletivo para diversos cargos",
-   "vagas": "2355 vagas",
-   "salario_max": 9216.9,
-   "nivel": "Fundamental / Médio / Técnico / Superior",
-   "inscricao_inicio": "",
-   "inscricao_fim": "2026-11-15",
-   "cargos_ti": [
-    "Instrutor de informática (2 vagas)"
-   ],
-   "perfis": [
-    "docencia"
-   ],
-   "taxa": "R$ 40,00 a R$ 90,00",
-   "prova": "13 de dezembro de 2026",
-   "banca": "ICDS",
-   "site_inscricao": "",
-   "editais": [
-    "EDITAL 001/2026"
    ],
    "visto_em": "2026-11-09"
   },
@@ -2058,35 +2033,6 @@
     "EDITAL DO CONCURSO PÚBLICO Nº 001",
     "EDITAL DO CONCURSO PÚBLICO Nº 003",
     "EDITAL DO CONCURSO PÚBLICO Nº 003"
-   ],
-   "visto_em": "2026-11-09"
-  },
-  "prefeitura-de-rio-negrinho-sc-e-orgaos-municipais-abrem-novos-concursos-publicos": {
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-rio-negrinho-sc-e-orgaos-municipais-abrem-novos-concursos-publicos",
-   "orgao": "Prefeitura de Rio Negrinho, FMC, IPRERIO e SAMAE",
-   "uf": "SC",
-   "titulo": "Prefeitura de Rio Negrinho - SC e órgãos municipais abrem novos concursos públicos",
-   "vagas": "27 vagas",
-   "salario_max": 18538.78,
-   "nivel": "Fundamental / Médio / Técnico / Superior",
-   "inscricao_inicio": "",
-   "inscricao_fim": "2026-11-15",
-   "cargos_ti": [
-    "Monitor de Tecnologia da Informação (1 vaga)",
-    "Monitor de Tecnologia da Informação (Volta Grande e Serro Azul)"
-   ],
-   "perfis": [
-    "geral"
-   ],
-   "taxa": "R$ 40,00 a R$ 100,00",
-   "prova": "6 de dezembro de 2026",
-   "banca": "Instituto Legalle",
-   "site_inscricao": "",
-   "editais": [
-    "FMC CONCURSO PÚBLICO 001/2026",
-    "IPRERIO CONCURSO PÚBLICO 001/2026",
-    "SAMAE CONCURSO PÚBLICO 001/2026",
-    "MUNICÍPIO DE RIO NEGRINHO CONCURSO PÚBLICO 001/2026"
    ],
    "visto_em": "2026-11-09"
   },
@@ -2899,7 +2845,6 @@
   "prefeitura-de-itapororoca-pb-abre-concurso-com-salarios-de-ate-10000": "2026-11-20",
   "prefeitura-de-jandira-sp-abre-concurso-publico-com-salarios-de-ate-6812": "2027-01-04",
   "prefeitura-de-leme-sp-abre-concurso-publico-com-salarios-de-ate-13359": "2026-11-30",
-  "prefeitura-de-luis-eduardo-magalhaes-ba-abre-processo-seletivo-para-diversos-cargos": "2026-11-15",
   "prefeitura-de-luislandia-mg-abre-concurso-publico-com-vagas-em-diversas-areas": "2027-01-06",
   "prefeitura-de-luiz-alves-sc-abre-concurso-publico-com-salarios-de-ate-8889": "2026-11-23",
   "prefeitura-de-luzerna-sc-abre-concurso-publico-com-salarios-de-ate-14004": "2026-12-03",
@@ -2919,11 +2864,11 @@
   "prefeitura-de-quixada-ce-abre-processo-seletivo-com-vagas-imediatas-e-cadastro-de-reserva": "2026-11-16",
   "prefeitura-de-rancho-queimado-sc-abre-processo-seletivo-para-formacao-de-cadastro-de-reserva": "2026-11-29",
   "prefeitura-de-ribeiraozinho-do-maranhao-ma-publica-editais-de-concurso-e-processo-seletivo": "2026-12-01",
-  "prefeitura-de-rio-negrinho-sc-e-orgaos-municipais-abrem-novos-concursos-publicos": "2026-11-15",
   "prefeitura-de-sales-sp-abre-processo-seletivo-para-formacao-de-cadastro-de-reserva": "2026-12-01",
   "prefeitura-de-santa-luzia-mg-abre-concurso-publico-com-salarios-de-ate-8628": "2027-01-15",
   "prefeitura-de-santana-de-parnaiba-sp-abre-concurso-publico-com-salarios-de-ate-7497": "2026-12-08",
   "prefeitura-de-santana-dos-montes-mg-abre-concurso-publico-com-salarios-de-ate-20418": "2027-01-21",
+  "prefeitura-de-sao-jose-do-divino-mg-abre-concurso-publico-para-diversos-cargos": "2027-02-10",
   "prefeitura-de-sao-jose-do-inhacora-rs-abre-concurso-publico-com-salarios-de-ate-9885": "2026-11-23",
   "prefeitura-de-serra-grande-pb-retifica-concurso-publico-com-vagas-para-diversos-cargos": "2026-11-29",
   "prefeitura-de-xaxim-sc-abre-processo-seletivo-para-professores": "2026-11-19",
@@ -2935,6 +2880,7 @@
   "tjpb-retifica-concurso-publico-para-analistas-judiciarios": "2026-11-18",
   "trf3-sp-ms-retifica-concurso-publico-para-analistas-e-tecnicos-judiciarios": "2026-11-23",
   "trt4-rs-abre-concurso-publico-para-analistas-e-tecnicos-judiciarios": "2026-11-25",
+  "uerj-abre-concurso-publico-para-professor-adjunto-de-ciencia-da-computacao": "2027-01-31",
   "ufabc-sp-abre-concurso-publico-para-professores": "2027-01-28",
   "ufcimg-mg-abre-processos-seletivos-para-o-cargo-de-professor-substituto-em-divinopolis": "2026-11-22",
   "ufj-go-abre-concurso-publico-para-professores-do-magisterio-superior": "2026-11-27",
