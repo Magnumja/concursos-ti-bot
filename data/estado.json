@@ -404,31 +404,6 @@
    ],
    "visto_em": "2026-11-09"
   },
-  "fundacao-educacional-guacuana-sp-abre-concurso-publico-para-bibliotecario-e-tecnico-em-informatica": {
-   "url": "https://www.pciconcursos.com.br/noticias/fundacao-educacional-guacuana-sp-abre-concurso-publico-para-bibliotecario-e-tecnico-em-informatica",
-   "orgao": "FEG - Fundação Educacional Guaçuana",
-   "uf": "SP",
-   "titulo": "Fundação Educacional Guaçuana - SP abre concurso público para Bibliotecário e Técnico em Informática",
-   "vagas": "2 vagas",
-   "salario_max": 2969.41,
-   "nivel": "Médio / Técnico / Superior",
-   "inscricao_inicio": "",
-   "inscricao_fim": "2026-11-19",
-   "cargos_ti": [
-    "Técnico em Informática (1 vaga e cadastro de reserva)"
-   ],
-   "perfis": [
-    "suporte"
-   ],
-   "taxa": "R$ 11,30 a R$ 12,70",
-   "prova": "13 de dezembro de 2026",
-   "banca": "",
-   "site_inscricao": "www.publiconsult.com.br",
-   "editais": [
-    "EDITAL DE ABERTURA - CONCURSO PÚBLICO Nº 2/2026"
-   ],
-   "visto_em": "2026-11-09"
-  },
   "fundacao-escola-tecnica-liberato-salzano-vieira-da-cunha-rs-abre-concurso-publico-para-diversos-cargos": {
    "url": "https://www.pciconcursos.com.br/noticias/fundacao-escola-tecnica-liberato-salzano-vieira-da-cunha-rs-abre-concurso-publico-para-diversos-cargos",
    "orgao": "Fundação Escola Técnica Liberato Salzano Vieira da Cunha",
@@ -507,30 +482,81 @@
    ],
    "visto_em": "2026-11-17"
   },
-  "ifmg-abre-processo-seletivo-para-professores-substitutos-em-sao-joao-evangelista": {
-   "url": "https://www.pciconcursos.com.br/noticias/ifmg-abre-processo-seletivo-para-professores-substitutos-em-sao-joao-evangelista",
-   "orgao": "IFMG - Instituto Federal de Educação, Ciência e Tecnologia de Minas Gerais",
-   "uf": "MG",
-   "titulo": "IFMG abre processo seletivo para professores substitutos em São João Evangelista",
-   "vagas": "8 vagas",
-   "salario_max": 15964.45,
+  "ifms-ms-abre-selecao-para-professores-substitutos-no-campus-tres-lagoas": {
+   "url": "https://www.pciconcursos.com.br/noticias/ifms-ms-abre-selecao-para-professores-substitutos-no-campus-tres-lagoas",
+   "orgao": "IFMS - Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso do Sul",
+   "uf": "MS",
+   "titulo": "IFMS - MS abre seleção para professores substitutos no campus Três Lagoas",
+   "vagas": "4 vagas",
+   "salario_max": 9532.33,
    "nivel": "Superior",
    "inscricao_inicio": "",
-   "inscricao_fim": "2026-11-19",
+   "inscricao_fim": "2026-11-29",
    "cargos_ti": [
-    "Professor substituto na área de Bacharelado em Sistemas de Informação e Técnico Integrado em Informática (1 vaga)"
+    "Professor substituto de Informática/Desenvolvimento Web (1 vaga)",
+    "Professor substituto de Informática/Redes de Computadores (1 vaga)"
    ],
    "perfis": [
     "docencia"
    ],
    "taxa": "R$ 50,00",
-   "prova": "25 a 27 de novembro de 2026",
-   "banca": "",
+   "prova": "11 de dezembro de 2026",
+   "banca": "Central de Seleção do IFMS",
    "site_inscricao": "",
    "editais": [
-    "EDITAL Nº 1175"
+    "EDITAL CAMPUS TRÊS LAGOAS/IFMS Nº 001/206"
    ],
-   "visto_em": "2026-11-09"
+   "visto_em": "2026-11-20"
+  },
+  "ifms-ms-abre-vagas-para-professores-substitutos-no-campus-jardim": {
+   "url": "https://www.pciconcursos.com.br/noticias/ifms-ms-abre-vagas-para-professores-substitutos-no-campus-jardim",
+   "orgao": "IFMS - Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso do Sul",
+   "uf": "MS",
+   "titulo": "IFMS - MS abre vagas para professores substitutos no campus Jardim",
+   "vagas": "2 vagas",
+   "salario_max": 9532.33,
+   "nivel": "Superior",
+   "inscricao_inicio": "",
+   "inscricao_fim": "2026-11-28",
+   "cargos_ti": [
+    "Professor substituto de Informática/Desenvolvimento Web (1 vaga)"
+   ],
+   "perfis": [
+    "docencia"
+   ],
+   "taxa": "R$ 50,00",
+   "prova": "12 de dezembro de 2026",
+   "banca": "",
+   "site_inscricao": "www.ifms.edu.br/centraldeselecao",
+   "editais": [
+    "EDITAL CAMPUS JARDIM/IFMS Nº 005/2026"
+   ],
+   "visto_em": "2026-11-20"
+  },
+  "ifpb-abre-selecao-para-professor-substituto-de-informatica-no-campus-monteiro": {
+   "url": "https://www.pciconcursos.com.br/noticias/ifpb-abre-selecao-para-professor-substituto-de-informatica-no-campus-monteiro",
+   "orgao": "IFPB - Instituto Federal de Educação, Ciência e Tecnologia da Paraíba",
+   "uf": "PB",
+   "titulo": "IFPB abre seleção para professor substituto de informática no campus Monteiro",
+   "vagas": "1 vaga",
+   "salario_max": 4326.6,
+   "nivel": "Superior",
+   "inscricao_inicio": "",
+   "inscricao_fim": "2026-11-29",
+   "cargos_ti": [
+    "Professor substituto de Informática (1 vaga)"
+   ],
+   "perfis": [
+    "docencia"
+   ],
+   "taxa": "R$ 100,00",
+   "prova": "15 a 18 de dezembro de 2026",
+   "banca": "",
+   "site_inscricao": "concursos.ifpb.edu.br",
+   "editais": [
+    "EDITAL Nº 164/2026"
+   ],
+   "visto_em": "2026-11-20"
   },
   "ifsp-abre-concurso-publico-para-cargos-tecnico-administrativos": {
    "url": "https://www.pciconcursos.com.br/noticias/ifsp-abre-concurso-publico-para-cargos-tecnico-administrativos",
@@ -583,34 +609,6 @@
     "EDITAL Nº 1/2026"
    ],
    "visto_em": "2026-11-18"
-  },
-  "iges-df-abre-quatro-selecoes-para-medicos-tecnicos-e-analistas": {
-   "url": "https://www.pciconcursos.com.br/noticias/iges-df-abre-quatro-selecoes-para-medicos-tecnicos-e-analistas",
-   "orgao": "IGESDF - Instituto de Gestão Estratégica de Saúde do Distrito Federal",
-   "uf": "DF",
-   "titulo": "IGES - DF abre quatro seleções para médicos, técnicos e analistas",
-   "vagas": "",
-   "salario_max": 13359.56,
-   "nivel": "Técnico / Superior",
-   "inscricao_inicio": "",
-   "inscricao_fim": "2026-11-19",
-   "cargos_ti": [
-    "Analista de TI III - Análise de Sistemas"
-   ],
-   "perfis": [
-    "dev"
-   ],
-   "taxa": "",
-   "prova": "",
-   "banca": "",
-   "site_inscricao": "",
-   "editais": [
-    "EDITAL Nº 122/2026",
-    "EDITAL Nº 123/2026",
-    "EDITAL Nº 124/2026",
-    "EDITAL Nº 125/2026"
-   ],
-   "visto_em": "2026-11-11"
   },
   "ima-sc-abre-concurso-publico-com-salarios-de-ate-12300": {
    "url": "https://www.pciconcursos.com.br/noticias/ima-sc-abre-concurso-publico-com-salarios-de-ate-12300",
@@ -997,6 +995,31 @@
    ],
    "visto_em": "2026-11-09"
   },
+  "prefeitura-de-candido-rodrigues-sp-abre-concurso-publico-com-salarios-de-ate-8862": {
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-candido-rodrigues-sp-abre-concurso-publico-com-salarios-de-ate-8862",
+   "orgao": "Prefeitura de Cândido Rodrigues",
+   "uf": "SP",
+   "titulo": "Prefeitura de Cândido Rodrigues - SP abre concurso público com salários de até R$ 8.862,24",
+   "vagas": "27 vagas",
+   "salario_max": 8862.24,
+   "nivel": "Fundamental / Médio / Técnico / Superior",
+   "inscricao_inicio": "",
+   "inscricao_fim": "2026-12-04",
+   "cargos_ti": [
+    "Monitor de Informática (cadastro reserva)"
+   ],
+   "perfis": [
+    "geral"
+   ],
+   "taxa": "R$ 50,00 a R$ 90,00",
+   "prova": "17 de janeiro de 2027",
+   "banca": "Fênix Concursos",
+   "site_inscricao": "",
+   "editais": [
+    "EDITAL DE ABERTURA DE INSCRIÇÕES DO CONCURSO PÚBLICO Nº 01/2026"
+   ],
+   "visto_em": "2026-11-20"
+  },
   "prefeitura-de-canto-do-buriti-pi-retifica-edital-de-concurso-publico": {
    "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-canto-do-buriti-pi-retifica-edital-de-concurso-publico",
    "orgao": "Prefeitura de Canto do Buriti",
@@ -1025,6 +1048,32 @@
     "RETIFICAÇÃO Nº 001/2026"
    ],
    "visto_em": "2026-11-09"
+  },
+  "prefeitura-de-chapadao-do-lageado-sc-abre-processo-seletivo-com-salarios-de-ate-21291": {
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-chapadao-do-lageado-sc-abre-processo-seletivo-com-salarios-de-ate-21291",
+   "orgao": "Prefeitura de Chapadão do Lageado",
+   "uf": "SC",
+   "titulo": "Prefeitura de Chapadão do Lageado - SC abre processo seletivo com salários de até R$ 21.291,71",
+   "vagas": "9 vagas",
+   "salario_max": 21291.71,
+   "nivel": "Fundamental / Médio / Técnico / Superior",
+   "inscricao_inicio": "",
+   "inscricao_fim": "2026-12-23",
+   "cargos_ti": [
+    "Professor de Informática (Habilitado)",
+    "Professor de Informática (Não Habilitado)"
+   ],
+   "perfis": [
+    "docencia"
+   ],
+   "taxa": "R$ 50,00 a R$ 70,00",
+   "prova": "16 de janeiro de 2027",
+   "banca": "Legalle Concursos",
+   "site_inscricao": "",
+   "editais": [
+    "EDITAL DE PROCESSO SELETIVO SIMPLIFICADO Nº 07/2026"
+   ],
+   "visto_em": "2026-11-20"
   },
   "prefeitura-de-contagem-mg-retifica-edital-de-concurso-publico": {
    "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-contagem-mg-retifica-edital-de-concurso-publico",
@@ -1966,6 +2015,32 @@
    ],
    "visto_em": "2026-11-09"
   },
+  "prefeitura-de-sede-nova-rs-abre-concurso-publico-e-processo-seletivo-com-diversas-vagas": {
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sede-nova-rs-abre-concurso-publico-e-processo-seletivo-com-diversas-vagas",
+   "orgao": "Prefeitura de Sede Nova",
+   "uf": "RS",
+   "titulo": "Prefeitura de Sede Nova - RS abre concurso público e processo seletivo com diversas vagas",
+   "vagas": "45 vagas",
+   "salario_max": 9339.29,
+   "nivel": "Fundamental / Médio / Técnico / Superior",
+   "inscricao_inicio": "",
+   "inscricao_fim": "2026-12-18",
+   "cargos_ti": [
+    "Professor de Computação (1 vaga e cadastro reserva)"
+   ],
+   "perfis": [
+    "docencia"
+   ],
+   "taxa": "R$ 70,00 a R$ 140,00",
+   "prova": "24 de janeiro de 2027",
+   "banca": "Fundatec",
+   "site_inscricao": "www.fundatec.org.br",
+   "editais": [
+    "EDITAL DE CONCURSO PÚBLICO Nº 01/2026",
+    "EDITAL DE PROCESSO SELETIVO PÚBLICO Nº 06/2026"
+   ],
+   "visto_em": "2026-11-20"
+  },
   "prefeitura-de-serra-grande-pb-retifica-concurso-publico-com-vagas-para-diversos-cargos": {
    "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-serra-grande-pb-retifica-concurso-publico-com-vagas-para-diversos-cargos",
    "orgao": "Prefeitura de Serra Grande",
@@ -1989,32 +2064,6 @@
    "editais": [
     "EDITAL NORMATIVO DE CONCURSO PÚBLICO Nº 001/2026",
     "EDITAL RETIFICADO DE CONCURSO PÚBLICO Nº 001/2026"
-   ],
-   "visto_em": "2026-11-09"
-  },
-  "prefeitura-de-xaxim-sc-abre-processo-seletivo-para-professores": {
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-xaxim-sc-abre-processo-seletivo-para-professores",
-   "orgao": "Prefeitura de Xaxim",
-   "uf": "SC",
-   "titulo": "Prefeitura de Xaxim - SC abre processo seletivo para professores",
-   "vagas": "",
-   "salario_max": 5137.52,
-   "nivel": "Médio / Superior",
-   "inscricao_inicio": "",
-   "inscricao_fim": "2026-11-19",
-   "cargos_ti": [
-    "Professor de Informática"
-   ],
-   "perfis": [
-    "docencia"
-   ],
-   "taxa": "R$ 100,00 a R$ 200,00",
-   "prova": "6 de dezembro de 2026",
-   "banca": "",
-   "site_inscricao": "",
-   "editais": [
-    "EDITAL Nº 003/2026",
-    "RETIFICAÇÃO Nº 01"
    ],
    "visto_em": "2026-11-09"
   },
@@ -2515,6 +2564,34 @@
    ],
    "visto_em": "2026-11-09"
   },
+  "ufra-pa-abre-concurso-publico-para-professores-do-magisterio-superior": {
+   "url": "https://www.pciconcursos.com.br/noticias/ufra-pa-abre-concurso-publico-para-professores-do-magisterio-superior",
+   "orgao": "UFRA - Universidade Federal Rural da Amazônia",
+   "uf": "PA",
+   "titulo": "UFRA - PA abre concurso público para professores do magistério superior",
+   "vagas": "57 vagas",
+   "salario_max": 13733.96,
+   "nivel": "Superior",
+   "inscricao_inicio": "",
+   "inscricao_fim": "2026-12-18",
+   "cargos_ti": [
+    "Professor de Banco de Dados e Desenvolvimento de Sistemas (1 vaga)",
+    "Professor de Engenharia de Software e Desenvolvimento de Sistemas (1 vaga)",
+    "Professor de Sistemas de Informação (1 vaga)",
+    "Professor de Atenção Integral ao Adulto e Sistema de Informação em Saúde (1 vaga)"
+   ],
+   "perfis": [
+    "docencia"
+   ],
+   "taxa": "R$ 180,00",
+   "prova": "",
+   "banca": "",
+   "site_inscricao": "",
+   "editais": [
+    "EDITAL Nº 10"
+   ],
+   "visto_em": "2026-11-20"
+  },
   "ufsm-rs-abre-concurso-para-professores-do-magisterio-superior": {
    "url": "https://www.pciconcursos.com.br/noticias/ufsm-rs-abre-concurso-para-professores-do-magisterio-superior",
    "orgao": "UFSM - Universidade Federal de Santa Maria",
@@ -2732,6 +2809,7 @@
  "ignorados": {
   "https://www.pciconcursos.com.br/noticias/prefeitura-de-santa-rita-do-trivelato-mt-abre-selecao-com-salarios-de-ate-21825": "2026-11-22",
   "https://www.pciconcursos.com.br/noticias/prefeitura-de-tijucas-sc-abre-concursos-publicos-com-salarios-de-ate-9941": "2027-01-05",
+  "https://www.pciconcursos.com.br/noticias/prefeitura-de-vila-bela-da-santissima-trindade-mt-abre-selecao-com-vagas-imediatas-e-cadastro-de-reserva": "2026-12-03",
   "https://www.pciconcursos.com.br/noticias/ufsc-abre-processo-seletivo-com-vagas-para-professor-substituto-em-diferentes-cidades": "2026-11-24",
   "https://www.pciconcursos.com.br/noticias/unesp-abre-quatro-concursos-publicos-para-professores-substitutos-em-presidente-prudente-sp": "2026-11-30",
   "https://www.pciconcursos.com.br/noticias/unilab-ce-abre-concurso-publico-com-vagas-para-professores-do-magisterio-superior": "2026-12-09",
@@ -2753,14 +2831,14 @@
   "crp-05-rj-abre-concurso-publico-com-salarios-de-ate-7313": "2026-12-17",
   "dpdf-abre-concurso-publico-para-analista-de-apoio-a-assistencia-judiciaria": "2027-01-07",
   "dpe-am-abre-concurso-publico-com-salarios-de-ate-8006": "2027-01-04",
-  "fundacao-educacional-guacuana-sp-abre-concurso-publico-para-bibliotecario-e-tecnico-em-informatica": "2026-11-19",
   "fundacao-escola-tecnica-liberato-salzano-vieira-da-cunha-rs-abre-concurso-publico-para-diversos-cargos": "2026-12-08",
   "iffar-rs-abre-concurso-publico-com-vagas-para-diversas-areas": "2026-12-21",
   "ifg-go-abre-concurso-publico-para-tecnicos-administrativos-em-educacao": "2026-12-23",
-  "ifmg-abre-processo-seletivo-para-professores-substitutos-em-sao-joao-evangelista": "2026-11-19",
+  "ifms-ms-abre-selecao-para-professores-substitutos-no-campus-tres-lagoas": "2026-11-29",
+  "ifms-ms-abre-vagas-para-professores-substitutos-no-campus-jardim": "2026-11-28",
+  "ifpb-abre-selecao-para-professor-substituto-de-informatica-no-campus-monteiro": "2026-11-29",
   "ifsp-abre-concurso-publico-para-cargos-tecnico-administrativos": "2027-01-04",
   "iftm-mg-abre-processo-seletivo-para-docente-substituto-no-campus-sete-lagoas": "2026-11-25",
-  "iges-df-abre-quatro-selecoes-para-medicos-tecnicos-e-analistas": "2026-11-19",
   "ima-sc-abre-concurso-publico-com-salarios-de-ate-12300": "2026-12-14",
   "ipa-sp-abre-concurso-publico-para-pesquisadores-cientificos": "2026-12-22",
   "ipam-de-porto-velho-ro-abre-concurso-publico-com-salarios-de-ate-5000": "2026-12-07",
@@ -2776,14 +2854,15 @@
   "prefeitura-de-blumenau-sc-abre-concurso-publico-para-a-area-da-educacao": "2026-12-09",
   "prefeitura-de-boa-viagem-ce-abre-concurso-publico-com-vagas-para-diversas-areas-de-atuacao": "2026-12-07",
   "prefeitura-de-campo-grande-do-piaui-pi-abre-concurso-publico-para-diversos-cargos-e-cadastro-de-reserva": "2026-11-25",
+  "prefeitura-de-candido-rodrigues-sp-abre-concurso-publico-com-salarios-de-ate-8862": "2026-12-04",
   "prefeitura-de-canto-do-buriti-pi-retifica-edital-de-concurso-publico": "2026-11-26",
+  "prefeitura-de-chapadao-do-lageado-sc-abre-processo-seletivo-com-salarios-de-ate-21291": "2026-12-23",
   "prefeitura-de-contagem-mg-retifica-edital-de-concurso-publico": "2026-12-03",
   "prefeitura-de-estiva-gerbi-sp-abre-processo-seletivo-para-area-da-educacao": "2026-12-07",
   "prefeitura-de-gramado-dos-loureiros-rs-abre-processo-seletivo-com-salarios-de-ate-5899": "2026-11-23",
   "prefeitura-de-guaratingueta-sp-abre-concurso-publico-com-salarios-de-ate-18540": "2026-12-15",
   "prefeitura-de-guaruja-do-sul-sc-abre-concurso-e-selecoes-com-salarios-de-ate-30-7-mil": "2026-12-02",
   "prefeitura-de-herval-doeste-sc-abre-vagas-para-diversos-cargos-na-area-da-educacao": "2026-11-30",
-  "prefeitura-de-ijui-rs-abre-concurso-publico-com-salarios-de-ate-21312": "2026-11-19",
   "prefeitura-de-ijui-rs-retifica-edital-de-concurso-publico": "2026-11-24",
   "prefeitura-de-inubia-paulista-sp-abre-concurso-publico-e-processo-seletivo-para-diversos-cargos": "2026-12-16",
   "prefeitura-de-italva-rj-abre-concurso-publico-com-salarios-de-ate-12132": "2026-12-16",
@@ -2814,8 +2893,8 @@
   "prefeitura-de-sao-carlos-sc-abre-processos-seletivos-para-cadastro-de-reserva": "2026-11-30",
   "prefeitura-de-sao-jose-do-divino-mg-abre-concurso-publico-para-diversos-cargos": "2027-02-10",
   "prefeitura-de-sao-jose-do-inhacora-rs-abre-concurso-publico-com-salarios-de-ate-9885": "2026-11-23",
+  "prefeitura-de-sede-nova-rs-abre-concurso-publico-e-processo-seletivo-com-diversas-vagas": "2026-12-18",
   "prefeitura-de-serra-grande-pb-retifica-concurso-publico-com-vagas-para-diversos-cargos": "2026-11-29",
-  "prefeitura-de-xaxim-sc-abre-processo-seletivo-para-professores": "2026-11-19",
   "prefeitura-e-camara-de-coronel-freitas-sc-anunciam-processo-seletivo-para-diversos-cargos": "2026-11-27",
   "prefeitura-e-camara-de-faina-go-reabrem-concurso-publico-com-diversas-vagas": "2026-12-03",
   "saa-ms-abre-processo-seletivo-com-salarios-de-ate-10354": "2026-12-14",
@@ -2834,6 +2913,7 @@
   "ufj-go-abre-concurso-publico-para-professores-do-magisterio-superior": "2026-11-27",
   "ufms-abre-concurso-publico-para-cargos-tecnico-administrativos-em-educacao": "2026-12-04",
   "ufpr-abre-concurso-publico-para-professor-de-ciencia-da-computacao": "2026-11-25",
+  "ufra-pa-abre-concurso-publico-para-professores-do-magisterio-superior": "2026-12-18",
   "ufsm-rs-abre-concurso-para-professores-do-magisterio-superior": "2026-12-02",
   "unesp-abre-novos-concursos-para-professores-substitutos-no-campus-de-presidente-prudente-sp": "2026-11-23",
   "unesp-abre-tres-concursos-publicos-para-professores-substitutos-em-rio-claro": "2026-12-15",
