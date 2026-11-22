@@ -404,6 +404,32 @@
    ],
    "visto_em": "2026-11-09"
   },
+  "fafia-es-abre-processos-seletivos-para-docentes-e-agentes-administrativos": {
+   "url": "https://www.pciconcursos.com.br/noticias/fafia-es-abre-processos-seletivos-para-docentes-e-agentes-administrativos",
+   "orgao": "FAFIA - Faculdade de Filosofia, Ciências e Letras de Alegre",
+   "uf": "ES",
+   "titulo": "FAFIA - ES abre processos seletivos para docentes e agentes administrativos",
+   "vagas": "10 vagas",
+   "salario_max": 1621.0,
+   "nivel": "Médio / Superior",
+   "inscricao_inicio": "",
+   "inscricao_fim": "2026-11-25",
+   "cargos_ti": [
+    "Docente não habilitado na área de Informática (cadastro de reserva)"
+   ],
+   "perfis": [
+    "docencia"
+   ],
+   "taxa": "R$ 60,00 a R$ 100,00",
+   "prova": "",
+   "banca": "",
+   "site_inscricao": "",
+   "editais": [
+    "EDITAL FAFIA Nº 001/2026 PROFESSOR DE NÍVEL SUPERIOR",
+    "EDITAL FAFIA Nº 002/2026 - AGENTE ADMINISTRATIVO"
+   ],
+   "visto_em": "2026-11-22"
+  },
   "fundacao-escola-tecnica-liberato-salzano-vieira-da-cunha-rs-abre-concurso-publico-para-diversos-cargos": {
    "url": "https://www.pciconcursos.com.br/noticias/fundacao-escola-tecnica-liberato-salzano-vieira-da-cunha-rs-abre-concurso-publico-para-diversos-cargos",
    "orgao": "Fundação Escola Técnica Liberato Salzano Vieira da Cunha",
@@ -867,6 +893,38 @@
     "EDITAL DE PROCESSO SELETIVO SIMPLIFICADO 003/2026 ADMINISTRAÇÃO"
    ],
    "visto_em": "2026-11-17"
+  },
+  "prefeitura-de-araripina-pe-abre-1099-vagas-em-processos-seletivos": {
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-araripina-pe-abre-1099-vagas-em-processos-seletivos",
+   "orgao": "Prefeitura de Araripina",
+   "uf": "PE",
+   "titulo": "Prefeitura de Araripina - PE abre 1.099 vagas em processos seletivos",
+   "vagas": "1099 vagas",
+   "salario_max": 16100.0,
+   "nivel": "Fundamental / Médio / Técnico / Superior",
+   "inscricao_inicio": "",
+   "inscricao_fim": "2026-12-06",
+   "cargos_ti": [
+    "Técnico em Informática (1 vaga)",
+    "Auxiliar de Informática (1 vaga)"
+   ],
+   "perfis": [
+    "suporte",
+    "geral"
+   ],
+   "taxa": "",
+   "prova": "",
+   "banca": "Administração e Infraestrutura",
+   "site_inscricao": "",
+   "editais": [
+    "EDITAL DE SELEÇÃO PÚBLICA SIMPLIFICADA Nº 002/2026",
+    "EDITAL DE SELEÇÃO PÚBLICA SIMPLIFICADA Nº 003/2026",
+    "EDITAL DE SELEÇÃO PÚBLICA SIMPLIFICADA Nº 004/2026",
+    "EDITAL DE SELEÇÃO PÚBLICA SIMPLIFICADA Nº 005/2026",
+    "EDITAL DE SELEÇÃO PÚBLICA SIMPLIFICADA Nº 006/2026",
+    "EDITAL DE SELEÇÃO PÚBLICA SIMPLIFICADA Nº 007/2026"
+   ],
+   "visto_em": "2026-11-22"
   },
   "prefeitura-de-belem-do-piaui-pi-abre-concurso-com-remuneracoes-de-ate-12000": {
    "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-belem-do-piaui-pi-abre-concurso-com-remuneracoes-de-ate-12000",
@@ -2806,6 +2864,7 @@
   "crp-05-rj-abre-concurso-publico-com-salarios-de-ate-7313": "2026-12-17",
   "dpdf-abre-concurso-publico-para-analista-de-apoio-a-assistencia-judiciaria": "2027-01-07",
   "dpe-am-abre-concurso-publico-com-salarios-de-ate-8006": "2027-01-04",
+  "fafia-es-abre-processos-seletivos-para-docentes-e-agentes-administrativos": "2026-11-25",
   "fundacao-escola-tecnica-liberato-salzano-vieira-da-cunha-rs-abre-concurso-publico-para-diversos-cargos": "2026-12-08",
   "iffar-rs-abre-concurso-publico-com-vagas-para-diversas-areas": "2026-12-21",
   "ifg-go-abre-concurso-publico-para-tecnicos-administrativos-em-educacao": "2026-12-23",
@@ -2824,6 +2883,7 @@
   "prefeitura-de-aluminio-sp-abre-processo-seletivo-na-area-da-educacao": "2026-11-23",
   "prefeitura-de-anchieta-es-abre-concurso-publico-com-salarios-de-ate-7362": "2026-12-14",
   "prefeitura-de-ararangua-sc-abre-processos-seletivos-para-diferentes-areas": "2026-12-06",
+  "prefeitura-de-araripina-pe-abre-1099-vagas-em-processos-seletivos": "2026-12-06",
   "prefeitura-de-belem-do-piaui-pi-abre-concurso-com-remuneracoes-de-ate-12000": "2026-11-25",
   "prefeitura-de-birigui-sp-abre-concurso-publico-com-salarios-de-ate-13881": "2026-12-10",
   "prefeitura-de-blumenau-sc-abre-concurso-publico-para-a-area-da-educacao": "2026-12-09",
