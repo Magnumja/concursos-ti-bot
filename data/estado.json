@@ -85,31 +85,6 @@
    ],
    "visto_em": "2026-11-09"
   },
-  "camara-de-aral-moreira-ms-abre-concurso-publico-com-salarios-de-ate-7566": {
-   "url": "https://www.pciconcursos.com.br/noticias/camara-de-aral-moreira-ms-abre-concurso-publico-com-salarios-de-ate-7566",
-   "orgao": "Câmara de Aral Moreira",
-   "uf": "MS",
-   "titulo": "Câmara de Aral Moreira - MS abre concurso público com salários de até R$ 7.566,00",
-   "vagas": "4 vagas",
-   "salario_max": 7566.0,
-   "nivel": "Fundamental / Médio / Superior",
-   "inscricao_inicio": "",
-   "inscricao_fim": "2026-11-22",
-   "cargos_ti": [
-    "Técnico em Informática (cadastro de reserva)"
-   ],
-   "perfis": [
-    "suporte"
-   ],
-   "taxa": "R$ 45,00 a R$ 130,00",
-   "prova": "13 de dezembro de 2026",
-   "banca": "",
-   "site_inscricao": "concursos.sigmams.com.br",
-   "editais": [
-    "EDITAL DE CONCURSO PÚBLICO 001/2026"
-   ],
-   "visto_em": "2026-11-12"
-  },
   "camara-de-carapicuiba-sp-abre-concurso-publico-para-oficial-de-manutencao-e-tecnico-em-tecnologia-da-informacao": {
    "url": "https://www.pciconcursos.com.br/noticias/camara-de-carapicuiba-sp-abre-concurso-publico-para-oficial-de-manutencao-e-tecnico-em-tecnologia-da-informacao",
    "orgao": "Câmara de Carapicuíba",
@@ -978,6 +953,31 @@
    ],
    "visto_em": "2026-11-09"
   },
+  "prefeitura-de-blumenau-sc-abre-concurso-com-19-vagas-e-cadastro-de-reserva-no-magisterio": {
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-blumenau-sc-abre-concurso-com-19-vagas-e-cadastro-de-reserva-no-magisterio",
+   "orgao": "Prefeitura de Blumenau",
+   "uf": "SC",
+   "titulo": "Prefeitura de Blumenau - SC abre concurso com 19 vagas e cadastro de reserva no magistério",
+   "vagas": "19 vagas",
+   "salario_max": 5130.63,
+   "nivel": "Superior",
+   "inscricao_inicio": "",
+   "inscricao_fim": "2026-12-09",
+   "cargos_ti": [
+    "Professor de Computação (1 vaga e cadastro de reserva)"
+   ],
+   "perfis": [
+    "docencia"
+   ],
+   "taxa": "R$ 150,00",
+   "prova": "31 de janeiro de 2027",
+   "banca": "",
+   "site_inscricao": "concursos.furb.br",
+   "editais": [
+    "EDITAL Nº 001/2026"
+   ],
+   "visto_em": "2026-11-23"
+  },
   "prefeitura-de-blumenau-sc-abre-concurso-publico-para-a-area-da-educacao": {
    "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-blumenau-sc-abre-concurso-publico-para-a-area-da-educacao",
    "orgao": "Prefeitura de Blumenau",
@@ -1132,6 +1132,31 @@
     "EDITAL DE PROCESSO SELETIVO SIMPLIFICADO Nº 07/2026"
    ],
    "visto_em": "2026-11-20"
+  },
+  "prefeitura-de-cocal-do-sul-sc-abre-processo-seletivo-para-a-secretaria-de-educacao": {
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-cocal-do-sul-sc-abre-processo-seletivo-para-a-secretaria-de-educacao",
+   "orgao": "Prefeitura de Cocal do Sul",
+   "uf": "SC",
+   "titulo": "Prefeitura de Cocal do Sul - SC abre processo seletivo para a Secretaria de Educação",
+   "vagas": "",
+   "salario_max": 5208.14,
+   "nivel": "Médio / Superior",
+   "inscricao_inicio": "",
+   "inscricao_fim": "2026-11-30",
+   "cargos_ti": [
+    "Professor de Informática"
+   ],
+   "perfis": [
+    "docencia"
+   ],
+   "taxa": "R$ 50,00 a R$ 80,00",
+   "prova": "13 de dezembro de 2026",
+   "banca": "",
+   "site_inscricao": "",
+   "editais": [
+    "EDITAL DE PROCESSO SELETIVO SIMPLIFICADO Nº 002/2026"
+   ],
+   "visto_em": "2026-11-23"
   },
   "prefeitura-de-contagem-mg-retifica-edital-de-concurso-publico": {
    "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-contagem-mg-retifica-edital-de-concurso-publico",
@@ -1733,6 +1758,31 @@
    ],
    "visto_em": "2026-11-14"
   },
+  "prefeitura-de-palmitos-sc-abre-processo-seletivo-com-salarios-de-ate-26258": {
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-palmitos-sc-abre-processo-seletivo-com-salarios-de-ate-26258",
+   "orgao": "Prefeitura de Palmitos",
+   "uf": "SC",
+   "titulo": "Prefeitura de Palmitos - SC abre processo seletivo com salários de até R$ 26.258,84",
+   "vagas": "",
+   "salario_max": 26258.84,
+   "nivel": "Fundamental / Médio / Técnico / Superior",
+   "inscricao_inicio": "",
+   "inscricao_fim": "2026-12-12",
+   "cargos_ti": [
+    "Professor de Informática"
+   ],
+   "perfis": [
+    "docencia"
+   ],
+   "taxa": "R$ 50,00 a R$ 100,00",
+   "prova": "20 de dezembro de 2026",
+   "banca": "",
+   "site_inscricao": "www.institutoselect.org",
+   "editais": [
+    "EDITAL DE PROCESSO SELETIVO SIMPLIFICADO Nº 001/2026"
+   ],
+   "visto_em": "2026-11-23"
+  },
   "prefeitura-de-patis-mg-abre-concurso-publico-com-salarios-de-ate-13500": {
    "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-patis-mg-abre-concurso-publico-com-salarios-de-ate-13500",
    "orgao": "Prefeitura de Patis",
@@ -1757,34 +1807,6 @@
    "site_inscricao": "cotec.fadenor.com.br",
    "editais": [
     "EDITAL 01/2026"
-   ],
-   "visto_em": "2026-11-09"
-  },
-  "prefeitura-de-praia-grande-sc-abre-selecoes-com-salarios-de-ate-7921": {
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-praia-grande-sc-abre-selecoes-com-salarios-de-ate-7921",
-   "orgao": "Prefeitura de Praia Grande e Fundo Municipal de Saúde",
-   "uf": "SC",
-   "titulo": "Prefeitura de Praia Grande - SC abre seleções com salários de até R$ 7.921,65",
-   "vagas": "79 vagas",
-   "salario_max": 7921.65,
-   "nivel": "Fundamental / Médio / Técnico / Superior",
-   "inscricao_inicio": "",
-   "inscricao_fim": "2026-11-22",
-   "cargos_ti": [
-    "Professor de Informática habilitado (1 vaga)",
-    "Professor de Informática não habilitado"
-   ],
-   "perfis": [
-    "docencia"
-   ],
-   "taxa": "R$ 80,00 a R$ 100,00",
-   "prova": "13 de dezembro de 2026",
-   "banca": "Instituto Legalle",
-   "site_inscricao": "",
-   "editais": [
-    "EDITAL DE PROCESSO SELETIVO SIMPLIFICADO 001/2026",
-    "EDITAL DE PROCESSO SELETIVO SIMPLIFICADO 002/2026",
-    "EDITAL DE PROCESSO SELETIVO SIMPLIFICADO 003/2026"
    ],
    "visto_em": "2026-11-09"
   },
@@ -2484,32 +2506,6 @@
    ],
    "visto_em": "2026-11-09"
   },
-  "ufcimg-mg-abre-processos-seletivos-para-o-cargo-de-professor-substituto-em-divinopolis": {
-   "url": "https://www.pciconcursos.com.br/noticias/ufcimg-mg-abre-processos-seletivos-para-o-cargo-de-professor-substituto-em-divinopolis",
-   "orgao": "UFCIMG - Universidade Federal de Ciência e Inovação de Minas Gerais",
-   "uf": "MG",
-   "titulo": "UFCIMG - MG abre processos seletivos para o cargo de professor substituto em Divinópolis",
-   "vagas": "2 vagas",
-   "salario_max": null,
-   "nivel": "Superior",
-   "inscricao_inicio": "",
-   "inscricao_fim": "2026-11-22",
-   "cargos_ti": [
-    "Professor substituto no Departamento de Computação (1 vaga)"
-   ],
-   "perfis": [
-    "docencia"
-   ],
-   "taxa": "",
-   "prova": "",
-   "banca": "",
-   "site_inscricao": "",
-   "editais": [
-    "EDITAL Nº 817/2026",
-    "EDITAL Nº 819/2026"
-   ],
-   "visto_em": "2026-11-13"
-  },
   "ufj-go-abre-concurso-publico-para-professores-do-magisterio-superior": {
    "url": "https://www.pciconcursos.com.br/noticias/ufj-go-abre-concurso-publico-para-professores-do-magisterio-superior",
    "orgao": "UFJ - Universidade Federal de Jataí",
@@ -2812,35 +2808,9 @@
     "EDITAL DE ABERTURA PROCESSO SELETIVO Nº 003/2026"
    ],
    "visto_em": "2026-11-19"
-  },
-  "utfpr-pr-abre-processo-seletivo-para-professores-substitutos-no-campus-pato-branco": {
-   "url": "https://www.pciconcursos.com.br/noticias/utfpr-pr-abre-processo-seletivo-para-professores-substitutos-no-campus-pato-branco",
-   "orgao": "UTFPR - Universidade Tecnológica Federal do Paraná",
-   "uf": "PR",
-   "titulo": "UTFPR - PR abre processo seletivo para professores substitutos no campus Pato Branco",
-   "vagas": "3 vagas",
-   "salario_max": 8340.33,
-   "nivel": "Superior",
-   "inscricao_inicio": "",
-   "inscricao_fim": "2026-11-22",
-   "cargos_ti": [
-    "Professor substituto de Ciência da Computação (1 vaga)"
-   ],
-   "perfis": [
-    "docencia"
-   ],
-   "taxa": "R$ 99,00",
-   "prova": "6 de dezembro de 2026",
-   "banca": "UTFPR",
-   "site_inscricao": "",
-   "editais": [
-    "EDITAL DE ABERTURA - PROCESSO SELETIVO Nº 002/2026"
-   ],
-   "visto_em": "2026-11-09"
   }
  },
  "ignorados": {
-  "https://www.pciconcursos.com.br/noticias/prefeitura-de-santa-rita-do-trivelato-mt-abre-selecao-com-salarios-de-ate-21825": "2026-11-22",
   "https://www.pciconcursos.com.br/noticias/prefeitura-de-tijucas-sc-abre-concursos-publicos-com-salarios-de-ate-9941": "2027-01-05",
   "https://www.pciconcursos.com.br/noticias/prefeitura-de-vila-bela-da-santissima-trindade-mt-abre-selecao-com-vagas-imediatas-e-cadastro-de-reserva": "2026-12-03",
   "https://www.pciconcursos.com.br/noticias/ufsc-abre-processo-seletivo-com-vagas-para-professor-substituto-em-diferentes-cidades": "2026-11-24",
@@ -2852,7 +2822,6 @@
   "associacao-das-pioneiras-sociais-abre-processo-seletivo-para-analista-de-tecnologia-da-informacao": "2026-12-17",
   "banestes-es-abre-concurso-publico-para-cargos-de-nivel-superior": "2026-12-11",
   "camara-de-aracruz-es-abre-concurso-publico-com-salarios-de-ate-6614": "2026-11-30",
-  "camara-de-aral-moreira-ms-abre-concurso-publico-com-salarios-de-ate-7566": "2026-11-22",
   "camara-de-carapicuiba-sp-abre-concurso-publico-para-oficial-de-manutencao-e-tecnico-em-tecnologia-da-informacao": "2026-12-06",
   "camara-de-cuiaba-mt-abre-concurso-publico-com-salarios-de-ate-11629": "2026-11-30",
   "camara-de-petrolina-pe-abre-concurso-publico-com-salarios-de-ate-8561": "2026-12-05",
@@ -2886,12 +2855,14 @@
   "prefeitura-de-araripina-pe-abre-1099-vagas-em-processos-seletivos": "2026-12-06",
   "prefeitura-de-belem-do-piaui-pi-abre-concurso-com-remuneracoes-de-ate-12000": "2026-11-25",
   "prefeitura-de-birigui-sp-abre-concurso-publico-com-salarios-de-ate-13881": "2026-12-10",
+  "prefeitura-de-blumenau-sc-abre-concurso-com-19-vagas-e-cadastro-de-reserva-no-magisterio": "2026-12-09",
   "prefeitura-de-blumenau-sc-abre-concurso-publico-para-a-area-da-educacao": "2026-12-09",
   "prefeitura-de-boa-viagem-ce-abre-concurso-publico-com-vagas-para-diversas-areas-de-atuacao": "2026-12-07",
   "prefeitura-de-campo-grande-do-piaui-pi-abre-concurso-publico-para-diversos-cargos-e-cadastro-de-reserva": "2026-11-25",
   "prefeitura-de-candido-rodrigues-sp-abre-concurso-publico-com-salarios-de-ate-8862": "2026-12-04",
   "prefeitura-de-canto-do-buriti-pi-retifica-edital-de-concurso-publico": "2026-11-26",
   "prefeitura-de-chapadao-do-lageado-sc-abre-processo-seletivo-com-salarios-de-ate-21291": "2026-12-23",
+  "prefeitura-de-cocal-do-sul-sc-abre-processo-seletivo-para-a-secretaria-de-educacao": "2026-11-30",
   "prefeitura-de-contagem-mg-retifica-edital-de-concurso-publico": "2026-12-03",
   "prefeitura-de-estiva-gerbi-sp-abre-processo-seletivo-para-area-da-educacao": "2026-12-07",
   "prefeitura-de-gramado-dos-loureiros-rs-abre-processo-seletivo-com-salarios-de-ate-5899": "2026-11-23",
@@ -2915,8 +2886,8 @@
   "prefeitura-de-novo-sao-joaquim-mt-abre-concurso-com-salarios-de-ate-11979": "2027-01-04",
   "prefeitura-de-novo-xingu-rs-abre-concurso-publico-com-salarios-de-ate-8797": "2026-11-30",
   "prefeitura-de-ouroeste-sp-abre-selecao-para-agentes-coletores-de-lixo-e-professores": "2026-12-01",
+  "prefeitura-de-palmitos-sc-abre-processo-seletivo-com-salarios-de-ate-26258": "2026-12-12",
   "prefeitura-de-patis-mg-abre-concurso-publico-com-salarios-de-ate-13500": "2026-12-30",
-  "prefeitura-de-praia-grande-sc-abre-selecoes-com-salarios-de-ate-7921": "2026-11-22",
   "prefeitura-de-rancho-queimado-sc-abre-processo-seletivo-para-formacao-de-cadastro-de-reserva": "2026-11-29",
   "prefeitura-de-ribeiraozinho-do-maranhao-ma-publica-editais-de-concurso-e-processo-seletivo": "2026-12-01",
   "prefeitura-de-sales-sp-abre-processo-seletivo-para-formacao-de-cadastro-de-reserva": "2026-12-01",
@@ -2943,7 +2914,6 @@
   "uemg-mg-abre-processo-seletivo-para-professores-de-educacao-superior": "2026-11-26",
   "uerj-abre-concurso-publico-para-professor-adjunto-de-ciencia-da-computacao": "2027-01-31",
   "ufabc-sp-abre-concurso-publico-para-professores": "2027-01-28",
-  "ufcimg-mg-abre-processos-seletivos-para-o-cargo-de-professor-substituto-em-divinopolis": "2026-11-22",
   "ufj-go-abre-concurso-publico-para-professores-do-magisterio-superior": "2026-11-27",
   "ufms-abre-concurso-publico-para-cargos-tecnico-administrativos-em-educacao": "2026-12-04",
   "ufpr-abre-concurso-publico-para-professor-de-ciencia-da-computacao": "2026-11-25",
@@ -2954,7 +2924,6 @@
   "unesp-sp-abre-concurso-para-professor-titular-no-instituto-de-ciencia-e-tecnologia-de-sorocaba": "2027-01-08",
   "unifei-mg-abre-concurso-publico-para-professores-do-magisterio-superior": "2026-11-26",
   "usp-sp-abre-concurso-publico-para-o-cargo-de-professor-titular-na-area-de-sistemas-de-computacao": "2027-01-08",
-  "utfpr-abre-processo-seletivo-para-professores-substitutos-no-campus-dois-vizinhos": "2026-12-20",
-  "utfpr-pr-abre-processo-seletivo-para-professores-substitutos-no-campus-pato-branco": "2026-11-22"
+  "utfpr-abre-processo-seletivo-para-professores-substitutos-no-campus-dois-vizinhos": "2026-12-20"
  }
 }
