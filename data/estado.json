@@ -292,6 +292,60 @@
    ],
    "visto_em": "2026-11-10"
   },
+  "cofen-df-abre-concurso-publico-com-salarios-de-18950-para-diversos-cargos-de-nivel-superior": {
+   "url": "https://www.pciconcursos.com.br/noticias/cofen-df-abre-concurso-publico-com-salarios-de-18950-para-diversos-cargos-de-nivel-superior",
+   "orgao": "Cofen - Conselho Federal de Enfermagem",
+   "uf": "DF",
+   "titulo": "Cofen - DF abre concurso público com salários de R$ 18.950,52 para diversos cargos de nível superior",
+   "vagas": "6 vagas",
+   "salario_max": 18950.52,
+   "nivel": "Superior",
+   "inscricao_inicio": "",
+   "inscricao_fim": "2027-01-11",
+   "cargos_ti": [
+    "Analista de Sistemas (cadastro de reserva)",
+    "Analista de Suporte Técnico (cadastro de reserva)",
+    "Analista de Tecnologia da Informação e Comunicação (1 vaga imediata e cadastro de reserva)"
+   ],
+   "perfis": [
+    "dev",
+    "suporte",
+    "geral"
+   ],
+   "taxa": "R$ 100,00",
+   "prova": "28 de fevereiro de 2027",
+   "banca": "Quadrix",
+   "site_inscricao": "www.quadrix.org.br",
+   "editais": [
+    "EDITAL Nº 1"
+   ],
+   "visto_em": "2026-11-26"
+  },
+  "coren-sp-abre-concurso-com-76-vagas-e-salarios-de-ate-10692": {
+   "url": "https://www.pciconcursos.com.br/noticias/coren-sp-abre-concurso-com-76-vagas-e-salarios-de-ate-10692",
+   "orgao": "Coren - Conselho Regional de Enfermagem de São Paulo",
+   "uf": "SP",
+   "titulo": "Coren - SP abre concurso com 76 vagas e salários de até R$ 10.692,00",
+   "vagas": "76 vagas",
+   "salario_max": 10692.0,
+   "nivel": "Médio / Superior",
+   "inscricao_inicio": "",
+   "inscricao_fim": "2027-01-11",
+   "cargos_ti": [
+    "Analista Desenvolvimento de Sistemas (cadastro de reserva)"
+   ],
+   "perfis": [
+    "dev"
+   ],
+   "taxa": "R$ 93,83 a R$ 109,60",
+   "prova": "7 de março de 2027",
+   "banca": "Quadrix",
+   "site_inscricao": "www.quadrix.org.br",
+   "editais": [
+    "EDITAL Nº 1"
+   ],
+   "visto_em": "2026-11-26"
+  },
   "cro-pr-abre-concurso-publico-com-12-vagas-e-salarios-de-ate-14318": {
    "url": "https://www.pciconcursos.com.br/noticias/cro-pr-abre-concurso-publico-com-12-vagas-e-salarios-de-ate-14318",
    "orgao": "CRO/PR - Conselho Regional de Odontologia do Paraná",
@@ -454,13 +508,38 @@
    ],
    "visto_em": "2026-11-24"
   },
-  "iffar-rs-abre-concurso-publico-com-vagas-para-diversas-areas": {
-   "url": "https://www.pciconcursos.com.br/noticias/iffar-rs-abre-concurso-publico-com-vagas-para-diversas-areas",
+  "ifes-es-abre-processo-seletivo-para-professor-substituto-em-montanha": {
+   "url": "https://www.pciconcursos.com.br/noticias/ifes-es-abre-processo-seletivo-para-professor-substituto-em-montanha",
+   "orgao": "Ifes - Instituto Federal do Espírito Santo",
+   "uf": "ES",
+   "titulo": "Ifes - ES abre processo seletivo para professor substituto em Montanha",
+   "vagas": "1 vaga",
+   "salario_max": 6157.29,
+   "nivel": "Superior",
+   "inscricao_inicio": "",
+   "inscricao_fim": "2026-12-01",
+   "cargos_ti": [
+    "Professor substituto de Informática (1 vaga)"
+   ],
+   "perfis": [
+    "docencia"
+   ],
+   "taxa": "",
+   "prova": "10 e 11 de dezembro de 2026",
+   "banca": "",
+   "site_inscricao": "",
+   "editais": [
+    "EDITAL Nº 04/2026"
+   ],
+   "visto_em": "2026-11-26"
+  },
+  "iffar-rs-abre-concurso-publico-para-cargos-de-niveis-medio-e-superior": {
+   "url": "https://www.pciconcursos.com.br/noticias/iffar-rs-abre-concurso-publico-para-cargos-de-niveis-medio-e-superior",
    "orgao": "IFFar - Instituto Federal de Educação, Ciência e Tecnologia Farroupilha",
    "uf": "RS",
-   "titulo": "IFFar - RS abre concurso público com vagas para diversas áreas",
+   "titulo": "IFFar - RS abre concurso público para cargos de níveis médio e superior",
    "vagas": "30 vagas",
-   "salario_max": 4976.27,
+   "salario_max": 5215.39,
    "nivel": "Médio / Técnico / Superior",
    "inscricao_inicio": "",
    "inscricao_fim": "2026-12-21",
@@ -476,9 +555,10 @@
    "site_inscricao": "www.fundatec.org.br",
    "editais": [
     "EDITAL Nº 406",
-    "EDITAL Nº 406 COMPLETO"
+    "EDITAL Nº 406 COMPLETO",
+    "RETIFICAÇÃO DO EDITAL DE ABERTURA - CONCURSO PÚBLICO Nº 01/2026"
    ],
-   "visto_em": "2026-11-13"
+   "visto_em": "2026-11-26"
   },
   "ifg-go-abre-concurso-publico-para-tecnicos-administrativos-em-educacao": {
    "url": "https://www.pciconcursos.com.br/noticias/ifg-go-abre-concurso-publico-para-tecnicos-administrativos-em-educacao",
@@ -1110,6 +1190,31 @@
    ],
    "visto_em": "2026-11-09"
   },
+  "prefeitura-de-campos-do-jordao-sp-abre-selecao-na-educacao-com-salarios-de-ate-8172": {
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-campos-do-jordao-sp-abre-selecao-na-educacao-com-salarios-de-ate-8172",
+   "orgao": "Prefeitura de Campos do Jordão",
+   "uf": "SP",
+   "titulo": "Prefeitura de Campos do Jordão - SP abre seleção na Educação com salários de até R$ 8.172,78",
+   "vagas": "",
+   "salario_max": 8172.78,
+   "nivel": "Fundamental / Médio / Técnico / Superior",
+   "inscricao_inicio": "",
+   "inscricao_fim": "2026-12-25",
+   "cargos_ti": [
+    "Monitor de Oficina de Informática"
+   ],
+   "perfis": [
+    "geral"
+   ],
+   "taxa": "R$ 40,00 a R$ 50,00",
+   "prova": "3 de janeiro de 2027",
+   "banca": "",
+   "site_inscricao": "www.promun.com.br",
+   "editais": [
+    "EDITAL DE ABERTURA DO PROCESSO SELETIVO Nº 07/2026"
+   ],
+   "visto_em": "2026-11-26"
+  },
   "prefeitura-de-candido-rodrigues-sp-abre-concurso-publico-com-salarios-de-ate-8862": {
    "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-candido-rodrigues-sp-abre-concurso-publico-com-salarios-de-ate-8862",
    "orgao": "Prefeitura de Cândido Rodrigues",
@@ -1632,6 +1737,31 @@
    ],
    "visto_em": "2026-11-09"
   },
+  "prefeitura-de-matos-costa-sc-abre-selecao-com-salarios-de-ate-5529": {
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-matos-costa-sc-abre-selecao-com-salarios-de-ate-5529",
+   "orgao": "Prefeitura de Matos Costa",
+   "uf": "SC",
+   "titulo": "Prefeitura de Matos Costa - SC abre seleção com salários de até R$ 5.529,01",
+   "vagas": "44 vagas",
+   "salario_max": 5529.01,
+   "nivel": "Fundamental / Médio / Técnico / Superior",
+   "inscricao_inicio": "",
+   "inscricao_fim": "2026-12-23",
+   "cargos_ti": [
+    "Técnico em Tecnologia da Informação (1 vaga e cadastro de reserva)"
+   ],
+   "perfis": [
+    "geral"
+   ],
+   "taxa": "R$ 30,00 a R$ 60,00",
+   "prova": "10 de janeiro de 2027",
+   "banca": "Instituto Select",
+   "site_inscricao": "",
+   "editais": [
+    "EDITAL DE PROCESSO SELETIVO SIMPLIFICADO Nº 001/2026"
+   ],
+   "visto_em": "2026-11-26"
+  },
   "prefeitura-de-moreilandia-pe-retifica-dois-concursos-publicos": {
    "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-moreilandia-pe-retifica-dois-concursos-publicos",
    "orgao": "Prefeitura de Moreilândia",
@@ -1686,6 +1816,31 @@
     "EDITAL Nº 001/2026"
    ],
    "visto_em": "2026-11-14"
+  },
+  "prefeitura-de-nova-itaberaba-sc-abre-processo-seletivo-com-4-vagas-e-cadastro-de-reserva": {
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-nova-itaberaba-sc-abre-processo-seletivo-com-4-vagas-e-cadastro-de-reserva",
+   "orgao": "Prefeitura de Nova Itaberaba",
+   "uf": "SC",
+   "titulo": "Prefeitura de Nova Itaberaba - SC abre processo seletivo com 4 vagas e cadastro de reserva",
+   "vagas": "4 vagas",
+   "salario_max": 25482.65,
+   "nivel": "Fundamental / Médio / Técnico / Superior",
+   "inscricao_inicio": "",
+   "inscricao_fim": "2026-12-07",
+   "cargos_ti": [
+    "Professor de Informática, 40 horas semanais"
+   ],
+   "perfis": [
+    "docencia"
+   ],
+   "taxa": "R$ 50,00 a R$ 100,00",
+   "prova": "20 de dezembro de 2026",
+   "banca": "",
+   "site_inscricao": "",
+   "editais": [
+    "EDITAL DO PROCESSO SELETIVO SIMPLIFICADO Nº 021/2026"
+   ],
+   "visto_em": "2026-11-26"
   },
   "prefeitura-de-nova-lima-mg-abre-processo-seletivo-com-salarios-de-ate-8106": {
    "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-nova-lima-mg-abre-processo-seletivo-com-salarios-de-ate-8106",
@@ -2732,6 +2887,31 @@
    ],
    "visto_em": "2026-11-24"
   },
+  "unicamp-sp-abre-concurso-para-professor-doutor-na-area-de-engenharia-eletrica-e-computacao": {
+   "url": "https://www.pciconcursos.com.br/noticias/unicamp-sp-abre-concurso-para-professor-doutor-na-area-de-engenharia-eletrica-e-computacao",
+   "orgao": "Unicamp - Universidade Estadual de Campinas",
+   "uf": "SP",
+   "titulo": "Unicamp - SP abre concurso para professor doutor na área de engenharia elétrica e computação",
+   "vagas": "1 vaga",
+   "salario_max": 16994.31,
+   "nivel": "Superior",
+   "inscricao_inicio": "",
+   "inscricao_fim": "2026-12-02",
+   "cargos_ti": [
+    "Professor Doutor na área de Engenharia Elétrica e de Computação (1 vaga)"
+   ],
+   "perfis": [
+    "docencia"
+   ],
+   "taxa": "",
+   "prova": "",
+   "banca": "",
+   "site_inscricao": "inscricoes.unicamp.br",
+   "editais": [
+    "EDITAL Nº 29-P-32497/2026"
+   ],
+   "visto_em": "2026-11-26"
+  },
   "unifei-mg-abre-concurso-publico-para-professores-do-magisterio-superior": {
    "url": "https://www.pciconcursos.com.br/noticias/unifei-mg-abre-concurso-publico-para-professores-do-magisterio-superior",
    "orgao": "UNIFEI - Universidade Federal de Itajubá",
@@ -2837,13 +3017,17 @@
   "camara-de-unai-mg-abre-concurso-publico-com-remuneracao-de-9193": "2026-12-01",
   "cetesb-sp-abre-concursos-publicos-para-diversos-cargos": "2026-12-14",
   "cis-itu-sp-abre-concurso-publico-com-salarios-de-ate-7553": "2026-12-07",
+  "cofen-df-abre-concurso-publico-com-salarios-de-18950-para-diversos-cargos-de-nivel-superior": "2027-01-11",
+  "coren-sp-abre-concurso-com-76-vagas-e-salarios-de-ate-10692": "2027-01-11",
   "cro-pr-abre-concurso-publico-com-12-vagas-e-salarios-de-ate-14318": "2026-12-29",
   "crp-05-rj-abre-concurso-publico-com-salarios-de-ate-7313": "2026-12-17",
   "dpdf-abre-concurso-publico-para-analista-de-apoio-a-assistencia-judiciaria": "2027-01-07",
   "dpe-am-abre-concurso-publico-com-salarios-de-ate-8006": "2027-01-04",
   "fundacao-escola-tecnica-liberato-salzano-vieira-da-cunha-rs-abre-concurso-publico-para-diversos-cargos": "2026-12-08",
   "furg-rs-abre-processo-seletivo-para-13-vagas-de-professor-substituto": "2026-12-07",
+  "ifes-es-abre-processo-seletivo-para-professor-substituto-em-montanha": "2026-12-01",
   "iffar-rs-abre-concurso-publico-com-vagas-para-diversas-areas": "2026-12-21",
+  "iffar-rs-abre-concurso-publico-para-cargos-de-niveis-medio-e-superior": "2026-12-21",
   "ifg-go-abre-concurso-publico-para-tecnicos-administrativos-em-educacao": "2026-12-23",
   "ifmg-mg-abre-vagas-para-professor-visitante-em-computacao-e-fisica": "2027-01-22",
   "ifms-ms-abre-selecao-para-professores-substitutos-no-campus-tres-lagoas": "2026-11-29",
@@ -2869,6 +3053,7 @@
   "prefeitura-de-blumenau-sc-abre-concurso-com-19-vagas-e-cadastro-de-reserva-no-magisterio": "2026-12-09",
   "prefeitura-de-blumenau-sc-abre-concurso-publico-para-a-area-da-educacao": "2026-12-09",
   "prefeitura-de-boa-viagem-ce-abre-concurso-publico-com-vagas-para-diversas-areas-de-atuacao": "2026-12-07",
+  "prefeitura-de-campos-do-jordao-sp-abre-selecao-na-educacao-com-salarios-de-ate-8172": "2026-12-25",
   "prefeitura-de-candido-rodrigues-sp-abre-concurso-publico-com-salarios-de-ate-8862": "2026-12-04",
   "prefeitura-de-canto-do-buriti-pi-retifica-edital-de-concurso-publico": "2026-11-26",
   "prefeitura-de-chapadao-do-lageado-sc-abre-processo-seletivo-com-salarios-de-ate-21291": "2026-12-23",
@@ -2889,8 +3074,10 @@
   "prefeitura-de-leme-sp-abre-concurso-publico-com-salarios-de-ate-13359": "2026-11-30",
   "prefeitura-de-luislandia-mg-abre-concurso-publico-com-vagas-em-diversas-areas": "2027-01-06",
   "prefeitura-de-luzerna-sc-abre-concurso-publico-com-salarios-de-ate-14004": "2026-12-03",
+  "prefeitura-de-matos-costa-sc-abre-selecao-com-salarios-de-ate-5529": "2026-12-23",
   "prefeitura-de-moreilandia-pe-retifica-dois-concursos-publicos": "2026-12-03",
   "prefeitura-de-muqui-es-abre-concurso-publico-com-diversas-vagas": "2026-12-08",
+  "prefeitura-de-nova-itaberaba-sc-abre-processo-seletivo-com-4-vagas-e-cadastro-de-reserva": "2026-12-07",
   "prefeitura-de-nova-lima-mg-abre-processo-seletivo-com-salarios-de-ate-8106": "2026-12-02",
   "prefeitura-de-nova-trento-sc-abre-tres-processos-seletivos-para-diversas-areas": "2026-11-28",
   "prefeitura-de-novo-sao-joaquim-mt-abre-concurso-com-salarios-de-ate-11979": "2027-01-04",
@@ -2930,6 +3117,7 @@
   "unesp-abre-tres-concursos-publicos-para-professores-substitutos-em-rio-claro": "2026-12-15",
   "unesp-sp-abre-concurso-para-professor-titular-no-instituto-de-ciencia-e-tecnologia-de-sorocaba": "2027-01-08",
   "unesp-sp-abre-concursos-para-professor-substituto-em-aracatuba": "2026-12-14",
+  "unicamp-sp-abre-concurso-para-professor-doutor-na-area-de-engenharia-eletrica-e-computacao": "2026-12-02",
   "unifei-mg-abre-concurso-publico-para-professores-do-magisterio-superior": "2026-11-26",
   "usp-sp-abre-concurso-publico-para-o-cargo-de-professor-titular-na-area-de-sistemas-de-computacao": "2027-01-08",
   "utfpr-abre-processo-seletivo-para-professores-substitutos-no-campus-dois-vizinhos": "2026-12-20"
