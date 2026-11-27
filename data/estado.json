@@ -346,6 +346,33 @@
    ],
    "visto_em": "2026-11-26"
   },
+  "crf-mg-abre-concurso-para-profissionais-de-diversas-areas": {
+   "url": "https://www.pciconcursos.com.br/noticias/crf-mg-abre-concurso-para-profissionais-de-diversas-areas",
+   "orgao": "CRF/MG - Conselho Regional de Farmácia do Estado de Minas Gerais",
+   "uf": "MG",
+   "titulo": "CRF - MG abre concurso para profissionais de diversas áreas",
+   "vagas": "6 vagas",
+   "salario_max": 8889.0,
+   "nivel": "Médio / Técnico / Superior",
+   "inscricao_inicio": "",
+   "inscricao_fim": "2026-12-21",
+   "cargos_ti": [
+    "Analista de Sistemas (1 vaga)",
+    "Técnico em Informática (cadastro reserva)"
+   ],
+   "perfis": [
+    "dev",
+    "suporte"
+   ],
+   "taxa": "R$ 58,00 a R$ 68,00",
+   "prova": "21 de fevereiro de 2027",
+   "banca": "Instituto Ibest",
+   "site_inscricao": "",
+   "editais": [
+    "EDITAL Nº 1"
+   ],
+   "visto_em": "2026-11-27"
+  },
   "cro-pr-abre-concurso-publico-com-12-vagas-e-salarios-de-ate-14318": {
    "url": "https://www.pciconcursos.com.br/noticias/cro-pr-abre-concurso-publico-com-12-vagas-e-salarios-de-ate-14318",
    "orgao": "CRO/PR - Conselho Regional de Odontologia do Paraná",
@@ -457,6 +484,35 @@
     "EDITAL Nº 01/2026 COMPLETO"
    ],
    "visto_em": "2026-11-09"
+  },
+  "famesp-sp-abre-processos-seletivos-para-cargos-de-nivel-superior-com-ganhos-de-12-1-mil": {
+   "url": "https://www.pciconcursos.com.br/noticias/famesp-sp-abre-processos-seletivos-para-cargos-de-nivel-superior-com-ganhos-de-12-1-mil",
+   "orgao": "FAMESP - Fundação para o Desenvolvimento Médico e Hospitalar",
+   "uf": "SP",
+   "titulo": "FAMESP - SP abre processos seletivos para cargos de nível superior com ganhos de R$ 12,1 mil",
+   "vagas": "5 vagas",
+   "salario_max": 12154.19,
+   "nivel": "Superior",
+   "inscricao_inicio": "",
+   "inscricao_fim": "2026-12-08",
+   "cargos_ti": [
+    "Analista de Sistemas Júnior (1 vaga)"
+   ],
+   "perfis": [
+    "dev"
+   ],
+   "taxa": "R$ 110,00",
+   "prova": "19 de dezembro de 2026",
+   "banca": "FAMESP",
+   "site_inscricao": "",
+   "editais": [
+    "EDITAL Nº 331/2026",
+    "EDITAL Nº 330/2026",
+    "EDITAL Nº 329/2026",
+    "EDITAL Nº 328/2026",
+    "EDITAL Nº 327/2026"
+   ],
+   "visto_em": "2026-11-27"
   },
   "fundacao-escola-tecnica-liberato-salzano-vieira-da-cunha-rs-abre-concurso-publico-para-diversos-cargos": {
    "url": "https://www.pciconcursos.com.br/noticias/fundacao-escola-tecnica-liberato-salzano-vieira-da-cunha-rs-abre-concurso-publico-para-diversos-cargos",
@@ -1240,35 +1296,6 @@
    ],
    "visto_em": "2026-11-20"
   },
-  "prefeitura-de-canto-do-buriti-pi-retifica-edital-de-concurso-publico": {
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-canto-do-buriti-pi-retifica-edital-de-concurso-publico",
-   "orgao": "Prefeitura de Canto do Buriti",
-   "uf": "PI",
-   "titulo": "Prefeitura de Canto do Buriti - PI retifica edital de concurso público",
-   "vagas": "257 vagas",
-   "salario_max": 16210.0,
-   "nivel": "Fundamental / Médio / Técnico / Superior",
-   "inscricao_inicio": "",
-   "inscricao_fim": "2026-11-26",
-   "cargos_ti": [
-    "Técnico em Informática (3 vagas)",
-    "Professor de Informática (6 vagas)"
-   ],
-   "perfis": [
-    "suporte",
-    "docencia"
-   ],
-   "taxa": "R$ 76,00 a R$ 99,00",
-   "prova": "13 de dezembro de 2026",
-   "banca": "",
-   "site_inscricao": "www.institutovicentenelson.com.br",
-   "editais": [
-    "EDITAL DE CONCURSO PÚBLICO MUNICIPAL Nº 001/2026",
-    "EDITAL RETIFICADO Nº 001/2026",
-    "RETIFICAÇÃO Nº 001/2026"
-   ],
-   "visto_em": "2026-11-09"
-  },
   "prefeitura-de-chapadao-do-lageado-sc-abre-processo-seletivo-com-salarios-de-ate-21291": {
    "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-chapadao-do-lageado-sc-abre-processo-seletivo-com-salarios-de-ate-21291",
    "orgao": "Prefeitura de Chapadão do Lageado",
@@ -1607,31 +1634,6 @@
     "EDITAL DE ABERTURA Nº 01/2026"
    ],
    "visto_em": "2026-11-14"
-  },
-  "prefeitura-de-itupeva-sp-abre-processo-seletivo-para-professores": {
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-itupeva-sp-abre-processo-seletivo-para-professores",
-   "orgao": "Prefeitura de Itupeva",
-   "uf": "SP",
-   "titulo": "Prefeitura de Itupeva - SP abre processo seletivo para professores",
-   "vagas": "33 vagas",
-   "salario_max": 6348.24,
-   "nivel": "Superior",
-   "inscricao_inicio": "",
-   "inscricao_fim": "2026-11-26",
-   "cargos_ti": [
-    "Professor de Educação Básica - Informática (1 vaga)"
-   ],
-   "perfis": [
-    "docencia"
-   ],
-   "taxa": "R$ 90,00",
-   "prova": "13 de dezembro de 2026",
-   "banca": "Instituto de Desenvolvimento e Capacitação (IDCAP)",
-   "site_inscricao": "",
-   "editais": [
-    "EDITAL DE ABERTURA Nº 001/2026"
-   ],
-   "visto_em": "2026-11-18"
   },
   "prefeitura-de-jandira-sp-abre-concurso-publico-com-salarios-de-ate-6812": {
    "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-jandira-sp-abre-concurso-publico-com-salarios-de-ate-6812",
@@ -2285,6 +2287,32 @@
    ],
    "visto_em": "2026-11-09"
   },
+  "prefeitura-de-sao-jose-do-inhacora-rs-abre-concurso-para-diversos-niveis-de-escolaridade": {
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-jose-do-inhacora-rs-abre-concurso-para-diversos-niveis-de-escolaridade",
+   "orgao": "Prefeitura de São José do Inhacorá",
+   "uf": "RS",
+   "titulo": "Prefeitura de São José do Inhacorá - RS abre concurso para diversos níveis de escolaridade",
+   "vagas": "22 vagas",
+   "salario_max": 9885.71,
+   "nivel": "Fundamental / Médio / Superior",
+   "inscricao_inicio": "",
+   "inscricao_fim": "2026-11-30",
+   "cargos_ti": [
+    "Professor de Computação e Inovação (1 vaga)"
+   ],
+   "perfis": [
+    "docencia"
+   ],
+   "taxa": "R$ 73,29 a R$ 125,64",
+   "prova": "20 de dezembro de 2026",
+   "banca": "Premier Concursos",
+   "site_inscricao": "",
+   "editais": [
+    "EDITAL Nº 195/2026 - CONCURSO PÚBLICO Nº 01/2026",
+    "RETIFICAÇÃO - CONCURSO PÚBLICO Nº 01/2026"
+   ],
+   "visto_em": "2026-11-27"
+  },
   "prefeitura-de-sede-nova-rs-abre-concurso-publico-e-processo-seletivo-com-diversas-vagas": {
    "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sede-nova-rs-abre-concurso-publico-e-processo-seletivo-com-diversas-vagas",
    "orgao": "Prefeitura de Sede Nova",
@@ -2470,38 +2498,6 @@
    ],
    "visto_em": "2026-11-19"
   },
-  "seciteci-mt-retifica-edital-de-processo-seletivo-para-formacao-de-cadastro-de-reserva": {
-   "url": "https://www.pciconcursos.com.br/noticias/seciteci-mt-retifica-edital-de-processo-seletivo-para-formacao-de-cadastro-de-reserva",
-   "orgao": "SECITECI - Secretaria de Estado de Ciência, Tecnologia e Inovação de Mato Grosso",
-   "uf": "MT",
-   "titulo": "SECITECI - MT retifica edital de processo seletivo para formação de cadastro de reserva",
-   "vagas": "",
-   "salario_max": 12937.29,
-   "nivel": "Médio / Técnico / Superior",
-   "inscricao_inicio": "",
-   "inscricao_fim": "2026-11-26",
-   "cargos_ti": [
-    "Professor na área de Análise e Desenvolvimento de Sistemas",
-    "Professor na área de Informática",
-    "Técnico em Informática",
-    "Técnico em Manutenção e Suporte em Informática"
-   ],
-   "perfis": [
-    "docencia",
-    "suporte"
-   ],
-   "taxa": "R$ 75,00",
-   "prova": "",
-   "banca": "Selecon",
-   "site_inscricao": "www.selecon.org.br",
-   "editais": [
-    "EDITAL Nº 012/2026",
-    "EDITAL RETIFICADOR Nº 01 D0 EDITAL Nº 012/2026",
-    "EDITAL RETIFICADOR Nº 02 D0 EDITAL Nº 012/2026",
-    "EDITAL RETIFICADO Nº 012/2026"
-   ],
-   "visto_em": "2026-11-13"
-  },
   "setec-campinas-sp-abre-concurso-publico-com-salarios-de-ate-10428": {
    "url": "https://www.pciconcursos.com.br/noticias/setec-campinas-sp-abre-concurso-publico-com-salarios-de-ate-10428",
    "orgao": "SETEC - Serviços Técnicos Gerais de Campinas",
@@ -2581,31 +2577,6 @@
    "site_inscricao": "",
    "editais": [
     "EDITAL DE PROCESSO SELETIVO SIMPLIFICADO/TCEES 2/2026"
-   ],
-   "visto_em": "2026-11-17"
-  },
-  "uemg-mg-abre-processo-seletivo-para-professores-de-educacao-superior": {
-   "url": "https://www.pciconcursos.com.br/noticias/uemg-mg-abre-processo-seletivo-para-professores-de-educacao-superior",
-   "orgao": "UEMG - Universidade do Estado de Minas Gerais",
-   "uf": "MG",
-   "titulo": "UEMG - MG abre processo seletivo para professores de educação superior",
-   "vagas": "91 vagas",
-   "salario_max": 5875.83,
-   "nivel": "Superior",
-   "inscricao_inicio": "",
-   "inscricao_fim": "2026-11-26",
-   "cargos_ti": [
-    "Professor de Educação Superior na área de Computação (7 vagas)"
-   ],
-   "perfis": [
-    "docencia"
-   ],
-   "taxa": "",
-   "prova": "",
-   "banca": "",
-   "site_inscricao": "",
-   "editais": [
-    "EDITAL Nº 41/2026"
    ],
    "visto_em": "2026-11-17"
   },
@@ -2912,39 +2883,6 @@
    ],
    "visto_em": "2026-11-26"
   },
-  "unifei-mg-abre-concurso-publico-para-professores-do-magisterio-superior": {
-   "url": "https://www.pciconcursos.com.br/noticias/unifei-mg-abre-concurso-publico-para-professores-do-magisterio-superior",
-   "orgao": "UNIFEI - Universidade Federal de Itajubá",
-   "uf": "MG",
-   "titulo": "UNIFEI - MG abre concurso público para professores do magistério superior",
-   "vagas": "27 vagas",
-   "salario_max": 13753.96,
-   "nivel": "Superior",
-   "inscricao_inicio": "",
-   "inscricao_fim": "2026-11-26",
-   "cargos_ti": [
-    "Professor de Desenho e Desenvolvimento Web, Cloud Computing, Banco de Dados e Sistemas Computacionais (1 vaga)",
-    "Professor de Engenharia de Software, IHM, Arquitetura e Confiabilidade (1 vaga)",
-    "Professor de Programação, Algoritmos, Modelagem e Verificação de Software (1 vaga)",
-    "Professor de Redes de Computadores, Criptografia e Protocolos Seguros (1 vaga)",
-    "Professor de Segurança da Informação (1 vaga)",
-    "Professor de Sistemas Embarcados, Arquitetura de Computadores e Sistemas Digitais (1 vaga)",
-    "Professor de Arquitetura de Computadores e Compiladores (1 vaga)",
-    "Professor de Programação e Desenvolvimento de Sistemas Aplicados à Ciência de Dados (1 vaga)",
-    "Professor de Computação, Algoritmos e Fundamentos de Programação (1 vaga)"
-   ],
-   "perfis": [
-    "docencia"
-   ],
-   "taxa": "R$ 200,00",
-   "prova": "",
-   "banca": "",
-   "site_inscricao": "sigrh.unifei.edu.br",
-   "editais": [
-    "EDITAL Nº 59"
-   ],
-   "visto_em": "2026-11-09"
-  },
   "usp-sp-abre-concurso-publico-para-o-cargo-de-professor-titular-na-area-de-sistemas-de-computacao": {
    "url": "https://www.pciconcursos.com.br/noticias/usp-sp-abre-concurso-publico-para-o-cargo-de-professor-titular-na-area-de-sistemas-de-computacao",
    "orgao": "USP - Universidade de São Paulo",
@@ -2969,6 +2907,31 @@
     "EDITAL Nº 011/2026"
    ],
    "visto_em": "2026-11-09"
+  },
+  "usp-sp-abre-concurso-publico-para-professor-doutor-em-sistemas-de-informacao": {
+   "url": "https://www.pciconcursos.com.br/noticias/usp-sp-abre-concurso-publico-para-professor-doutor-em-sistemas-de-informacao",
+   "orgao": "USP - Universidade de São Paulo",
+   "uf": "SP",
+   "titulo": "USP - SP abre concurso público para professor doutor em sistemas de informação",
+   "vagas": "1 vaga",
+   "salario_max": 16994.01,
+   "nivel": "Superior",
+   "inscricao_inicio": "",
+   "inscricao_fim": "2027-01-11",
+   "cargos_ti": [
+    "Professor Doutor na área de Sistemas de Informação (1 vaga)"
+   ],
+   "perfis": [
+    "docencia"
+   ],
+   "taxa": "",
+   "prova": "",
+   "banca": "USP Digital",
+   "site_inscricao": "",
+   "editais": [
+    "EDITAL Nº 067/2026"
+   ],
+   "visto_em": "2026-11-27"
   },
   "utfpr-abre-processo-seletivo-para-professores-substitutos-no-campus-dois-vizinhos": {
    "url": "https://www.pciconcursos.com.br/noticias/utfpr-abre-processo-seletivo-para-professores-substitutos-no-campus-dois-vizinhos",
@@ -3000,6 +2963,7 @@
   "https://www.pciconcursos.com.br/noticias/prefeitura-de-itupeva-sp-abre-concurso-com-salarios-de-ate-13289": "2026-12-27",
   "https://www.pciconcursos.com.br/noticias/prefeitura-de-tijucas-sc-abre-concursos-publicos-com-salarios-de-ate-9941": "2027-01-05",
   "https://www.pciconcursos.com.br/noticias/prefeitura-de-vila-bela-da-santissima-trindade-mt-abre-selecao-com-vagas-imediatas-e-cadastro-de-reserva": "2026-12-03",
+  "https://www.pciconcursos.com.br/noticias/prefeitura-e-camara-de-rio-branco-mt-abrem-concurso-com-58-vagas-e-cadastro-reserva": "2027-01-07",
   "https://www.pciconcursos.com.br/noticias/unemat-mt-abre-processo-seletivo-para-professores-da-educacao-superior-em-tres-municipios": "2026-12-07",
   "https://www.pciconcursos.com.br/noticias/unesp-abre-quatro-concursos-publicos-para-professores-substitutos-em-presidente-prudente-sp": "2026-11-30",
   "https://www.pciconcursos.com.br/noticias/unilab-ce-abre-concurso-publico-com-vagas-para-professores-do-magisterio-superior": "2026-12-09",
@@ -3019,10 +2983,12 @@
   "cis-itu-sp-abre-concurso-publico-com-salarios-de-ate-7553": "2026-12-07",
   "cofen-df-abre-concurso-publico-com-salarios-de-18950-para-diversos-cargos-de-nivel-superior": "2027-01-11",
   "coren-sp-abre-concurso-com-76-vagas-e-salarios-de-ate-10692": "2027-01-11",
+  "crf-mg-abre-concurso-para-profissionais-de-diversas-areas": "2026-12-21",
   "cro-pr-abre-concurso-publico-com-12-vagas-e-salarios-de-ate-14318": "2026-12-29",
   "crp-05-rj-abre-concurso-publico-com-salarios-de-ate-7313": "2026-12-17",
   "dpdf-abre-concurso-publico-para-analista-de-apoio-a-assistencia-judiciaria": "2027-01-07",
   "dpe-am-abre-concurso-publico-com-salarios-de-ate-8006": "2027-01-04",
+  "famesp-sp-abre-processos-seletivos-para-cargos-de-nivel-superior-com-ganhos-de-12-1-mil": "2026-12-08",
   "fundacao-escola-tecnica-liberato-salzano-vieira-da-cunha-rs-abre-concurso-publico-para-diversos-cargos": "2026-12-08",
   "furg-rs-abre-processo-seletivo-para-13-vagas-de-professor-substituto": "2026-12-07",
   "ifes-es-abre-processo-seletivo-para-professor-substituto-em-montanha": "2026-12-01",
@@ -3055,7 +3021,6 @@
   "prefeitura-de-boa-viagem-ce-abre-concurso-publico-com-vagas-para-diversas-areas-de-atuacao": "2026-12-07",
   "prefeitura-de-campos-do-jordao-sp-abre-selecao-na-educacao-com-salarios-de-ate-8172": "2026-12-25",
   "prefeitura-de-candido-rodrigues-sp-abre-concurso-publico-com-salarios-de-ate-8862": "2026-12-04",
-  "prefeitura-de-canto-do-buriti-pi-retifica-edital-de-concurso-publico": "2026-11-26",
   "prefeitura-de-chapadao-do-lageado-sc-abre-processo-seletivo-com-salarios-de-ate-21291": "2026-12-23",
   "prefeitura-de-cocal-do-sul-sc-abre-processo-seletivo-para-a-secretaria-de-educacao": "2026-11-30",
   "prefeitura-de-contagem-mg-retifica-edital-de-concurso-publico": "2026-12-03",
@@ -3069,7 +3034,6 @@
   "prefeitura-de-inubia-paulista-sp-abre-concurso-publico-e-processo-seletivo-para-diversos-cargos": "2026-12-16",
   "prefeitura-de-itabuna-ba-abre-processo-seletivo-para-cadastro-de-reserva-em-diversas-areas": "2026-11-27",
   "prefeitura-de-italva-rj-abre-concurso-publico-com-salarios-de-ate-12132": "2026-12-16",
-  "prefeitura-de-itupeva-sp-abre-processo-seletivo-para-professores": "2026-11-26",
   "prefeitura-de-jandira-sp-abre-concurso-publico-com-salarios-de-ate-6812": "2027-01-04",
   "prefeitura-de-leme-sp-abre-concurso-publico-com-salarios-de-ate-13359": "2026-11-30",
   "prefeitura-de-luislandia-mg-abre-concurso-publico-com-vagas-em-diversas-areas": "2027-01-06",
@@ -3095,6 +3059,7 @@
   "prefeitura-de-santana-dos-montes-mg-abre-concurso-publico-com-salarios-de-ate-20418": "2027-01-21",
   "prefeitura-de-sao-carlos-sc-abre-processos-seletivos-para-cadastro-de-reserva": "2026-11-30",
   "prefeitura-de-sao-jose-do-divino-mg-abre-concurso-publico-para-diversos-cargos": "2027-02-10",
+  "prefeitura-de-sao-jose-do-inhacora-rs-abre-concurso-para-diversos-niveis-de-escolaridade": "2026-11-30",
   "prefeitura-de-sede-nova-rs-abre-concurso-publico-e-processo-seletivo-com-diversas-vagas": "2026-12-18",
   "prefeitura-de-serra-grande-pb-retifica-concurso-publico-com-vagas-para-diversos-cargos": "2026-11-29",
   "prefeitura-de-teodoro-sampaio-sp-abre-processos-seletivos-para-cadastro-reserva": "2026-11-29",
@@ -3102,11 +3067,9 @@
   "prefeitura-e-camara-de-faina-go-reabrem-concurso-publico-com-diversas-vagas": "2026-12-03",
   "saa-ms-abre-processo-seletivo-com-salarios-de-ate-10354": "2026-12-14",
   "sead-ma-abre-concurso-publico-com-salarios-de-ate-14950": "2027-01-29",
-  "seciteci-mt-retifica-edital-de-processo-seletivo-para-formacao-de-cadastro-de-reserva": "2026-11-26",
   "setec-campinas-sp-abre-concurso-publico-com-salarios-de-ate-10428": "2026-12-04",
   "sp-aguas-sp-abre-concurso-publico-com-salarios-de-ate-12070": "2026-12-17",
   "tce-es-abre-processo-seletivo-com-vagas-na-area-de-tecnologia": "2026-12-18",
-  "uemg-mg-abre-processo-seletivo-para-professores-de-educacao-superior": "2026-11-26",
   "uerj-abre-concurso-publico-para-professor-adjunto-de-ciencia-da-computacao": "2027-01-31",
   "ufabc-sp-abre-concurso-publico-para-professores": "2027-01-28",
   "ufj-go-abre-concurso-publico-para-professores-do-magisterio-superior": "2026-11-27",
@@ -3118,8 +3081,8 @@
   "unesp-sp-abre-concurso-para-professor-titular-no-instituto-de-ciencia-e-tecnologia-de-sorocaba": "2027-01-08",
   "unesp-sp-abre-concursos-para-professor-substituto-em-aracatuba": "2026-12-14",
   "unicamp-sp-abre-concurso-para-professor-doutor-na-area-de-engenharia-eletrica-e-computacao": "2026-12-02",
-  "unifei-mg-abre-concurso-publico-para-professores-do-magisterio-superior": "2026-11-26",
   "usp-sp-abre-concurso-publico-para-o-cargo-de-professor-titular-na-area-de-sistemas-de-computacao": "2027-01-08",
+  "usp-sp-abre-concurso-publico-para-professor-doutor-em-sistemas-de-informacao": "2027-01-11",
   "utfpr-abre-processo-seletivo-para-professores-substitutos-no-campus-dois-vizinhos": "2026-12-20"
  }
 }
